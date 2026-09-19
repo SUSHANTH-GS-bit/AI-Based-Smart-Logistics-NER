@@ -1,0 +1,851 @@
+[
+  {
+    "alert_id": "ALT-0001",
+    "segment_id": "SEG-0012",
+    "district_id": "D-AS-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T05:10:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "as"
+    ],
+    "messages": {
+      "en": "Route NH-6 between Guwahati and Nongpoh is restricted. Estimated delay 37 minutes. Use alternate route.",
+      "as": "Guwahati আৰু Nongpoh ৰ মাজৰ NH-6 পথ restricted। আনুমানিক পলম 37 মিনিট। বিকল্প পথ ব্যৱহাৰ কৰক।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0002",
+    "segment_id": "SEG-0013",
+    "district_id": "D-ML-01",
+    "alert_type": "high_risk_route",
+    "severity": "high",
+    "issued_at": "2026-09-16T17:20:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "kha"
+    ],
+    "messages": {
+      "en": "Route NH-6 between Nongpoh and Shillong is restricted. Estimated delay 51 minutes. Use alternate route.",
+      "kha": "Ka lynti NH-6 hapdeng Nongpoh bad Shillong ka long restricted. Ka por bakla 51 minit."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0003",
+    "segment_id": "SEG-0014",
+    "district_id": "D-ML-01",
+    "alert_type": "road_blocked",
+    "severity": "critical",
+    "issued_at": "2026-09-16T13:50:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "kha"
+    ],
+    "messages": {
+      "en": "Route NH-6 between Shillong and Jowai is blocked. Estimated delay 181 minutes. Use alternate route.",
+      "kha": "Ka lynti NH-6 hapdeng Shillong bad Jowai ka long blocked. Ka por bakla 181 minit."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0004",
+    "segment_id": "SEG-0015",
+    "district_id": "D-ML-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T09:20:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "kha"
+    ],
+    "messages": {
+      "en": "Route NH-6 between Jowai and Badarpur is open. Estimated delay 0 minutes. Use alternate route.",
+      "kha": "Ka lynti NH-6 hapdeng Jowai bad Badarpur ka long open. Ka por bakla 0 minit."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0005",
+    "segment_id": "SEG-0021",
+    "district_id": "D-NL-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T15:50:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "nag"
+    ],
+    "messages": {
+      "en": "Route NH-2 between Dimapur and Kohima is open. Estimated delay 0 minutes. Use alternate route.",
+      "nag": "Dimapur aru Kohima majot NH-2 rasta open ase. Deri 0 minute hobo. Dusra rasta lagai."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0006",
+    "segment_id": "SEG-0022",
+    "district_id": "D-NL-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T05:10:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "nag"
+    ],
+    "messages": {
+      "en": "Route NH-2 between Kohima and Mao Gate is restricted. Estimated delay 43 minutes. Use alternate route.",
+      "nag": "Kohima aru Mao Gate majot NH-2 rasta restricted ase. Deri 43 minute hobo. Dusra rasta lagai."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0007",
+    "segment_id": "SEG-0023",
+    "district_id": "D-MN-05",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T09:30:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-2 between Mao Gate and Senapati is open. Estimated delay 0 minutes. Use alternate route.",
+      "mni": "Mao Gate amasung Senapati gi marakta leiba NH-2 lambi asi open ni. Delay 0 minute."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0008",
+    "segment_id": "SEG-0025",
+    "district_id": "D-NL-01",
+    "alert_type": "road_blocked",
+    "severity": "critical",
+    "issued_at": "2026-09-16T10:10:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "nag"
+    ],
+    "messages": {
+      "en": "Route NH-29 between Kohima and Wokha is blocked. Estimated delay 737 minutes. Use alternate route.",
+      "nag": "Kohima aru Wokha majot NH-29 rasta blocked ase. Deri 737 minute hobo. Dusra rasta lagai."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0009",
+    "segment_id": "SEG-0026",
+    "district_id": "D-NL-04",
+    "alert_type": "high_risk_route",
+    "severity": "high",
+    "issued_at": "2026-09-16T15:20:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "nag"
+    ],
+    "messages": {
+      "en": "Route NH-29 between Wokha and Mokokchung is restricted. Estimated delay 28 minutes. Use alternate route.",
+      "nag": "Wokha aru Mokokchung majot NH-29 rasta restricted ase. Deri 28 minute hobo. Dusra rasta lagai."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0010",
+    "segment_id": "SEG-0027",
+    "district_id": "D-NL-03",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T08:50:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "nag"
+    ],
+    "messages": {
+      "en": "Route NH-29 between Mokokchung and Tuensang is open. Estimated delay 0 minutes. Use alternate route.",
+      "nag": "Mokokchung aru Tuensang majot NH-29 rasta open ase. Deri 0 minute hobo. Dusra rasta lagai."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0011",
+    "segment_id": "SEG-0028",
+    "district_id": "D-MN-01",
+    "alert_type": "high_risk_route",
+    "severity": "high",
+    "issued_at": "2026-09-16T09:00:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-37 between Imphal and Tamenglong is restricted. Estimated delay 96 minutes. Use alternate route.",
+      "mni": "Imphal amasung Tamenglong gi marakta leiba NH-37 lambi asi restricted ni. Delay 96 minute."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0012",
+    "segment_id": "SEG-0029",
+    "district_id": "D-MN-04",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T09:00:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-37 between Tamenglong and Jiribam is restricted. Estimated delay 91 minutes. Use alternate route.",
+      "mni": "Tamenglong amasung Jiribam gi marakta leiba NH-37 lambi asi restricted ni. Delay 91 minute."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0013",
+    "segment_id": "SEG-0030",
+    "district_id": "D-MN-04",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T19:30:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-37 between Jiribam and Silchar is open. Estimated delay 0 minutes. Use alternate route.",
+      "mni": "Jiribam amasung Silchar gi marakta leiba NH-37 lambi asi open ni. Delay 0 minute."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0014",
+    "segment_id": "SEG-0031",
+    "district_id": "D-MN-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T14:40:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-2-S between Churachandpur and Imphal is open. Estimated delay 0 minutes. Use alternate route.",
+      "mni": "Churachandpur amasung Imphal gi marakta leiba NH-2-S lambi asi open ni. Delay 0 minute."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0015",
+    "segment_id": "SEG-0032",
+    "district_id": "D-MN-01",
+    "alert_type": "high_risk_route",
+    "severity": "high",
+    "issued_at": "2026-09-16T05:30:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "mni"
+    ],
+    "messages": {
+      "en": "Route NH-2-S between Imphal and Ukhrul is restricted. Estimated delay 100 minutes. Use alternate route.",
+      "mni": "Imphal amasung Ukhrul gi marakta leiba NH-2-S lambi asi restricted ni. Delay 100 minute."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0016",
+    "segment_id": "SEG-0033",
+    "district_id": "D-AS-06",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T06:20:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "as"
+    ],
+    "messages": {
+      "en": "Route NH-306 between Silchar and Kolasib is open. Estimated delay 0 minutes. Use alternate route.",
+      "as": "Silchar আৰু Kolasib ৰ মাজৰ NH-306 পথ open। আনুমানিক পলম 0 মিনিট। বিকল্প পথ ব্যৱহাৰ কৰক।"
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0017",
+    "segment_id": "SEG-0034",
+    "district_id": "D-MZ-04",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T06:50:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "lus"
+    ],
+    "messages": {
+      "en": "Route NH-306 between Kolasib and Aizawl is open. Estimated delay 0 minutes. Use alternate route.",
+      "lus": "Kolasib leh Aizawl inkar NH-306 kawng chu open a ni. Hun hlawhtling 0 minute. Kawng dang hmang rawh."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0018",
+    "segment_id": "SEG-0035",
+    "district_id": "D-MZ-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T17:30:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "lus"
+    ],
+    "messages": {
+      "en": "Route NH-306 between Aizawl and Serchhip is restricted. Estimated delay 34 minutes. Use alternate route.",
+      "lus": "Aizawl leh Serchhip inkar NH-306 kawng chu restricted a ni. Hun hlawhtling 34 minute. Kawng dang hmang rawh."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0019",
+    "segment_id": "SEG-0036",
+    "district_id": "D-MZ-05",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T06:50:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "lus"
+    ],
+    "messages": {
+      "en": "Route NH-306 between Serchhip and Lunglei is open. Estimated delay 0 minutes. Use alternate route.",
+      "lus": "Serchhip leh Lunglei inkar NH-306 kawng chu open a ni. Hun hlawhtling 0 minute. Kawng dang hmang rawh."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0020",
+    "segment_id": "SEG-0037",
+    "district_id": "D-MZ-01",
+    "alert_type": "high_risk_route",
+    "severity": "high",
+    "issued_at": "2026-09-16T14:40:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "lus"
+    ],
+    "messages": {
+      "en": "Route NH-302 between Aizawl and Champhai is restricted. Estimated delay 63 minutes. Use alternate route.",
+      "lus": "Aizawl leh Champhai inkar NH-302 kawng chu restricted a ni. Hun hlawhtling 63 minute. Kawng dang hmang rawh."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0021",
+    "segment_id": "SEG-0043",
+    "district_id": "D-TR-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T13:50:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "messages": {
+      "en": "Route NH-8 between Dharmanagar and Churaibari is open. Estimated delay 0 minutes. Use alternate route.",
+      "bn": "Dharmanagar এবং Churaibari এর মধ্যে NH-8 সড়কটি open। আনুমানিক বিলম্ব 0 মিনিট। বিকল্প পথ ব্যবহার করুন।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0022",
+    "segment_id": "SEG-0046",
+    "district_id": "D-WB-01",
+    "alert_type": "road_blocked",
+    "severity": "critical",
+    "issued_at": "2026-09-16T14:40:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "bn"
+    ],
+    "messages": {
+      "en": "Route NH-10 between Siliguri and Rangpo is blocked. Estimated delay 888 minutes. Use alternate route.",
+      "bn": "Siliguri এবং Rangpo এর মধ্যে NH-10 সড়কটি blocked। আনুমানিক বিলম্ব 888 মিনিট। বিকল্প পথ ব্যবহার করুন।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0023",
+    "segment_id": "SEG-0047",
+    "district_id": "D-SK-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T13:50:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-10 between Rangpo and Singtam is restricted. Estimated delay 32 minutes. Use alternate route.",
+      "ne": "Rangpo र Singtam बीचको NH-10 मार्ग restricted छ। अनुमानित ढिलाइ 32 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0024",
+    "segment_id": "SEG-0048",
+    "district_id": "D-SK-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T19:30:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-10 between Singtam and Gangtok is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Singtam र Gangtok बीचको NH-10 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0025",
+    "segment_id": "SEG-0049",
+    "district_id": "D-SK-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T19:00:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-310 between Gangtok and Mangan is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Gangtok र Mangan बीचको NH-310 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0026",
+    "segment_id": "SEG-0050",
+    "district_id": "D-SK-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T10:30:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-310 between Mangan and Chungthang is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Mangan र Chungthang बीचको NH-310 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0027",
+    "segment_id": "SEG-0051",
+    "district_id": "D-SK-02",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T10:40:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-310 between Chungthang and Lachung is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Chungthang र Lachung बीचको NH-310 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0028",
+    "segment_id": "SEG-0052",
+    "district_id": "D-SK-01",
+    "alert_type": "road_blocked",
+    "severity": "critical",
+    "issued_at": "2026-09-16T10:30:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-510 between Gangtok and Jorethang is blocked. Estimated delay 900 minutes. Use alternate route.",
+      "ne": "Gangtok र Jorethang बीचको NH-510 मार्ग blocked छ। अनुमानित ढिलाइ 900 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0029",
+    "segment_id": "SEG-0054",
+    "district_id": "D-SK-03",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T13:50:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-510 between Namchi and Gyalshing is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Namchi र Gyalshing बीचको NH-510 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0030",
+    "segment_id": "SEG-0055",
+    "district_id": "D-SK-04",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T09:30:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "ne"
+    ],
+    "messages": {
+      "en": "Route NH-510 between Gyalshing and Yuksom is open. Estimated delay 0 minutes. Use alternate route.",
+      "ne": "Gyalshing र Yuksom बीचको NH-510 मार्ग open छ। अनुमानित ढिलाइ 0 मिनेट। वैकल्पिक मार्ग प्रयोग गर्नुहोस्।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0031",
+    "segment_id": "SEG-0058",
+    "district_id": "D-AR-01",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T18:50:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-13 between Itanagar and Ziro is open. Estimated delay 0 minutes. Use alternate route."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0032",
+    "segment_id": "SEG-0059",
+    "district_id": "D-AR-04",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T06:10:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-13 between Ziro and Daporijo is open. Estimated delay 0 minutes. Use alternate route."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0033",
+    "segment_id": "SEG-0060",
+    "district_id": "D-AR-06",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T09:50:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-13 between Daporijo and Aalo is restricted. Estimated delay 83 minutes. Use alternate route."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0034",
+    "segment_id": "SEG-0062",
+    "district_id": "D-AS-09",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T17:30:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "as"
+    ],
+    "messages": {
+      "en": "Route NH-13-W between Tezpur and Bhalukpong is restricted. Estimated delay 108 minutes. Use alternate route.",
+      "as": "Tezpur আৰু Bhalukpong ৰ মাজৰ NH-13-W পথ restricted। আনুমানিক পলম 108 মিনিট। বিকল্প পথ ব্যৱহাৰ কৰক।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0035",
+    "segment_id": "SEG-0064",
+    "district_id": "D-AR-03",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T16:10:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-13-W between Bomdila and Tawang is open. Estimated delay 0 minutes. Use alternate route."
+    },
+    "acknowledged": true
+  },
+  {
+    "alert_id": "ALT-0036",
+    "segment_id": "SEG-0065",
+    "district_id": "D-AR-05",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T11:10:00",
+    "expires_at": "2026-09-17T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-315 between Pasighat and Roing is restricted. Estimated delay 55 minutes. Use alternate route."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0037",
+    "segment_id": "SEG-0066",
+    "district_id": "D-AR-09",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T12:10:00",
+    "expires_at": "2026-09-18T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "en"
+    ],
+    "messages": {
+      "en": "Route NH-315 between Roing and Tezu is open. Estimated delay 0 minutes. Use alternate route."
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0038",
+    "segment_id": "SEG-0068",
+    "district_id": "D-AS-08",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T10:10:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push",
+      "sms",
+      "ivr"
+    ],
+    "languages": [
+      "en",
+      "as"
+    ],
+    "messages": {
+      "en": "Route NH-27-DH between Lumding and Haflong is open. Estimated delay 0 minutes. Use alternate route.",
+      "as": "Lumding আৰু Haflong ৰ মাজৰ NH-27-DH পথ open। আনুমানিক পলম 0 মিনিট। বিকল্প পথ ব্যৱহাৰ কৰক।"
+    },
+    "acknowledged": false
+  },
+  {
+    "alert_id": "ALT-0039",
+    "segment_id": "SEG-0069",
+    "district_id": "D-AS-07",
+    "alert_type": "high_risk_route",
+    "severity": "medium",
+    "issued_at": "2026-09-16T16:30:00",
+    "expires_at": "2026-09-19T00:00:00",
+    "channels": [
+      "push"
+    ],
+    "languages": [
+      "en",
+      "as"
+    ],
+    "messages": {
+      "en": "Route NH-27-DH between Haflong and Silchar is open. Estimated delay 0 minutes. Use alternate route.",
+      "as": "Haflong আৰু Silchar ৰ মাজৰ NH-27-DH পথ open। আনুমানিক পলম 0 মিনিট। বিকল্প পথ ব্যৱহাৰ কৰক।"
+    },
+    "acknowledged": false
+  }
+]

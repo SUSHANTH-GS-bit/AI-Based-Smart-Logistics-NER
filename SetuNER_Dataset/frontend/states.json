@@ -1,0 +1,47 @@
+[
+  {
+    "code": "AS",
+    "name": "Assam",
+    "capital": "Dispur"
+  },
+  {
+    "code": "AR",
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar"
+  },
+  {
+    "code": "MN",
+    "name": "Manipur",
+    "capital": "Imphal"
+  },
+  {
+    "code": "ML",
+    "name": "Meghalaya",
+    "capital": "Shillong"
+  },
+  {
+    "code": "MZ",
+    "name": "Mizoram",
+    "capital": "Aizawl"
+  },
+  {
+    "code": "NL",
+    "name": "Nagaland",
+    "capital": "Kohima"
+  },
+  {
+    "code": "TR",
+    "name": "Tripura",
+    "capital": "Agartala"
+  },
+  {
+    "code": "SK",
+    "name": "Sikkim",
+    "capital": "Gangtok"
+  },
+  {
+    "code": "WB",
+    "name": "West Bengal",
+    "capital": "Kolkata"
+  }
+]

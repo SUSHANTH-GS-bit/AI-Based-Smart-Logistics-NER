@@ -1,0 +1,2916 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3953,
+            26.7271
+          ],
+          [
+            89.46105,
+            26.56875
+          ],
+          [
+            90.5583,
+            26.4769
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0001",
+        "segment_id": "SEG-0001",
+        "district_id": "D-WB-01",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2231,
+        "slope_factor": 0.093,
+        "relief_factor": 0.029,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.467,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 0.0,
+        "historic_event_count": 0,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Siliguri",
+        "to_name": "Bongaigaon",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.5583,
+            26.4769
+          ],
+          [
+            90.75274,
+            26.4269
+          ],
+          [
+            91.005,
+            26.322
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0002",
+        "segment_id": "SEG-0002",
+        "district_id": "D-AS-10",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2701,
+        "slope_factor": 0.098,
+        "relief_factor": 0.018,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.021,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Bongaigaon",
+        "to_name": "Barpeta Road",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.005,
+            26.322
+          ],
+          [
+            91.19011,
+            26.38362
+          ],
+          [
+            91.4415,
+            26.4445
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0003",
+        "segment_id": "SEG-0003",
+        "district_id": "D-AS-10",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2534,
+        "slope_factor": 0.047,
+        "relief_factor": 0.018,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.524,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0,
+        "historic_event_count": 0,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Barpeta Road",
+        "to_name": "Nalbari",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4415,
+            26.4445
+          ],
+          [
+            91.5951,
+            26.27493
+          ],
+          [
+            91.7362,
+            26.1445
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0004",
+        "segment_id": "SEG-0004",
+        "district_id": "D-AS-01",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2316,
+        "slope_factor": 0.082,
+        "relief_factor": 0.018,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.491,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.1125,
+        "historic_event_count": 5,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Nalbari",
+        "to_name": "Guwahati",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            92.2421,
+            26.22133
+          ],
+          [
+            92.684,
+            26.3464
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0005",
+        "segment_id": "SEG-0005",
+        "district_id": "D-AS-01",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2605,
+        "slope_factor": 0.06,
+        "relief_factor": 0.019,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0206,
+        "historic_event_count": 2,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Guwahati",
+        "to_name": "Nagaon",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.684,
+            26.3464
+          ],
+          [
+            92.74926,
+            26.51442
+          ],
+          [
+            92.8,
+            26.6338
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0006",
+        "segment_id": "SEG-0006",
+        "district_id": "D-AS-02",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.268,
+        "slope_factor": 0.033,
+        "relief_factor": 0.023,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.718,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0294,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Nagaon",
+        "to_name": "Tezpur",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            93.35052,
+            26.60146
+          ],
+          [
+            93.96,
+            26.51
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0007",
+        "segment_id": "SEG-0007",
+        "district_id": "D-AS-09",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2537,
+        "slope_factor": 0.036,
+        "relief_factor": 0.028,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.549,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0,
+        "historic_event_count": 0,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tezpur",
+        "to_name": "Golaghat",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.96,
+            26.51
+          ],
+          [
+            94.09617,
+            26.63586
+          ],
+          [
+            94.2037,
+            26.7509
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0008",
+        "segment_id": "SEG-0008",
+        "district_id": "D-AS-03",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3133,
+        "slope_factor": 0.118,
+        "relief_factor": 0.03,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0277,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Golaghat",
+        "to_name": "Jorhat",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.2037,
+            26.7509
+          ],
+          [
+            94.40215,
+            26.83854
+          ],
+          [
+            94.638,
+            26.985
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0009",
+        "segment_id": "SEG-0009",
+        "district_id": "D-AS-03",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2614,
+        "slope_factor": 0.053,
+        "relief_factor": 0.031,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0397,
+        "historic_event_count": 2,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Jorhat",
+        "to_name": "Sivasagar",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.638,
+            26.985
+          ],
+          [
+            94.76591,
+            27.21944
+          ],
+          [
+            94.912,
+            27.4728
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0010",
+        "segment_id": "SEG-0010",
+        "district_id": "D-AS-11",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3066,
+        "slope_factor": 0.093,
+        "relief_factor": 0.034,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0165,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Sivasagar",
+        "to_name": "Dibrugarh",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.912,
+            27.4728
+          ],
+          [
+            95.13704,
+            27.49286
+          ],
+          [
+            95.3468,
+            27.4922
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0011",
+        "segment_id": "SEG-0011",
+        "district_id": "D-AS-04",
+        "highway_code": "NH-27",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2769,
+        "slope_factor": 0.127,
+        "relief_factor": 0.037,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.471,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0698,
+        "historic_event_count": 3,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Dibrugarh",
+        "to_name": "Tinsukia",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.84237,
+            26.01381
+          ],
+          [
+            91.88,
+            25.9
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0012",
+        "segment_id": "SEG-0012",
+        "district_id": "D-AS-01",
+        "highway_code": "NH-6",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5759,
+        "slope_factor": 0.524,
+        "relief_factor": 0.258,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.092,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 1.5285,
+        "historic_event_count": 47,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Guwahati",
+        "to_name": "Nongpoh",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.88,
+            25.9
+          ],
+          [
+            91.8539,
+            25.72043
+          ],
+          [
+            91.8933,
+            25.5788
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0013",
+        "segment_id": "SEG-0013",
+        "district_id": "D-ML-01",
+        "highway_code": "NH-6",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7998,
+        "slope_factor": 0.824,
+        "relief_factor": 0.499,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.27,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 1.0,
+        "historic_density_per_km": 6.2115,
+        "historic_event_count": 222,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Nongpoh",
+        "to_name": "Shillong",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8933,
+            25.5788
+          ],
+          [
+            92.073,
+            25.5454
+          ],
+          [
+            92.2,
+            25.45
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0014",
+        "segment_id": "SEG-0014",
+        "district_id": "D-ML-01",
+        "highway_code": "NH-6",
+        "susceptibility_class": "high",
+        "lsi_score": 0.671,
+        "slope_factor": 0.547,
+        "relief_factor": 0.479,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.117,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 1.0,
+        "historic_density_per_km": 3.7408,
+        "historic_event_count": 127,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Shillong",
+        "to_name": "Jowai",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.2,
+            25.45
+          ],
+          [
+            92.39212,
+            25.18887
+          ],
+          [
+            92.59,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0015",
+        "segment_id": "SEG-0015",
+        "district_id": "D-ML-02",
+        "highway_code": "NH-6",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6753,
+        "slope_factor": 0.638,
+        "relief_factor": 0.234,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.29,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 1.0,
+        "historic_density_per_km": 1.4431,
+        "historic_event_count": 109,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Jowai",
+        "to_name": "Badarpur",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.59,
+            24.8697
+          ],
+          [
+            92.69037,
+            24.83489
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0016",
+        "segment_id": "SEG-0016",
+        "district_id": "D-AS-12",
+        "highway_code": "NH-6",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2584,
+        "slope_factor": 0.084,
+        "relief_factor": 0.008,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.886,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0513,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Badarpur",
+        "to_name": "Silchar",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.176,
+            26.13028
+          ],
+          [
+            90.6167,
+            26.1667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0017",
+        "segment_id": "SEG-0017",
+        "district_id": "D-AS-01",
+        "highway_code": "NH-27-SPUR",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2804,
+        "slope_factor": 0.133,
+        "relief_factor": 0.018,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0358,
+        "historic_event_count": 4,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Guwahati",
+        "to_name": "Goalpara",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.6167,
+            26.1667
+          ],
+          [
+            90.4164,
+            25.85308
+          ],
+          [
+            90.2026,
+            25.5142
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0018",
+        "segment_id": "SEG-0018",
+        "district_id": "D-AS-10",
+        "highway_code": "NH-27-SPUR",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.3867,
+        "slope_factor": 0.227,
+        "relief_factor": 0.046,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.128,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.2513,
+        "historic_event_count": 21,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Goalpara",
+        "to_name": "Tura",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.2026,
+            25.5142
+          ],
+          [
+            90.41503,
+            25.4847
+          ],
+          [
+            90.62,
+            25.49
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0019",
+        "segment_id": "SEG-0019",
+        "district_id": "D-ML-03",
+        "highway_code": "NH-27-SPUR",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4436,
+        "slope_factor": 0.324,
+        "relief_factor": 0.112,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.113,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 1.0,
+        "historic_density_per_km": 0.8814,
+        "historic_event_count": 37,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tura",
+        "to_name": "Williamnagar",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.62,
+            25.49
+          ],
+          [
+            90.63487,
+            25.32368
+          ],
+          [
+            90.63,
+            25.19
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0020",
+        "segment_id": "SEG-0020",
+        "district_id": "D-ML-04",
+        "highway_code": "NH-27-SPUR",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4853,
+        "slope_factor": 0.344,
+        "relief_factor": 0.15,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.173,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 1.0,
+        "historic_density_per_km": 0.7492,
+        "historic_event_count": 25,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Williamnagar",
+        "to_name": "Baghmara",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.7276,
+            25.9063
+          ],
+          [
+            93.94441,
+            25.82247
+          ],
+          [
+            94.1086,
+            25.6751
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0021",
+        "segment_id": "SEG-0021",
+        "district_id": "D-NL-02",
+        "highway_code": "NH-2",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5592,
+        "slope_factor": 0.667,
+        "relief_factor": 0.265,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.149,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.55,
+        "historic_density_per_km": 0.7826,
+        "historic_event_count": 36,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Dimapur",
+        "to_name": "Kohima",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.1086,
+            25.6751
+          ],
+          [
+            94.13822,
+            25.59632
+          ],
+          [
+            94.12,
+            25.5
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0022",
+        "segment_id": "SEG-0022",
+        "district_id": "D-NL-01",
+        "highway_code": "NH-2",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5848,
+        "slope_factor": 0.496,
+        "relief_factor": 0.417,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.199,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.55,
+        "historic_density_per_km": 1.641,
+        "historic_event_count": 32,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Kohima",
+        "to_name": "Mao Gate",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.12,
+            25.5
+          ],
+          [
+            94.09957,
+            25.41674
+          ],
+          [
+            94.02,
+            25.27
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0023",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "highway_code": "NH-2",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.546,
+        "slope_factor": 0.524,
+        "relief_factor": 0.354,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.155,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 1.0917,
+        "historic_event_count": 30,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Mao Gate",
+        "to_name": "Senapati",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.02,
+            25.27
+          ],
+          [
+            94.01237,
+            25.03391
+          ],
+          [
+            93.9368,
+            24.817
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0024",
+        "segment_id": "SEG-0024",
+        "district_id": "D-MN-05",
+        "highway_code": "NH-2",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5596,
+        "slope_factor": 0.5,
+        "relief_factor": 0.308,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.927,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 0.5484,
+        "historic_event_count": 28,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Senapati",
+        "to_name": "Imphal",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.1086,
+            25.6751
+          ],
+          [
+            94.1553,
+            25.91634
+          ],
+          [
+            94.26,
+            26.095
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0025",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "highway_code": "NH-29",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6173,
+        "slope_factor": 0.873,
+        "relief_factor": 0.459,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.08,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.55,
+        "historic_density_per_km": 1.1204,
+        "historic_event_count": 55,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Kohima",
+        "to_name": "Wokha",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.26,
+            26.095
+          ],
+          [
+            94.39868,
+            26.1823
+          ],
+          [
+            94.515,
+            26.322
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0026",
+        "segment_id": "SEG-0026",
+        "district_id": "D-NL-04",
+        "highway_code": "NH-29",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6286,
+        "slope_factor": 0.704,
+        "relief_factor": 0.44,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.144,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.55,
+        "historic_density_per_km": 1.3672,
+        "historic_event_count": 49,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Wokha",
+        "to_name": "Mokokchung",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.515,
+            26.322
+          ],
+          [
+            94.70252,
+            26.33351
+          ],
+          [
+            94.83,
+            26.28
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0027",
+        "segment_id": "SEG-0027",
+        "district_id": "D-NL-03",
+        "highway_code": "NH-29",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6513,
+        "slope_factor": 0.74,
+        "relief_factor": 0.449,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.187,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.55,
+        "historic_density_per_km": 1.5118,
+        "historic_event_count": 48,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Mokokchung",
+        "to_name": "Tuensang",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9368,
+            24.817
+          ],
+          [
+            93.75137,
+            24.88964
+          ],
+          [
+            93.51,
+            24.98
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0028",
+        "segment_id": "SEG-0028",
+        "district_id": "D-MN-01",
+        "highway_code": "NH-37",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5668,
+        "slope_factor": 0.773,
+        "relief_factor": 0.341,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.289,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 0.8349,
+        "historic_event_count": 39,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Imphal",
+        "to_name": "Tamenglong",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.51,
+            24.98
+          ],
+          [
+            93.31877,
+            24.85647
+          ],
+          [
+            93.12,
+            24.8
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0029",
+        "segment_id": "SEG-0029",
+        "district_id": "D-MN-04",
+        "highway_code": "NH-37",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.5237,
+        "slope_factor": 0.476,
+        "relief_factor": 0.42,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.805,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 0.589,
+        "historic_event_count": 26,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tamenglong",
+        "to_name": "Jiribam",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.12,
+            24.8
+          ],
+          [
+            92.97783,
+            24.79768
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0030",
+        "segment_id": "SEG-0030",
+        "district_id": "D-MN-04",
+        "highway_code": "NH-37",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.5294,
+        "slope_factor": 0.753,
+        "relief_factor": 0.214,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.147,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 0.751,
+        "historic_event_count": 26,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Jiribam",
+        "to_name": "Silchar",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6833,
+            24.3333
+          ],
+          [
+            93.8128,
+            24.57413
+          ],
+          [
+            93.9368,
+            24.817
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0031",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "highway_code": "NH-2-S",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.516,
+        "slope_factor": 0.58,
+        "relief_factor": 0.283,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.098,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 0.621,
+        "historic_event_count": 37,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Churachandpur",
+        "to_name": "Imphal",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9368,
+            24.817
+          ],
+          [
+            94.12354,
+            24.91183
+          ],
+          [
+            94.3667,
+            25.05
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0032",
+        "segment_id": "SEG-0032",
+        "district_id": "D-MN-01",
+        "highway_code": "NH-2-S",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6374,
+        "slope_factor": 0.84,
+        "relief_factor": 0.408,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.177,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.5,
+        "historic_density_per_km": 1.1089,
+        "historic_event_count": 56,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Imphal",
+        "to_name": "Ukhrul",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7789,
+            24.8333
+          ],
+          [
+            92.74159,
+            24.54269
+          ],
+          [
+            92.68,
+            24.22
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0033",
+        "segment_id": "SEG-0033",
+        "district_id": "D-AS-06",
+        "highway_code": "NH-306",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3399,
+        "slope_factor": 0.322,
+        "relief_factor": 0.112,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.185,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.1596,
+        "historic_event_count": 11,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Silchar",
+        "to_name": "Kolasib",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.68,
+            24.22
+          ],
+          [
+            92.68121,
+            23.99887
+          ],
+          [
+            92.7176,
+            23.7271
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0034",
+        "segment_id": "SEG-0034",
+        "district_id": "D-MZ-04",
+        "highway_code": "NH-306",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6405,
+        "slope_factor": 0.611,
+        "relief_factor": 0.297,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.475,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 1.0193,
+        "historic_event_count": 56,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Kolasib",
+        "to_name": "Aizawl",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7176,
+            23.7271
+          ],
+          [
+            92.81001,
+            23.51093
+          ],
+          [
+            92.85,
+            23.3
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0035",
+        "segment_id": "SEG-0035",
+        "district_id": "D-MZ-01",
+        "highway_code": "NH-306",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6147,
+        "slope_factor": 0.533,
+        "relief_factor": 0.405,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.096,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 1.1951,
+        "historic_event_count": 59,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Aizawl",
+        "to_name": "Serchhip",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.85,
+            23.3
+          ],
+          [
+            92.80065,
+            23.06185
+          ],
+          [
+            92.73,
+            22.88
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0036",
+        "segment_id": "SEG-0036",
+        "district_id": "D-MZ-05",
+        "highway_code": "NH-306",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5956,
+        "slope_factor": 0.862,
+        "relief_factor": 0.361,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.084,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 0.8905,
+        "historic_event_count": 43,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Serchhip",
+        "to_name": "Lunglei",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7176,
+            23.7271
+          ],
+          [
+            93.02229,
+            23.57699
+          ],
+          [
+            93.329,
+            23.4736
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0037",
+        "segment_id": "SEG-0037",
+        "district_id": "D-MZ-01",
+        "highway_code": "NH-302",
+        "susceptibility_class": "high",
+        "lsi_score": 0.691,
+        "slope_factor": 0.86,
+        "relief_factor": 0.468,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.086,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 0.9652,
+        "historic_event_count": 66,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Aizawl",
+        "to_name": "Champhai",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.45,
+            23.25
+          ],
+          [
+            91.36073,
+            23.5059
+          ],
+          [
+            91.2868,
+            23.8315
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0038",
+        "segment_id": "SEG-0038",
+        "district_id": "D-TR-04",
+        "highway_code": "NH-8",
+        "susceptibility_class": "very_low",
+        "lsi_score": 0.2089,
+        "slope_factor": 0.04,
+        "relief_factor": 0.005,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.773,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 0.03,
+        "historic_event_count": 2,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Belonia",
+        "to_name": "Agartala",
+        "color": "#2c8c5e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.2868,
+            23.8315
+          ],
+          [
+            91.4473,
+            23.98378
+          ],
+          [
+            91.6,
+            24.0667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0039",
+        "segment_id": "SEG-0039",
+        "district_id": "D-TR-01",
+        "highway_code": "NH-8",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4111,
+        "slope_factor": 0.476,
+        "relief_factor": 0.012,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.366,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 0.4613,
+        "historic_event_count": 19,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Agartala",
+        "to_name": "Khowai",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.6,
+            24.0667
+          ],
+          [
+            91.7415,
+            23.96909
+          ],
+          [
+            91.85,
+            23.9333
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0040",
+        "segment_id": "SEG-0040",
+        "district_id": "D-TR-03",
+        "highway_code": "NH-8",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.3802,
+        "slope_factor": 0.244,
+        "relief_factor": 0.02,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.933,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 0.204,
+        "historic_event_count": 6,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Khowai",
+        "to_name": "Ambassa",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.85,
+            23.9333
+          ],
+          [
+            91.95804,
+            24.1252
+          ],
+          [
+            92.0167,
+            24.3167
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0041",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "highway_code": "NH-8",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3125,
+        "slope_factor": 0.36,
+        "relief_factor": 0.017,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.081,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 0.3052,
+        "historic_event_count": 14,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Ambassa",
+        "to_name": "Kailashahar",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.0167,
+            24.3167
+          ],
+          [
+            92.09835,
+            24.31971
+          ],
+          [
+            92.1667,
+            24.3667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0042",
+        "segment_id": "SEG-0042",
+        "district_id": "D-TR-02",
+        "highway_code": "NH-8",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4355,
+        "slope_factor": 0.202,
+        "relief_factor": 0.015,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.538,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 1.0507,
+        "historic_event_count": 17,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Kailashahar",
+        "to_name": "Dharmanagar",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.1667,
+            24.3667
+          ],
+          [
+            92.25497,
+            24.37559
+          ],
+          [
+            92.33,
+            24.42
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0043",
+        "segment_id": "SEG-0043",
+        "district_id": "D-TR-02",
+        "highway_code": "NH-8",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4617,
+        "slope_factor": 0.456,
+        "relief_factor": 0.011,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.117,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.45,
+        "historic_density_per_km": 0.9676,
+        "historic_event_count": 17,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Dharmanagar",
+        "to_name": "Churaibari",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.33,
+            24.42
+          ],
+          [
+            92.32785,
+            24.632
+          ],
+          [
+            92.3592,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0044",
+        "segment_id": "SEG-0044",
+        "district_id": "D-AS-12",
+        "highway_code": "NH-8",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2667,
+        "slope_factor": 0.084,
+        "relief_factor": 0.008,
+        "lithology_factor": 0.2,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.0399,
+        "historic_event_count": 2,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Churaibari",
+        "to_name": "Karimganj",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.3592,
+            24.8697
+          ],
+          [
+            92.47161,
+            24.87989
+          ],
+          [
+            92.59,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0045",
+        "segment_id": "SEG-0045",
+        "district_id": "D-AS-12",
+        "highway_code": "NH-8",
+        "susceptibility_class": "low",
+        "lsi_score": 0.2326,
+        "slope_factor": 0.038,
+        "relief_factor": 0.008,
+        "lithology_factor": 0.2,
+        "drainage_factor": 0.722,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.043,
+        "historic_event_count": 1,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Karimganj",
+        "to_name": "Badarpur",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3953,
+            26.7271
+          ],
+          [
+            88.43278,
+            26.98828
+          ],
+          [
+            88.53,
+            27.18
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0046",
+        "segment_id": "SEG-0046",
+        "district_id": "D-WB-01",
+        "highway_code": "NH-10",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7002,
+        "slope_factor": 0.933,
+        "relief_factor": 0.295,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.496,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.6,
+        "historic_density_per_km": 1.2668,
+        "historic_event_count": 66,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Siliguri",
+        "to_name": "Rangpo",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.53,
+            27.18
+          ],
+          [
+            88.4971,
+            27.17732
+          ],
+          [
+            88.5,
+            27.235
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0047",
+        "segment_id": "SEG-0047",
+        "district_id": "D-SK-01",
+        "highway_code": "NH-10",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6569,
+        "slope_factor": 0.616,
+        "relief_factor": 0.55,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.171,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 10.2941,
+        "historic_event_count": 70,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Rangpo",
+        "to_name": "Singtam",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.5,
+            27.235
+          ],
+          [
+            88.58712,
+            27.27313
+          ],
+          [
+            88.6065,
+            27.3389
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0048",
+        "segment_id": "SEG-0048",
+        "district_id": "D-SK-01",
+        "highway_code": "NH-10",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6747,
+        "slope_factor": 0.711,
+        "relief_factor": 0.55,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.083,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 3.263,
+        "historic_event_count": 51,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Singtam",
+        "to_name": "Gangtok",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.6065,
+            27.3389
+          ],
+          [
+            88.55176,
+            27.45092
+          ],
+          [
+            88.53,
+            27.51
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0049",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "highway_code": "NH-310",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6253,
+        "slope_factor": 0.496,
+        "relief_factor": 0.483,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.266,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 2.1006,
+        "historic_event_count": 43,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Gangtok",
+        "to_name": "Mangan",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.53,
+            27.51
+          ],
+          [
+            88.56425,
+            27.57023
+          ],
+          [
+            88.64,
+            27.6
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0050",
+        "segment_id": "SEG-0050",
+        "district_id": "D-SK-02",
+        "highway_code": "NH-310",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7245,
+        "slope_factor": 0.74,
+        "relief_factor": 0.417,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.286,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 5.6233,
+        "historic_event_count": 83,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Mangan",
+        "to_name": "Chungthang",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.64,
+            27.6
+          ],
+          [
+            88.7019,
+            27.61356
+          ],
+          [
+            88.745,
+            27.69
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0051",
+        "segment_id": "SEG-0051",
+        "district_id": "D-SK-02",
+        "highway_code": "NH-310",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7423,
+        "slope_factor": 0.889,
+        "relief_factor": 0.417,
+        "lithology_factor": 0.85,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 3.0577,
+        "historic_event_count": 44,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Chungthang",
+        "to_name": "Lachung",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.6065,
+            27.3389
+          ],
+          [
+            88.44659,
+            27.23405
+          ],
+          [
+            88.32,
+            27.11
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0052",
+        "segment_id": "SEG-0052",
+        "district_id": "D-SK-01",
+        "highway_code": "NH-510",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7503,
+        "slope_factor": 0.822,
+        "relief_factor": 0.554,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.136,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 2.2321,
+        "historic_event_count": 85,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Gangtok",
+        "to_name": "Jorethang",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.32,
+            27.11
+          ],
+          [
+            88.34837,
+            27.1695
+          ],
+          [
+            88.35,
+            27.1667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0053",
+        "segment_id": "SEG-0053",
+        "district_id": "D-SK-03",
+        "highway_code": "NH-510",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5856,
+        "slope_factor": 0.5,
+        "relief_factor": 0.558,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.093,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 6.8867,
+        "historic_event_count": 48,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Jorethang",
+        "to_name": "Namchi",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.35,
+            27.1667
+          ],
+          [
+            88.27892,
+            27.20372
+          ],
+          [
+            88.26,
+            27.29
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0054",
+        "segment_id": "SEG-0054",
+        "district_id": "D-SK-03",
+        "highway_code": "NH-510",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6827,
+        "slope_factor": 0.729,
+        "relief_factor": 0.576,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.086,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 2.9376,
+        "historic_event_count": 48,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Namchi",
+        "to_name": "Gyalshing",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.26,
+            27.29
+          ],
+          [
+            88.26792,
+            27.35525
+          ],
+          [
+            88.22,
+            27.37
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0055",
+        "segment_id": "SEG-0055",
+        "district_id": "D-SK-04",
+        "highway_code": "NH-510",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7143,
+        "slope_factor": 0.833,
+        "relief_factor": 0.593,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.115,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.72,
+        "historic_density_per_km": 6.5776,
+        "historic_event_count": 64,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Gyalshing",
+        "to_name": "Yuksom",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            93.22888,
+            26.86329
+          ],
+          [
+            93.6053,
+            27.0844
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0056",
+        "segment_id": "SEG-0056",
+        "district_id": "D-AS-09",
+        "highway_code": "NH-15",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3544,
+        "slope_factor": 0.289,
+        "relief_factor": 0.086,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.09,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.1273,
+        "historic_event_count": 12,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tezpur",
+        "to_name": "Itanagar",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6053,
+            27.0844
+          ],
+          [
+            93.88185,
+            27.18145
+          ],
+          [
+            94.105,
+            27.235
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0057",
+        "segment_id": "SEG-0057",
+        "district_id": "D-AR-01",
+        "highway_code": "NH-15",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4661,
+        "slope_factor": 0.482,
+        "relief_factor": 0.086,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.105,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 0.4789,
+        "historic_event_count": 25,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Itanagar",
+        "to_name": "North Lakhimpur",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6053,
+            27.0844
+          ],
+          [
+            93.73881,
+            27.34486
+          ],
+          [
+            93.83,
+            27.545
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0058",
+        "segment_id": "SEG-0058",
+        "district_id": "D-AR-01",
+        "highway_code": "NH-13",
+        "susceptibility_class": "high",
+        "lsi_score": 0.626,
+        "slope_factor": 0.607,
+        "relief_factor": 0.334,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.426,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 0.842,
+        "historic_event_count": 47,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Itanagar",
+        "to_name": "Ziro",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.83,
+            27.545
+          ],
+          [
+            93.99106,
+            27.75593
+          ],
+          [
+            94.2167,
+            27.9833
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0059",
+        "segment_id": "SEG-0059",
+        "district_id": "D-AR-04",
+        "highway_code": "NH-13",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7049,
+        "slope_factor": 0.787,
+        "relief_factor": 0.364,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.351,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.3586,
+        "historic_event_count": 84,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Ziro",
+        "to_name": "Daporijo",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.2167,
+            27.9833
+          ],
+          [
+            94.53079,
+            28.06448
+          ],
+          [
+            94.8,
+            28.1667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0060",
+        "segment_id": "SEG-0060",
+        "district_id": "D-AR-06",
+        "highway_code": "NH-13",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7497,
+        "slope_factor": 0.893,
+        "relief_factor": 0.207,
+        "lithology_factor": 0.85,
+        "drainage_factor": 1.0,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.1193,
+        "historic_event_count": 68,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Daporijo",
+        "to_name": "Aalo",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8,
+            28.1667
+          ],
+          [
+            95.09215,
+            28.10468
+          ],
+          [
+            95.3333,
+            28.0667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0061",
+        "segment_id": "SEG-0061",
+        "district_id": "D-AR-06",
+        "highway_code": "NH-13",
+        "susceptibility_class": "high",
+        "lsi_score": 0.5826,
+        "slope_factor": 0.538,
+        "relief_factor": 0.129,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.119,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.1969,
+        "historic_event_count": 64,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Aalo",
+        "to_name": "Pasighat",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            92.72254,
+            26.85558
+          ],
+          [
+            92.64,
+            27.01
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0062",
+        "segment_id": "SEG-0062",
+        "district_id": "D-AS-09",
+        "highway_code": "NH-13-W",
+        "susceptibility_class": "high",
+        "lsi_score": 0.56,
+        "slope_factor": 0.64,
+        "relief_factor": 0.416,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.088,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 1.0729,
+        "historic_event_count": 48,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tezpur",
+        "to_name": "Bhalukpong",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.64,
+            27.01
+          ],
+          [
+            92.56635,
+            27.14314
+          ],
+          [
+            92.425,
+            27.265
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0063",
+        "segment_id": "SEG-0063",
+        "district_id": "D-AR-03",
+        "highway_code": "NH-13-W",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6573,
+        "slope_factor": 0.571,
+        "relief_factor": 0.805,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.128,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.7489,
+        "historic_event_count": 62,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Bhalukpong",
+        "to_name": "Bomdila",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.425,
+            27.265
+          ],
+          [
+            92.13755,
+            27.44555
+          ],
+          [
+            91.859,
+            27.586
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0064",
+        "segment_id": "SEG-0064",
+        "district_id": "D-AR-03",
+        "highway_code": "NH-13-W",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7556,
+        "slope_factor": 0.613,
+        "relief_factor": 0.91,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.086,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.8706,
+        "historic_event_count": 124,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Bomdila",
+        "to_name": "Tawang",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.3333,
+            28.0667
+          ],
+          [
+            95.57717,
+            28.06646
+          ],
+          [
+            95.83,
+            28.13
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0065",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "highway_code": "NH-315",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6127,
+        "slope_factor": 0.538,
+        "relief_factor": 0.353,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.174,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 1.1781,
+        "historic_event_count": 58,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Pasighat",
+        "to_name": "Roing",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.83,
+            28.13
+          ],
+          [
+            96.00697,
+            28.0528
+          ],
+          [
+            96.1667,
+            27.9167
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0066",
+        "segment_id": "SEG-0066",
+        "district_id": "D-AR-09",
+        "highway_code": "NH-315",
+        "susceptibility_class": "very_high",
+        "lsi_score": 0.7302,
+        "slope_factor": 0.909,
+        "relief_factor": 0.366,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.149,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 2.1141,
+        "historic_event_count": 86,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Roing",
+        "to_name": "Tezu",
+        "color": "#7d1a12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            96.1667,
+            27.9167
+          ],
+          [
+            96.04715,
+            27.77953
+          ],
+          [
+            95.9,
+            27.6667
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0067",
+        "segment_id": "SEG-0067",
+        "district_id": "D-AR-07",
+        "highway_code": "NH-315",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4483,
+        "slope_factor": 0.384,
+        "relief_factor": 0.077,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.178,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.85,
+        "historic_density_per_km": 0.5233,
+        "historic_event_count": 20,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Tezu",
+        "to_name": "Namsai",
+        "color": "#e8a22a"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.17,
+            25.75
+          ],
+          [
+            93.12105,
+            25.46951
+          ],
+          [
+            93.0157,
+            25.1642
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0068",
+        "segment_id": "SEG-0068",
+        "district_id": "D-AS-08",
+        "highway_code": "NH-27-DH",
+        "susceptibility_class": "high",
+        "lsi_score": 0.6745,
+        "slope_factor": 0.904,
+        "relief_factor": 0.144,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.139,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 1.0157,
+        "historic_event_count": 68,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Lumding",
+        "to_name": "Haflong",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.0157,
+            25.1642
+          ],
+          [
+            92.89239,
+            24.98383
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0069",
+        "segment_id": "SEG-0069",
+        "district_id": "D-AS-07",
+        "highway_code": "NH-27-DH",
+        "susceptibility_class": "high",
+        "lsi_score": 0.564,
+        "slope_factor": 0.444,
+        "relief_factor": 0.117,
+        "lithology_factor": 0.85,
+        "drainage_factor": 0.17,
+        "road_cut_factor": 0.9,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 1.1628,
+        "historic_event_count": 51,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Haflong",
+        "to_name": "Silchar",
+        "color": "#c0392b"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.684,
+            26.3464
+          ],
+          [
+            93.07756,
+            26.09398
+          ],
+          [
+            93.43,
+            25.84
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0070",
+        "segment_id": "SEG-0070",
+        "district_id": "D-AS-02",
+        "highway_code": "NH-36",
+        "susceptibility_class": "low",
+        "lsi_score": 0.3544,
+        "slope_factor": 0.389,
+        "relief_factor": 0.041,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.256,
+        "road_cut_factor": 0.25,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.1606,
+        "historic_event_count": 15,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Nagaon",
+        "to_name": "Diphu",
+        "color": "#5aa469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.43,
+            25.84
+          ],
+          [
+            93.55034,
+            25.8815
+          ],
+          [
+            93.7276,
+            25.9063
+          ]
+        ]
+      },
+      "properties": {
+        "zone_id": "SZ-0071",
+        "segment_id": "SEG-0071",
+        "district_id": "D-AS-08",
+        "highway_code": "NH-36",
+        "susceptibility_class": "moderate",
+        "lsi_score": 0.4198,
+        "slope_factor": 0.384,
+        "relief_factor": 0.055,
+        "lithology_factor": 0.55,
+        "drainage_factor": 0.316,
+        "road_cut_factor": 0.55,
+        "rainfall_factor": 0.62,
+        "historic_density_per_km": 0.5217,
+        "historic_event_count": 16,
+        "assessment_method": "weighted_overlay_NLSM",
+        "assessed_on": "2026-06-30",
+        "from_name": "Diphu",
+        "to_name": "Dimapur",
+        "color": "#e8a22a"
+      }
+    }
+  ]
+}

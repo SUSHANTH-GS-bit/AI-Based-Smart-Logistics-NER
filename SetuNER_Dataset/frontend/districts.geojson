@@ -1,0 +1,955 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7362,
+          26.1445
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-01",
+        "name": "Kamrup Metropolitan",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 55,
+        "terrain": "plain",
+        "population": 1253938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.684,
+          26.3464
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-02",
+        "name": "Nagaon",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 60,
+        "terrain": "plain",
+        "population": 2826006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.2037,
+          26.7509
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-03",
+        "name": "Jorhat",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 90,
+        "terrain": "plain",
+        "population": 1092256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.912,
+          27.4728
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-04",
+        "name": "Dibrugarh",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 108,
+        "terrain": "plain",
+        "population": 1326335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3468,
+          27.4922
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-05",
+        "name": "Tinsukia",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 116,
+        "terrain": "plain",
+        "population": 1327929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7789,
+          24.8333
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-06",
+        "name": "Cachar",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 25,
+        "terrain": "plain",
+        "population": 1736617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0157,
+          25.1642
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-07",
+        "name": "Dima Hasao",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 680,
+        "terrain": "mountain",
+        "population": 214102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.43,
+          25.84
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-08",
+        "name": "Karbi Anglong",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 186,
+        "terrain": "hilly",
+        "population": 956313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8,
+          26.6338
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-09",
+        "name": "Sonitpur",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 79,
+        "terrain": "plain",
+        "population": 1924110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5583,
+          26.4769
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-10",
+        "name": "Bongaigaon",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 53,
+        "terrain": "plain",
+        "population": 738804
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.638,
+          26.985
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-11",
+        "name": "Sivasagar",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 97,
+        "terrain": "plain",
+        "population": 1151050
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3592,
+          24.8697
+        ]
+      },
+      "properties": {
+        "district_id": "D-AS-12",
+        "name": "Karimganj",
+        "state_code": "AS",
+        "state_name": "Assam",
+        "elevation_m": 23,
+        "terrain": "plain",
+        "population": 1228686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6053,
+          27.0844
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-01",
+        "name": "Papum Pare",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 440,
+        "terrain": "hilly",
+        "population": 176385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.859,
+          27.586
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-02",
+        "name": "Tawang",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 3048,
+        "terrain": "mountain",
+        "population": 49977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.425,
+          27.265
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-03",
+        "name": "West Kameng",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 2415,
+        "terrain": "mountain",
+        "population": 87013
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.83,
+          27.545
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-04",
+        "name": "Lower Subansiri",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 1564,
+        "terrain": "mountain",
+        "population": 83030
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3333,
+          28.0667
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-05",
+        "name": "East Siang",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 153,
+        "terrain": "hilly",
+        "population": 99214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.8,
+          28.1667
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-06",
+        "name": "West Siang",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 620,
+        "terrain": "mountain",
+        "population": 112274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1667,
+          27.9167
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-07",
+        "name": "Lohit",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 231,
+        "terrain": "hilly",
+        "population": 145538
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.73,
+          27.13
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-08",
+        "name": "Changlang",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 200,
+        "terrain": "hilly",
+        "population": 148226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.9,
+          28.8
+        ]
+      },
+      "properties": {
+        "district_id": "D-AR-09",
+        "name": "Dibang Valley",
+        "state_code": "AR",
+        "state_name": "Arunachal Pradesh",
+        "elevation_m": 1968,
+        "terrain": "mountain",
+        "population": 8004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9368,
+          24.817
+        ]
+      },
+      "properties": {
+        "district_id": "D-MN-01",
+        "name": "Imphal West",
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "elevation_m": 786,
+        "terrain": "plain",
+        "population": 517992
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6833,
+          24.3333
+        ]
+      },
+      "properties": {
+        "district_id": "D-MN-02",
+        "name": "Churachandpur",
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "elevation_m": 914,
+        "terrain": "mountain",
+        "population": 274143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3667,
+          25.05
+        ]
+      },
+      "properties": {
+        "district_id": "D-MN-03",
+        "name": "Ukhrul",
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "elevation_m": 1662,
+        "terrain": "mountain",
+        "population": 183998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.51,
+          24.98
+        ]
+      },
+      "properties": {
+        "district_id": "D-MN-04",
+        "name": "Tamenglong",
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "elevation_m": 1260,
+        "terrain": "mountain",
+        "population": 140651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.02,
+          25.27
+        ]
+      },
+      "properties": {
+        "district_id": "D-MN-05",
+        "name": "Senapati",
+        "state_code": "MN",
+        "state_name": "Manipur",
+        "elevation_m": 1061,
+        "terrain": "mountain",
+        "population": 479148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8933,
+          25.5788
+        ]
+      },
+      "properties": {
+        "district_id": "D-ML-01",
+        "name": "East Khasi Hills",
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "elevation_m": 1496,
+        "terrain": "mountain",
+        "population": 825922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          25.45
+        ]
+      },
+      "properties": {
+        "district_id": "D-ML-02",
+        "name": "West Jaintia Hills",
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "elevation_m": 1380,
+        "terrain": "mountain",
+        "population": 270352
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2026,
+          25.5142
+        ]
+      },
+      "properties": {
+        "district_id": "D-ML-03",
+        "name": "West Garo Hills",
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "elevation_m": 225,
+        "terrain": "hilly",
+        "population": 643291
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62,
+          25.49
+        ]
+      },
+      "properties": {
+        "district_id": "D-ML-04",
+        "name": "East Garo Hills",
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "elevation_m": 450,
+        "terrain": "hilly",
+        "population": 317917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2667,
+          25.5167
+        ]
+      },
+      "properties": {
+        "district_id": "D-ML-05",
+        "name": "West Khasi Hills",
+        "state_code": "ML",
+        "state_name": "Meghalaya",
+        "elevation_m": 1400,
+        "terrain": "mountain",
+        "population": 385601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.7176,
+          23.7271
+        ]
+      },
+      "properties": {
+        "district_id": "D-MZ-01",
+        "name": "Aizawl",
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "elevation_m": 1132,
+        "terrain": "mountain",
+        "population": 400309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.73,
+          22.88
+        ]
+      },
+      "properties": {
+        "district_id": "D-MZ-02",
+        "name": "Lunglei",
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "elevation_m": 868,
+        "terrain": "mountain",
+        "population": 161428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.329,
+          23.4736
+        ]
+      },
+      "properties": {
+        "district_id": "D-MZ-03",
+        "name": "Champhai",
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "elevation_m": 1678,
+        "terrain": "mountain",
+        "population": 125745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.68,
+          24.22
+        ]
+      },
+      "properties": {
+        "district_id": "D-MZ-04",
+        "name": "Kolasib",
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "elevation_m": 650,
+        "terrain": "hilly",
+        "population": 83955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.85,
+          23.3
+        ]
+      },
+      "properties": {
+        "district_id": "D-MZ-05",
+        "name": "Serchhip",
+        "state_code": "MZ",
+        "state_name": "Mizoram",
+        "elevation_m": 1300,
+        "terrain": "mountain",
+        "population": 64937
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1086,
+          25.6751
+        ]
+      },
+      "properties": {
+        "district_id": "D-NL-01",
+        "name": "Kohima",
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "elevation_m": 1444,
+        "terrain": "mountain",
+        "population": 270063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7276,
+          25.9063
+        ]
+      },
+      "properties": {
+        "district_id": "D-NL-02",
+        "name": "Dimapur",
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "elevation_m": 145,
+        "terrain": "plain",
+        "population": 378811
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.515,
+          26.322
+        ]
+      },
+      "properties": {
+        "district_id": "D-NL-03",
+        "name": "Mokokchung",
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "elevation_m": 1325,
+        "terrain": "mountain",
+        "population": 194622
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.26,
+          26.095
+        ]
+      },
+      "properties": {
+        "district_id": "D-NL-04",
+        "name": "Wokha",
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "elevation_m": 1313,
+        "terrain": "mountain",
+        "population": 166343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.83,
+          26.28
+        ]
+      },
+      "properties": {
+        "district_id": "D-NL-05",
+        "name": "Tuensang",
+        "state_code": "NL",
+        "state_name": "Nagaland",
+        "elevation_m": 1371,
+        "terrain": "mountain",
+        "population": 196596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2868,
+          23.8315
+        ]
+      },
+      "properties": {
+        "district_id": "D-TR-01",
+        "name": "West Tripura",
+        "state_code": "TR",
+        "state_name": "Tripura",
+        "elevation_m": 13,
+        "terrain": "plain",
+        "population": 918000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1667,
+          24.3667
+        ]
+      },
+      "properties": {
+        "district_id": "D-TR-02",
+        "name": "North Tripura",
+        "state_code": "TR",
+        "state_name": "Tripura",
+        "elevation_m": 45,
+        "terrain": "hilly",
+        "population": 417441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85,
+          23.9333
+        ]
+      },
+      "properties": {
+        "district_id": "D-TR-03",
+        "name": "Dhalai",
+        "state_code": "TR",
+        "state_name": "Tripura",
+        "elevation_m": 60,
+        "terrain": "hilly",
+        "population": 378230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.45,
+          23.25
+        ]
+      },
+      "properties": {
+        "district_id": "D-TR-04",
+        "name": "South Tripura",
+        "state_code": "TR",
+        "state_name": "Tripura",
+        "elevation_m": 20,
+        "terrain": "plain",
+        "population": 430751
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6065,
+          27.3389
+        ]
+      },
+      "properties": {
+        "district_id": "D-SK-01",
+        "name": "Gangtok",
+        "state_code": "SK",
+        "state_name": "Sikkim",
+        "elevation_m": 1650,
+        "terrain": "mountain",
+        "population": 283583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.53,
+          27.51
+        ]
+      },
+      "properties": {
+        "district_id": "D-SK-02",
+        "name": "Mangan",
+        "state_code": "SK",
+        "state_name": "Sikkim",
+        "elevation_m": 1250,
+        "terrain": "mountain",
+        "population": 43709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          27.1667
+        ]
+      },
+      "properties": {
+        "district_id": "D-SK-03",
+        "name": "Namchi",
+        "state_code": "SK",
+        "state_name": "Sikkim",
+        "elevation_m": 1675,
+        "terrain": "mountain",
+        "population": 146742
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.26,
+          27.29
+        ]
+      },
+      "properties": {
+        "district_id": "D-SK-04",
+        "name": "Gyalshing",
+        "state_code": "SK",
+        "state_name": "Sikkim",
+        "elevation_m": 1780,
+        "terrain": "mountain",
+        "population": 136299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3953,
+          26.7271
+        ]
+      },
+      "properties": {
+        "district_id": "D-WB-01",
+        "name": "Siliguri",
+        "state_code": "WB",
+        "state_name": "West Bengal",
+        "elevation_m": 122,
+        "terrain": "plain",
+        "population": 701489
+      }
+    }
+  ]
+}

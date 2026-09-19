@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>SetuNER — NER Logistics & Accessibility Dashboard</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  :root{
+    --navy:#1e2761; --orange:#e8702a; --green:#2c8c5e; --red:#c0392b;
+    --amber:#e8a22a; --bg:#f4f6fa; --card:#fff; --line:#e1e5ee; --text:#1a2233;
+    --muted:#5a6472;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:14px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+       background:var(--bg);color:var(--text)}
+  header{background:var(--navy);color:#fff;padding:14px 20px;display:flex;
+         align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
+  header h1{margin:0;font-size:18px;font-weight:700}
+  header .sub{font-size:12px;opacity:.75}
+  .src{font-size:11px;background:rgba(255,255,255,.14);padding:4px 10px;border-radius:20px}
+  .wrap{display:grid;grid-template-columns:320px 1fr;gap:14px;padding:14px;
+        align-items:start}
+  @media(max-width:900px){.wrap{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;
+        padding:14px;margin-bottom:12px}
+  .card h2{margin:0 0 10px;font-size:13px;text-transform:uppercase;
+           letter-spacing:.5px;color:var(--muted)}
+  .kpis{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+  .kpi{background:var(--bg);border-radius:8px;padding:10px}
+  .kpi b{display:block;font-size:22px;line-height:1.1}
+  .kpi span{font-size:11px;color:var(--muted)}
+  .kpi.red b{color:var(--red)} .kpi.amber b{color:var(--amber)}
+  .kpi.green b{color:var(--green)} .kpi.navy b{color:var(--navy)}
+  #map{height:calc(100vh - 110px);min-height:520px;border-radius:10px;
+       border:1px solid var(--line)}
+  .legend{background:#fff;padding:8px 10px;border-radius:8px;line-height:1.7;
+          box-shadow:0 1px 5px rgba(0,0,0,.2);font-size:12px}
+  .legend i{width:22px;height:4px;display:inline-block;margin-right:6px;
+            vertical-align:middle;border-radius:2px}
+  .filters label{display:block;font-size:12px;margin-bottom:8px}
+  .filters select,.filters input{width:100%;padding:6px 8px;border:1px solid var(--line);
+    border-radius:6px;font:inherit;background:#fff}
+  .row{display:flex;gap:8px}
+  .alert{border-left:3px solid var(--amber);padding:7px 9px;margin-bottom:7px;
+         background:#fffdf7;border-radius:0 6px 6px 0;font-size:12px}
+  .alert.critical{border-left-color:var(--red);background:#fff6f5}
+  .alert b{display:block;font-size:11px;color:var(--muted);font-weight:600}
+  .scroll{max-height:240px;overflow-y:auto}
+  table{width:100%;border-collapse:collapse;font-size:12px}
+  th,td{text-align:left;padding:5px 4px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase}
+  .pill{padding:1px 7px;border-radius:20px;font-size:10px;font-weight:700;color:#fff}
+  .pill.low{background:var(--green)} .pill.medium{background:var(--amber)}
+  .pill.high{background:var(--red)}
+  .err{background:#fff6f5;border:1px solid #f3c9c4;color:#a3312a;padding:10px;
+       border-radius:8px;font-size:13px}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>SetuNER — Logistics &amp; Accessibility Intelligence</h1>
+    <div class="sub">SIH26002 · North Eastern Region · AI route-risk monitoring</div>
+  </div>
+  <div class="src" id="srcBadge">loading…</div>
+</header>
+
+<div class="wrap">
+  <div>
+    <div class="card">
+      <h2>Network Status</h2>
+      <div class="kpis" id="kpis"></div>
+    </div>
+
+    <div class="card filters">
+      <h2>Filters</h2>
+      <label>Risk level
+        <select id="fRisk">
+          <option value="">All</option><option value="high">High</option>
+          <option value="medium">Medium</option><option value="low">Low</option>
+        </select>
+      </label>
+      <label>Road status
+        <select id="fStatus">
+          <option value="">All</option><option value="open">Open</option>
+          <option value="restricted">Restricted</option><option value="blocked">Blocked</option>
+        </select>
+      </label>
+      <label><input type="checkbox" id="fIncidents" checked style="width:auto"> Show incidents</label>
+      <label><input type="checkbox" id="fVehicles" checked style="width:auto"> Show vehicles</label>
+    </div>
+
+    <div class="card">
+      <h2>Active Alerts</h2>
+      <div class="scroll" id="alerts"></div>
+    </div>
+
+    <div class="card">
+      <h2>Least Accessible Districts</h2>
+      <table><thead><tr><th>District</th><th>Open</th><th>Access</th></tr></thead>
+      <tbody id="worst"></tbody></table>
+    </div>
+  </div>
+
+  <div><div id="map"></div></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+// Works two ways:
+//  1. API mode  — if the Express server is running on :4000
+//  2. File mode — falls back to the raw JSON next to this page
+const API = "http://localhost:4000";
+const COLORS = { low:"#2c8c5e", medium:"#e8a22a", high:"#c0392b" };
+const state = { roads:null, districts:null, incidents:null, vehicles:[], alerts:[], summary:null, mode:"" };
+
+async function tryFetch(url){
+  const r = await fetch(url, { cache:"no-store" });
+  if(!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+async function load(){
+  try{
+    await tryFetch(`${API}/api/health`);
+    state.mode = "live API (:4000)";
+    const [roads, districts, incidents, vehicles, alerts, summary] = await Promise.all([
+      tryFetch(`${API}/api/segments`), tryFetch(`${API}/api/districts`),
+      tryFetch(`${API}/api/incidents`), tryFetch(`${API}/api/vehicles`),
+      tryFetch(`${API}/api/alerts`),   tryFetch(`${API}/api/dashboard/summary`)
+    ]);
+    state.roads = roads.data; state.districts = districts.data;
+    state.incidents = incidents.data; state.vehicles = vehicles.data;
+    state.alerts = alerts.data; state.summary = summary.data;
+  }catch(e){
+    state.mode = "static JSON files";
+    try{
+      const [roads, districts, incidents, vehicles, alerts, dstat] = await Promise.all([
+        tryFetch("road_segments.geojson"), tryFetch("districts.geojson"),
+        tryFetch("incidents.geojson"), tryFetch("vehicles.json"),
+        tryFetch("alerts.json"), tryFetch("district_status.json")
+      ]);
+      state.roads = roads; state.districts = districts; state.incidents = incidents;
+      state.vehicles = vehicles; state.alerts = alerts;
+      const segs = roads.features.map(f=>f.properties);
+      const inc  = incidents.features.map(f=>f.properties);
+      state.summary = {
+        segments:{ total:segs.length,
+          open:segs.filter(s=>s.status==="open").length,
+          restricted:segs.filter(s=>s.status==="restricted").length,
+          blocked:segs.filter(s=>s.status==="blocked").length,
+          high_risk:segs.filter(s=>s.risk_level==="high").length },
+        incidents:{ total:inc.length, open:inc.filter(i=>i.status==="open").length,
+          critical:inc.filter(i=>i.severity==="critical").length },
+        vehicles:{ total:vehicles.length,
+          delayed:vehicles.filter(v=>v.status==="delayed").length },
+        districts:{ worst:[...dstat].sort((a,b)=>a.accessibility_pct-b.accessibility_pct)
+          .slice(0,6).map(d=>({name:d.district_name, pct:d.accessibility_pct,
+            open:d.segments_open, total:d.segments_total})) }
+      };
+    }catch(err){
+      document.getElementById("map").innerHTML =
+        `<div class="err"><b>Could not load data.</b><br>
+         Serve this folder over HTTP (browsers block file:// fetches):<br>
+         <code>cd frontend &amp;&amp; python3 -m http.server 8080</code><br>
+         then open <code>http://localhost:8080/dashboard.html</code></div>`;
+      throw err;
+    }
+  }
+  document.getElementById("srcBadge").textContent = "data source: " + state.mode;
+  render();
+}
+
+const map = L.map("map").setView([25.9, 92.6], 7);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  { maxZoom:18, attribution:"© OpenStreetMap contributors" }).addTo(map);
+
+const layers = { roads:L.layerGroup().addTo(map), districts:L.layerGroup().addTo(map),
+                 incidents:L.layerGroup().addTo(map), vehicles:L.layerGroup().addTo(map) };
+
+const legend = L.control({position:"bottomright"});
+legend.onAdd = () => {
+  const d = L.DomUtil.create("div","legend");
+  d.innerHTML = `<b>Route risk</b><br>
+    <i style="background:${COLORS.low}"></i>Low / open<br>
+    <i style="background:${COLORS.medium}"></i>Medium / restricted<br>
+    <i style="background:${COLORS.high}"></i>High / blocked<br>
+    <span style="color:#c0392b">●</span> incident &nbsp;
+    <span style="color:#1e2761">▲</span> vehicle`;
+  return d;
+};
+legend.addTo(map);
+
+function drawRoads(){
+  layers.roads.clearLayers();
+  const fr = document.getElementById("fRisk").value;
+  const fs = document.getElementById("fStatus").value;
+  state.roads.features
+    .filter(f => (!fr || f.properties.risk_level===fr) && (!fs || f.properties.status===fs))
+    .forEach(f=>{
+      const p = f.properties;
+      L.geoJSON(f, {
+        style:{ color: COLORS[p.risk_level], weight: p.importance==="national"?5:3,
+                opacity:.9, dashArray: p.status==="blocked" ? "8,6" : null }
+      }).bindPopup(`
+        <b>${p.highway_code}</b> — ${p.from_name} → ${p.to_name}<br>
+        <span class="pill ${p.risk_level}">${p.risk_level.toUpperCase()}</span>
+        &nbsp;status: <b>${p.status}</b><br>
+        length: ${p.length_km} km · terrain: ${p.terrain}<br>
+        slope: ${p.avg_slope_deg}° · elev: ${p.elevation_m} m<br>
+        risk score: ${p.risk_score} · delay: ${p.estimated_delay_min} min
+      `).addTo(layers.roads);
+    });
+}
+
+function drawDistricts(){
+  layers.districts.clearLayers();
+  state.districts.features.forEach(f=>{
+    const p = f.properties, c = f.geometry.coordinates;
+    L.circleMarker([c[1],c[0]], { radius:4, color:"#1e2761", weight:1,
+      fillColor:"#fff", fillOpacity:.9 })
+     .bindTooltip(`${p.name} (${p.state_code})`)
+     .bindPopup(`<b>${p.name}</b><br>${p.state_name}<br>
+        terrain: ${p.terrain} · elev: ${p.elevation_m} m<br>
+        population: ${p.population.toLocaleString("en-IN")}`)
+     .addTo(layers.districts);
+  });
+}
+
+function drawIncidents(){
+  layers.incidents.clearLayers();
+  if(!document.getElementById("fIncidents").checked) return;
+  state.incidents.features.forEach(f=>{
+    const p = f.properties, c = f.geometry.coordinates;
+    const crit = p.severity==="critical"||p.severity==="high";
+    L.circleMarker([c[1],c[0]], { radius: crit?6:4, color:"#fff", weight:1,
+      fillColor: crit ? "#c0392b" : "#e8702a", fillOpacity:.85 })
+     .bindPopup(`<b>${p.incident_type.replace(/_/g," ")}</b> — ${p.severity}<br>
+        ${p.description||""}<br>reported: ${new Date(p.reported_at).toLocaleString()}<br>
+        status: ${p.status}${p.synced_offline?" · <i>synced offline</i>":""}`)
+     .addTo(layers.incidents);
+  });
+}
+
+function drawVehicles(){
+  layers.vehicles.clearLayers();
+  if(!document.getElementById("fVehicles").checked) return;
+  state.vehicles.forEach(v=>{
+    const pos = v.last_position;
+    if(!pos) return;
+    L.marker([pos.latitude,pos.longitude], {
+      icon: L.divIcon({ className:"", html:
+        `<div style="color:#1e2761;font-size:15px;line-height:1">▲</div>`,
+        iconSize:[14,14] })
+    }).bindPopup(`<b>${v.registration_no}</b><br>
+        ${v.vehicle_type} · ${v.cargo_type.replace(/_/g," ")}<br>
+        operator: ${v.operator}<br>driver: ${v.driver_name}<br>
+        status: <b>${v.status}</b> · ${pos.speed_kmph} km/h`)
+     .addTo(layers.vehicles);
+  });
+}
+
+function renderSidebar(){
+  const s = state.summary;
+  document.getElementById("kpis").innerHTML = `
+    <div class="kpi green"><b>${s.segments.open}</b><span>routes open</span></div>
+    <div class="kpi amber"><b>${s.segments.restricted}</b><span>restricted</span></div>
+    <div class="kpi red"><b>${s.segments.blocked}</b><span>blocked</span></div>
+    <div class="kpi red"><b>${s.segments.high_risk}</b><span>high risk</span></div>
+    <div class="kpi navy"><b>${s.incidents.open}</b><span>open incidents</span></div>
+    <div class="kpi navy"><b>${s.vehicles.delayed}</b><span>vehicles delayed</span></div>`;
+
+  document.getElementById("alerts").innerHTML = state.alerts.length
+    ? state.alerts.slice(0,25).map(a=>`
+        <div class="alert ${a.severity}">
+          <b>${a.alert_id} · ${a.severity.toUpperCase()} · ${a.languages.join("/")}</b>
+          ${a.messages?.en || a.message || a.alert_type}
+        </div>`).join("")
+    : "<i>No active alerts.</i>";
+
+  document.getElementById("worst").innerHTML = (s.districts.worst||[])
+    .map(d=>`<tr><td>${d.name}</td>
+      <td>${d.open!=null? d.open+"/"+d.total : "—"}</td>
+      <td><b>${d.pct}%</b></td></tr>`).join("");
+}
+
+function render(){ drawRoads(); drawDistricts(); drawIncidents(); drawVehicles(); renderSidebar(); }
+
+["fRisk","fStatus"].forEach(id=>document.getElementById(id).onchange=drawRoads);
+document.getElementById("fIncidents").onchange=drawIncidents;
+document.getElementById("fVehicles").onchange=drawVehicles;
+
+load();
+</script>
+</body>
+</html>

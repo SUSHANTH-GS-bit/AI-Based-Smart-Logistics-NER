@@ -1,0 +1,3645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.79069,
+          23.0924
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0001",
+        "segment_id": "SEG-0036",
+        "district_id": "D-MZ-05",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-07-28T05:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-306 between Serchhip and Lunglei.",
+        "photo_url": "/uploads/incidents/INC-0001.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.47048,
+          26.97987
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0002",
+        "segment_id": "SEG-0046",
+        "district_id": "D-WB-01",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-05-21T19:00:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Landslide reported on NH-10 between Siliguri and Rangpo.",
+        "photo_url": "/uploads/incidents/INC-0002.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70854,
+          27.65875
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0003",
+        "segment_id": "SEG-0051",
+        "district_id": "D-SK-02",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-09-05T10:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Tree Fall reported on NH-310 between Chungthang and Lachung.",
+        "photo_url": "/uploads/incidents/INC-0003.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.58816,
+          27.37992
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0004",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-08-30T09:30:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-310 between Gangtok and Mangan.",
+        "photo_url": "/uploads/incidents/INC-0004.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.06346,
+          24.80552
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0005",
+        "segment_id": "SEG-0030",
+        "district_id": "D-MN-04",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-07-06T07:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Tree Fall reported on NH-37 between Jiribam and Silchar.",
+        "photo_url": "/uploads/incidents/INC-0005.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55652,
+          27.45068
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0006",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-09T06:30:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-310 between Gangtok and Mangan.",
+        "photo_url": "/uploads/incidents/INC-0006.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.13533,
+          25.61838
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0007",
+        "segment_id": "SEG-0068",
+        "district_id": "D-AS-08",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-07-12T17:15:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-27-DH between Lumding and Haflong.",
+        "photo_url": "/uploads/incidents/INC-0007.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.80843,
+          23.1545
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0008",
+        "segment_id": "SEG-0036",
+        "district_id": "D-MZ-05",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-09-09T12:00:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-306 between Serchhip and Lunglei.",
+        "photo_url": "/uploads/incidents/INC-0008.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.95902,
+          24.93796
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0009",
+        "segment_id": "SEG-0024",
+        "district_id": "D-MN-05",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-08-21T07:30:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-2 between Senapati and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0009.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.94663,
+          27.71041
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0010",
+        "segment_id": "SEG-0067",
+        "district_id": "D-AR-07",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-07-14T15:15:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Flood reported on NH-315 between Tezu and Namsai.",
+        "photo_url": "/uploads/incidents/INC-0010.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.0469,
+          27.8044
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0011",
+        "segment_id": "SEG-0067",
+        "district_id": "D-AR-07",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-07-18T14:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-315 between Tezu and Namsai.",
+        "photo_url": "/uploads/incidents/INC-0011.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.04451,
+          27.99411
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0012",
+        "segment_id": "SEG-0066",
+        "district_id": "D-AR-09",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-06-30T17:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Tree Fall reported on NH-315 between Roing and Tezu.",
+        "photo_url": "/uploads/incidents/INC-0012.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.62634,
+          25.29989
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0013",
+        "segment_id": "SEG-0020",
+        "district_id": "D-ML-04",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-09-08T17:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-27-SPUR between Williamnagar and Baghmara.",
+        "photo_url": "/uploads/incidents/INC-0013.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.53159,
+          27.13858
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0014",
+        "segment_id": "SEG-0063",
+        "district_id": "D-AR-03",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-06-18T19:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-13-W between Bhalukpong and Bomdila.",
+        "photo_url": "/uploads/incidents/INC-0014.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.47538,
+          26.99635
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0015",
+        "segment_id": "SEG-0046",
+        "district_id": "D-WB-01",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-07-15T06:00:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Road Damage reported on NH-10 between Siliguri and Rangpo.",
+        "photo_url": "/uploads/incidents/INC-0015.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.13297,
+          25.6094
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0016",
+        "segment_id": "SEG-0068",
+        "district_id": "D-AS-08",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-06-04T16:15:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-27-DH between Lumding and Haflong.",
+        "photo_url": "/uploads/incidents/INC-0016.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.33972,
+          26.16596
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0017",
+        "segment_id": "SEG-0026",
+        "district_id": "D-NL-04",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-08-21T18:00:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Tree Fall reported on NH-29 between Wokha and Mokokchung.",
+        "photo_url": "/uploads/incidents/INC-0017.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.01773,
+          28.01107
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0018",
+        "segment_id": "SEG-0066",
+        "district_id": "D-AR-09",
+        "incident_type": "flood",
+        "severity": "medium",
+        "reported_at": "2026-08-08T20:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Flood reported on NH-315 between Roing and Tezu.",
+        "photo_url": "/uploads/incidents/INC-0018.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.68295,
+          27.63681
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0019",
+        "segment_id": "SEG-0051",
+        "district_id": "D-SK-02",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-05-25T19:15:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-310 between Chungthang and Lachung.",
+        "photo_url": "/uploads/incidents/INC-0019.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.43518,
+          25.10006
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0020",
+        "segment_id": "SEG-0015",
+        "district_id": "D-ML-02",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-05-23T17:00:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Landslide reported on NH-6 between Jowai and Badarpur.",
+        "photo_url": "/uploads/incidents/INC-0020.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56994,
+          27.30323
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0021",
+        "segment_id": "SEG-0048",
+        "district_id": "D-SK-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-08-31T15:30:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-10 between Singtam and Gangtok.",
+        "photo_url": "/uploads/incidents/INC-0021.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.70267,
+          23.92285
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0022",
+        "segment_id": "SEG-0034",
+        "district_id": "D-MZ-04",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-07-21T16:00:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-306 between Kolasib and Aizawl.",
+        "photo_url": "/uploads/incidents/INC-0022.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76456,
+          26.09627
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0023",
+        "segment_id": "SEG-0012",
+        "district_id": "D-AS-01",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-08-02T21:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Flood reported on NH-6 between Guwahati and Nongpoh.",
+        "photo_url": "/uploads/incidents/INC-0023.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.52716,
+          24.8697
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0024",
+        "segment_id": "SEG-0045",
+        "district_id": "D-AS-12",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-09-10T13:15:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Flood reported on NH-8 between Karimganj and Badarpur.",
+        "photo_url": "/uploads/incidents/INC-0024.jpg",
+        "status": "in_progress",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.46374,
+          27.21905
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0025",
+        "segment_id": "SEG-0063",
+        "district_id": "D-AR-03",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-07-01T14:45:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-13-W between Bhalukpong and Bomdila.",
+        "photo_url": "/uploads/incidents/INC-0025.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.00357,
+          25.18053
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0026",
+        "segment_id": "SEG-0024",
+        "district_id": "D-MN-05",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-09-01T20:45:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Tree Fall reported on NH-2 between Senapati and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0026.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5163,
+          27.20512
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0027",
+        "segment_id": "SEG-0047",
+        "district_id": "D-SK-01",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-06-03T14:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-10 between Rangpo and Singtam.",
+        "photo_url": "/uploads/incidents/INC-0027.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.6311,
+          28.10465
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0028",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-05-25T08:00:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0028.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.84904,
+          24.93131
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0029",
+        "segment_id": "SEG-0069",
+        "district_id": "D-AS-07",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-08-06T16:30:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Road Damage reported on NH-27-DH between Haflong and Silchar.",
+        "photo_url": "/uploads/incidents/INC-0029.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.15144,
+          27.42015
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0030",
+        "segment_id": "SEG-0064",
+        "district_id": "D-AR-03",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-06-27T06:30:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-13-W between Bomdila and Tawang.",
+        "photo_url": "/uploads/incidents/INC-0030.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25201,
+          27.30599
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0031",
+        "segment_id": "SEG-0055",
+        "district_id": "D-SK-04",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-08-04T08:30:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-510 between Gyalshing and Yuksom.",
+        "photo_url": "/uploads/incidents/INC-0031.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.03095,
+          28.0027
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0032",
+        "segment_id": "SEG-0066",
+        "district_id": "D-AR-09",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-25T16:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Road Damage reported on NH-315 between Roing and Tezu.",
+        "photo_url": "/uploads/incidents/INC-0032.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.21483,
+          25.96974
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0033",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-08-14T10:30:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Landslide reported on NH-29 between Kohima and Wokha.",
+        "photo_url": "/uploads/incidents/INC-0033.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.95609,
+          28.05012
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0034",
+        "segment_id": "SEG-0066",
+        "district_id": "D-AR-09",
+        "incident_type": "flood",
+        "severity": "medium",
+        "reported_at": "2026-08-11T17:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Flood reported on NH-315 between Roing and Tezu.",
+        "photo_url": "/uploads/incidents/INC-0034.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2806,
+          24.40388
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0035",
+        "segment_id": "SEG-0043",
+        "district_id": "D-TR-02",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-20T10:15:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Bridge Damage reported on NH-8 between Dharmanagar and Churaibari.",
+        "photo_url": "/uploads/incidents/INC-0035.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.27747,
+          25.50986
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0036",
+        "segment_id": "SEG-0019",
+        "district_id": "D-ML-03",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-09-16T17:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-27-SPUR between Tura and Williamnagar.",
+        "photo_url": "/uploads/incidents/INC-0036.jpg",
+        "status": "open",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.1017,
+          25.45792
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0037",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-06-16T19:15:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Road Damage reported on NH-2 between Mao Gate and Senapati.",
+        "photo_url": "/uploads/incidents/INC-0037.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.22672,
+          27.35656
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0038",
+        "segment_id": "SEG-0055",
+        "district_id": "D-SK-04",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-09-12T15:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-510 between Gyalshing and Yuksom.",
+        "photo_url": "/uploads/incidents/INC-0038.jpg",
+        "status": "open",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25283,
+          27.30433
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0039",
+        "segment_id": "SEG-0055",
+        "district_id": "D-SK-04",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-15T17:00:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Landslide reported on NH-510 between Gyalshing and Yuksom.",
+        "photo_url": "/uploads/incidents/INC-0039.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70495,
+          27.65567
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0040",
+        "segment_id": "SEG-0051",
+        "district_id": "D-SK-02",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-05-22T11:45:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Tree Fall reported on NH-310 between Chungthang and Lachung.",
+        "photo_url": "/uploads/incidents/INC-0040.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.12324,
+          24.35221
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0041",
+        "segment_id": "SEG-0042",
+        "district_id": "D-TR-02",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-09-07T10:00:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-8 between Kailashahar and Dharmanagar.",
+        "photo_url": "/uploads/incidents/INC-0041.jpg",
+        "status": "in_progress",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333,
+          25.81949
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0042",
+        "segment_id": "SEG-0013",
+        "district_id": "D-ML-01",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-08-09T08:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-6 between Nongpoh and Shillong.",
+        "photo_url": "/uploads/incidents/INC-0042.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.61303,
+          28.10235
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0043",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-08-07T18:00:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0043.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.69998,
+          26.86897
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0044",
+        "segment_id": "SEG-0062",
+        "district_id": "D-AS-09",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-08-02T13:15:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-13-W between Tezpur and Bhalukpong.",
+        "photo_url": "/uploads/incidents/INC-0044.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.96714,
+          25.09634
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0045",
+        "segment_id": "SEG-0069",
+        "district_id": "D-AS-07",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-06-03T06:45:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-27-DH between Haflong and Silchar.",
+        "photo_url": "/uploads/incidents/INC-0045.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.20238,
+          24.83802
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0046",
+        "segment_id": "SEG-0029",
+        "district_id": "D-MN-04",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-08-29T11:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Tree Fall reported on NH-37 between Tamenglong and Jiribam.",
+        "photo_url": "/uploads/incidents/INC-0046.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.31878,
+          24.89175
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0047",
+        "segment_id": "SEG-0029",
+        "district_id": "D-MN-04",
+        "incident_type": "flood",
+        "severity": "medium",
+        "reported_at": "2026-07-09T20:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Flood reported on NH-37 between Tamenglong and Jiribam.",
+        "photo_url": "/uploads/incidents/INC-0047.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26753,
+          25.34952
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0048",
+        "segment_id": "SEG-0015",
+        "district_id": "D-ML-02",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-09-01T10:15:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-6 between Jowai and Badarpur.",
+        "photo_url": "/uploads/incidents/INC-0048.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78323,
+          23.5154
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0049",
+        "segment_id": "SEG-0035",
+        "district_id": "D-MZ-01",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-08-01T13:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-306 between Aizawl and Serchhip.",
+        "photo_url": "/uploads/incidents/INC-0049.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.68283,
+          27.24333
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0050",
+        "segment_id": "SEG-0058",
+        "district_id": "D-AR-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-25T17:30:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-13 between Itanagar and Ziro.",
+        "photo_url": "/uploads/incidents/INC-0050.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.46137,
+          24.8697
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0051",
+        "segment_id": "SEG-0045",
+        "district_id": "D-AS-12",
+        "incident_type": "flood",
+        "severity": "critical",
+        "reported_at": "2026-05-31T16:30:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Flood reported on NH-8 between Karimganj and Badarpur.",
+        "photo_url": "/uploads/incidents/INC-0051.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.13721,
+          25.75445
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0052",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-07-19T14:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Tree Fall reported on NH-29 between Kohima and Wokha.",
+        "photo_url": "/uploads/incidents/INC-0052.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.84591,
+          27.15691
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0053",
+        "segment_id": "SEG-0057",
+        "district_id": "D-AR-01",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-06-30T07:00:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Flood reported on NH-15 between Itanagar and North Lakhimpur.",
+        "photo_url": "/uploads/incidents/INC-0053.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.97838,
+          28.13325
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0054",
+        "segment_id": "SEG-0061",
+        "district_id": "D-AR-06",
+        "incident_type": "flood",
+        "severity": "medium",
+        "reported_at": "2026-06-24T06:30:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Flood reported on NH-13 between Aalo and Pasighat.",
+        "photo_url": "/uploads/incidents/INC-0054.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.56719,
+          28.09651
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0055",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-05-29T15:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0055.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.638,
+          28.11576
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0056",
+        "segment_id": "SEG-0060",
+        "district_id": "D-AR-06",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-09T17:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-13 between Daporijo and Aalo.",
+        "photo_url": "/uploads/incidents/INC-0056.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45712,
+          26.29807
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0057",
+        "segment_id": "SEG-0005",
+        "district_id": "D-AS-01",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-08-10T06:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Tree Fall reported on NH-27 between Guwahati and Nagaon.",
+        "photo_url": "/uploads/incidents/INC-0057.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.06832,
+          23.58168
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0058",
+        "segment_id": "SEG-0037",
+        "district_id": "D-MZ-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-08-25T07:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-302 between Aizawl and Champhai.",
+        "photo_url": "/uploads/incidents/INC-0058.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.96783,
+          24.98592
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0059",
+        "segment_id": "SEG-0024",
+        "district_id": "D-MN-05",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-24T07:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Road Damage reported on NH-2 between Senapati and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0059.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.46319,
+          26.27588
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0060",
+        "segment_id": "SEG-0026",
+        "district_id": "D-NL-04",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-11T13:00:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-29 between Wokha and Mokokchung.",
+        "photo_url": "/uploads/incidents/INC-0060.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.66212,
+          27.61896
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0061",
+        "segment_id": "SEG-0051",
+        "district_id": "D-SK-02",
+        "incident_type": "bridge_damage",
+        "severity": "critical",
+        "reported_at": "2026-06-07T16:45:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-310 between Chungthang and Lachung.",
+        "photo_url": "/uploads/incidents/INC-0061.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.92588,
+          24.10782
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0062",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "incident_type": "road_damage",
+        "severity": "high",
+        "reported_at": "2026-05-29T20:15:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Road Damage reported on NH-8 between Ambassa and Kailashahar.",
+        "photo_url": "/uploads/incidents/INC-0062.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.46,
+          26.94464
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0063",
+        "segment_id": "SEG-0046",
+        "district_id": "D-WB-01",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-09-10T17:00:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Tree Fall reported on NH-10 between Siliguri and Rangpo.",
+        "photo_url": "/uploads/incidents/INC-0063.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.78921,
+          24.53538
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0064",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-05-30T05:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-2-S between Churachandpur and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0064.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25262,
+          27.30477
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0065",
+        "segment_id": "SEG-0055",
+        "district_id": "D-SK-04",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-07-25T20:30:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Road Damage reported on NH-510 between Gyalshing and Yuksom.",
+        "photo_url": "/uploads/incidents/INC-0065.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.74462,
+          24.62071
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0066",
+        "segment_id": "SEG-0033",
+        "district_id": "D-AS-06",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-06-20T09:00:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-306 between Silchar and Kolasib.",
+        "photo_url": "/uploads/incidents/INC-0066.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25455,
+          27.36167
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0067",
+        "segment_id": "SEG-0064",
+        "district_id": "D-AR-03",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-06T14:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-13-W between Bomdila and Tawang.",
+        "photo_url": "/uploads/incidents/INC-0067.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.74889,
+          22.94613
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0068",
+        "segment_id": "SEG-0036",
+        "district_id": "D-MZ-05",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-07-04T21:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-306 between Serchhip and Lunglei.",
+        "photo_url": "/uploads/incidents/INC-0068.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.94627,
+          24.15472
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0069",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "incident_type": "bridge_damage",
+        "severity": "high",
+        "reported_at": "2026-08-27T12:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Bridge Damage reported on NH-8 between Ambassa and Kailashahar.",
+        "photo_url": "/uploads/incidents/INC-0069.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6161,
+          25.88146
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0070",
+        "segment_id": "SEG-0071",
+        "district_id": "D-AS-08",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-08-20T21:00:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-36 between Diphu and Dimapur.",
+        "photo_url": "/uploads/incidents/INC-0070.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.27641,
+          25.94426
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0071",
+        "segment_id": "SEG-0070",
+        "district_id": "D-AS-02",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-09-03T21:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Flood reported on NH-36 between Nagaon and Diphu.",
+        "photo_url": "/uploads/incidents/INC-0071.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.78422,
+          26.06285
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0072",
+        "segment_id": "SEG-0012",
+        "district_id": "D-AS-01",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-07-02T11:15:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Tree Fall reported on NH-6 between Guwahati and Nongpoh.",
+        "photo_url": "/uploads/incidents/INC-0072.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.99021,
+          24.81267
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0073",
+        "segment_id": "SEG-0030",
+        "district_id": "D-MN-04",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-07-22T10:45:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-37 between Jiribam and Silchar.",
+        "photo_url": "/uploads/incidents/INC-0073.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.95546,
+          24.17586
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0074",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-30T20:15:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Bridge Damage reported on NH-8 between Ambassa and Kailashahar.",
+        "photo_url": "/uploads/incidents/INC-0074.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.09478,
+          25.44199
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0075",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "incident_type": "road_damage",
+        "severity": "critical",
+        "reported_at": "2026-06-06T08:45:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Road Damage reported on NH-2 between Mao Gate and Senapati.",
+        "photo_url": "/uploads/incidents/INC-0075.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.76633,
+          24.49172
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0076",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-09T07:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-2-S between Churachandpur and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0076.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.32996,
+          25.71488
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0077",
+        "segment_id": "SEG-0018",
+        "district_id": "D-AS-10",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-07-24T15:00:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-27-SPUR between Goalpara and Tura.",
+        "photo_url": "/uploads/incidents/INC-0077.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.18907,
+          28.09374
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0078",
+        "segment_id": "SEG-0061",
+        "district_id": "D-AR-06",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-07-24T09:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Flood reported on NH-13 between Aalo and Pasighat.",
+        "photo_url": "/uploads/incidents/INC-0078.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55415,
+          27.28783
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0079",
+        "segment_id": "SEG-0048",
+        "district_id": "D-SK-01",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-05-23T09:00:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Bridge Damage reported on NH-10 between Singtam and Gangtok.",
+        "photo_url": "/uploads/incidents/INC-0079.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.16299,
+          24.93959
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0080",
+        "segment_id": "SEG-0032",
+        "district_id": "D-MN-01",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-06-14T15:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Tree Fall reported on NH-2-S between Imphal and Ukhrul.",
+        "photo_url": "/uploads/incidents/INC-0080.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.82985,
+          23.36499
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0081",
+        "segment_id": "SEG-0035",
+        "district_id": "D-MZ-01",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-07-23T17:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Tree Fall reported on NH-306 between Aizawl and Serchhip.",
+        "photo_url": "/uploads/incidents/INC-0081.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.27718,
+          27.26646
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0082",
+        "segment_id": "SEG-0054",
+        "district_id": "D-SK-03",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-08-02T17:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Tree Fall reported on NH-510 between Namchi and Gyalshing.",
+        "photo_url": "/uploads/incidents/INC-0082.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.99039,
+          27.72679
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0083",
+        "segment_id": "SEG-0059",
+        "district_id": "D-AR-04",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-09-09T16:00:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Flood reported on NH-13 between Ziro and Daporijo.",
+        "photo_url": "/uploads/incidents/INC-0083.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.98852,
+          27.51254
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0084",
+        "segment_id": "SEG-0064",
+        "district_id": "D-AR-03",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-06-23T09:30:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-13-W between Bomdila and Tawang.",
+        "photo_url": "/uploads/incidents/INC-0084.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.05467,
+          28.11895
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0085",
+        "segment_id": "SEG-0061",
+        "district_id": "D-AR-06",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-08-28T13:15:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-13 between Aalo and Pasighat.",
+        "photo_url": "/uploads/incidents/INC-0085.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11803,
+          25.5303
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0086",
+        "segment_id": "SEG-0022",
+        "district_id": "D-NL-01",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-05-30T20:15:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Landslide reported on NH-2 between Kohima and Mao Gate.",
+        "photo_url": "/uploads/incidents/INC-0086.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76823,
+          26.09003
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0087",
+        "segment_id": "SEG-0012",
+        "district_id": "D-AS-01",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-05-22T08:00:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-6 between Guwahati and Nongpoh.",
+        "photo_url": "/uploads/incidents/INC-0087.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.33557,
+          27.18647
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0088",
+        "segment_id": "SEG-0054",
+        "district_id": "D-SK-03",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-07-09T11:15:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Landslide reported on NH-510 between Namchi and Gyalshing.",
+        "photo_url": "/uploads/incidents/INC-0088.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11101,
+          25.6381
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0089",
+        "segment_id": "SEG-0022",
+        "district_id": "D-NL-01",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-09-13T15:45:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Road Damage reported on NH-2 between Kohima and Mao Gate.",
+        "photo_url": "/uploads/incidents/INC-0089.jpg",
+        "status": "open",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.51279,
+          27.21156
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0090",
+        "segment_id": "SEG-0047",
+        "district_id": "D-SK-01",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-08-19T07:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-10 between Rangpo and Singtam.",
+        "photo_url": "/uploads/incidents/INC-0090.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3428,
+          27.1531
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0091",
+        "segment_id": "SEG-0053",
+        "district_id": "D-SK-03",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-14T12:15:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Bridge Damage reported on NH-510 between Jorethang and Namchi.",
+        "photo_url": "/uploads/incidents/INC-0091.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.05675,
+          25.35452
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0092",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-07-16T06:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Bridge Damage reported on NH-2 between Mao Gate and Senapati.",
+        "photo_url": "/uploads/incidents/INC-0092.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.80012,
+          23.95992
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0093",
+        "segment_id": "SEG-0040",
+        "district_id": "D-TR-03",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-08-04T16:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Tree Fall reported on NH-8 between Khowai and Ambassa.",
+        "photo_url": "/uploads/incidents/INC-0093.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.47863,
+          28.06566
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0094",
+        "segment_id": "SEG-0060",
+        "district_id": "D-AR-06",
+        "incident_type": "flood",
+        "severity": "critical",
+        "reported_at": "2026-07-05T16:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Flood reported on NH-13 between Daporijo and Aalo.",
+        "photo_url": "/uploads/incidents/INC-0094.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10321,
+          24.90719
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0095",
+        "segment_id": "SEG-0032",
+        "district_id": "D-MN-01",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-09-03T11:45:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Road Damage reported on NH-2-S between Imphal and Ukhrul.",
+        "photo_url": "/uploads/incidents/INC-0095.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.33757,
+          28.0213
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0096",
+        "segment_id": "SEG-0060",
+        "district_id": "D-AR-06",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-07-19T18:00:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Flood reported on NH-13 between Daporijo and Aalo.",
+        "photo_url": "/uploads/incidents/INC-0096.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1313,
+          23.55557
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0097",
+        "segment_id": "SEG-0037",
+        "district_id": "D-MZ-01",
+        "incident_type": "bridge_damage",
+        "severity": "high",
+        "reported_at": "2026-08-19T12:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-302 between Aizawl and Champhai.",
+        "photo_url": "/uploads/incidents/INC-0097.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.17557,
+          25.86083
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0098",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-07-15T12:00:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Flood reported on NH-29 between Kohima and Wokha.",
+        "photo_url": "/uploads/incidents/INC-0098.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.00085,
+          27.50555
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0099",
+        "segment_id": "SEG-0064",
+        "district_id": "D-AR-03",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-06-07T17:45:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Tree Fall reported on NH-13-W between Bomdila and Tawang.",
+        "photo_url": "/uploads/incidents/INC-0099.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.91325,
+          28.14546
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0100",
+        "segment_id": "SEG-0061",
+        "district_id": "D-AR-06",
+        "incident_type": "landslide",
+        "severity": "high",
+        "reported_at": "2026-07-21T10:15:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-13 between Aalo and Pasighat.",
+        "photo_url": "/uploads/incidents/INC-0100.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.08305,
+          25.41502
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0101",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "incident_type": "bridge_damage",
+        "severity": "high",
+        "reported_at": "2026-06-26T17:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-2 between Mao Gate and Senapati.",
+        "photo_url": "/uploads/incidents/INC-0101.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.10542,
+          26.65375
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0102",
+        "segment_id": "SEG-0008",
+        "district_id": "D-AS-03",
+        "incident_type": "flood",
+        "severity": "medium",
+        "reported_at": "2026-05-26T12:00:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Flood reported on NH-27 between Golaghat and Jorhat.",
+        "photo_url": "/uploads/incidents/INC-0102.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.57995,
+          27.55087
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0103",
+        "segment_id": "SEG-0050",
+        "district_id": "D-SK-02",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-06T12:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-310 between Mangan and Chungthang.",
+        "photo_url": "/uploads/incidents/INC-0103.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.528,
+          28.09151
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0104",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-31T06:30:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Bridge Damage reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0104.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.17289,
+          25.8534
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0105",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-08-02T06:15:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Flood reported on NH-29 between Kohima and Wokha.",
+        "photo_url": "/uploads/incidents/INC-0105.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56112,
+          27.53546
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0106",
+        "segment_id": "SEG-0050",
+        "district_id": "D-SK-02",
+        "incident_type": "tree_fall",
+        "severity": "high",
+        "reported_at": "2026-08-27T09:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Tree Fall reported on NH-310 between Mangan and Chungthang.",
+        "photo_url": "/uploads/incidents/INC-0106.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.78712,
+          23.50285
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0107",
+        "segment_id": "SEG-0035",
+        "district_id": "D-MZ-01",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-05-25T16:00:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Road Damage reported on NH-306 between Aizawl and Serchhip.",
+        "photo_url": "/uploads/incidents/INC-0107.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.65244,
+          28.10737
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0108",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-07-26T09:15:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0108.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.23931,
+          24.3904
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0109",
+        "segment_id": "SEG-0043",
+        "district_id": "D-TR-02",
+        "incident_type": "bridge_damage",
+        "severity": "high",
+        "reported_at": "2026-08-18T21:45:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Bridge Damage reported on NH-8 between Dharmanagar and Churaibari.",
+        "photo_url": "/uploads/incidents/INC-0109.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.53677,
+          28.09263
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0110",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "critical",
+        "reported_at": "2026-06-05T15:30:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0110.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.10908,
+          24.34749
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0111",
+        "segment_id": "SEG-0042",
+        "district_id": "D-TR-02",
+        "incident_type": "road_damage",
+        "severity": "high",
+        "reported_at": "2026-05-21T15:15:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Road Damage reported on NH-8 between Kailashahar and Dharmanagar.",
+        "photo_url": "/uploads/incidents/INC-0111.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.5916,
+          28.10117
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0112",
+        "segment_id": "SEG-0060",
+        "district_id": "D-AR-06",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-08-17T15:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-13 between Daporijo and Aalo.",
+        "photo_url": "/uploads/incidents/INC-0112.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.35303,
+          24.77466
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0113",
+        "segment_id": "SEG-0044",
+        "district_id": "D-AS-12",
+        "incident_type": "accident",
+        "severity": "medium",
+        "reported_at": "2026-09-01T14:00:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Accident reported on NH-8 between Churaibari and Karimganj.",
+        "photo_url": "/uploads/incidents/INC-0113.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43461,
+          25.50075
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0114",
+        "segment_id": "SEG-0019",
+        "district_id": "D-ML-03",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-02T17:15:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Road Damage reported on NH-27-SPUR between Tura and Williamnagar.",
+        "photo_url": "/uploads/incidents/INC-0114.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.27675,
+          27.26706
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0115",
+        "segment_id": "SEG-0054",
+        "district_id": "D-SK-03",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-07-15T10:45:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Road Damage reported on NH-510 between Namchi and Gyalshing.",
+        "photo_url": "/uploads/incidents/INC-0115.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.72799,
+          28.117
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0116",
+        "segment_id": "SEG-0065",
+        "district_id": "D-AR-05",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-05-21T17:15:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-315 between Pasighat and Roing.",
+        "photo_url": "/uploads/incidents/INC-0116.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.50735,
+          27.16733
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0117",
+        "segment_id": "SEG-0063",
+        "district_id": "D-AR-03",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-07-05T05:45:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Tree Fall reported on NH-13-W between Bhalukpong and Bomdila.",
+        "photo_url": "/uploads/incidents/INC-0117.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32499,
+          27.11942
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0118",
+        "segment_id": "SEG-0053",
+        "district_id": "D-SK-03",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-10T12:30:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Landslide reported on NH-510 between Jorethang and Namchi.",
+        "photo_url": "/uploads/incidents/INC-0118.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30506,
+          27.22827
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0119",
+        "segment_id": "SEG-0054",
+        "district_id": "D-SK-03",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-16T09:15:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-510 between Namchi and Gyalshing.",
+        "photo_url": "/uploads/incidents/INC-0119.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.69856,
+          26.29753
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0120",
+        "segment_id": "SEG-0027",
+        "district_id": "D-NL-03",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-06-03T10:30:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Road Damage reported on NH-29 between Mokokchung and Tuensang.",
+        "photo_url": "/uploads/incidents/INC-0120.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.11172,
+          25.6272
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0121",
+        "segment_id": "SEG-0022",
+        "district_id": "D-NL-01",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-08-09T06:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-2 between Kohima and Mao Gate.",
+        "photo_url": "/uploads/incidents/INC-0121.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.15807,
+          25.81229
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0122",
+        "segment_id": "SEG-0025",
+        "district_id": "D-NL-01",
+        "incident_type": "bridge_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-17T16:45:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-29 between Kohima and Wokha.",
+        "photo_url": "/uploads/incidents/INC-0122.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55086,
+          27.46334
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0123",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-07-30T11:15:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Tree Fall reported on NH-310 between Gangtok and Mangan.",
+        "photo_url": "/uploads/incidents/INC-0123.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.52091,
+          27.2554
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0124",
+        "segment_id": "SEG-0048",
+        "district_id": "D-SK-01",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-05-26T11:30:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Flood reported on NH-10 between Singtam and Gangtok.",
+        "photo_url": "/uploads/incidents/INC-0124.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26973,
+          25.34624
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0125",
+        "segment_id": "SEG-0015",
+        "district_id": "D-ML-02",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-07-07T06:45:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Landslide reported on NH-6 between Jowai and Badarpur.",
+        "photo_url": "/uploads/incidents/INC-0125.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.94955,
+          24.16226
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0126",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-06-06T12:30:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Tree Fall reported on NH-8 between Ambassa and Kailashahar.",
+        "photo_url": "/uploads/incidents/INC-0126.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1161,
+          25.54538
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0127",
+        "segment_id": "SEG-0068",
+        "district_id": "D-AS-08",
+        "incident_type": "flood",
+        "severity": "critical",
+        "reported_at": "2026-06-14T12:00:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Flood reported on NH-27-DH between Lumding and Haflong.",
+        "photo_url": "/uploads/incidents/INC-0127.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.06121,
+          25.36479
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0128",
+        "segment_id": "SEG-0023",
+        "district_id": "D-MN-05",
+        "incident_type": "flood",
+        "severity": "high",
+        "reported_at": "2026-07-08T10:00:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Flood reported on NH-2 between Mao Gate and Senapati.",
+        "photo_url": "/uploads/incidents/INC-0128.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.56118,
+          26.94359
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0129",
+        "segment_id": "SEG-0009",
+        "district_id": "D-AS-03",
+        "incident_type": "accident",
+        "severity": "medium",
+        "reported_at": "2026-05-26T21:45:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Accident reported on NH-27 between Jorhat and Sivasagar.",
+        "photo_url": "/uploads/incidents/INC-0129.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.97584,
+          25.02954
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0130",
+        "segment_id": "SEG-0024",
+        "district_id": "D-MN-05",
+        "incident_type": "landslide",
+        "severity": "medium",
+        "reported_at": "2026-06-22T09:15:00",
+        "reported_by_id": "USR-001",
+        "reported_by_name": "R. Hazarika",
+        "reporter_role": "PWD Field Officer",
+        "description": "Landslide reported on NH-2 between Senapati and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0130.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.1987,
+          23.52762
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0131",
+        "segment_id": "SEG-0037",
+        "district_id": "D-MZ-01",
+        "incident_type": "bridge_damage",
+        "severity": "critical",
+        "reported_at": "2026-05-26T09:30:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Bridge Damage reported on NH-302 between Aizawl and Champhai.",
+        "photo_url": "/uploads/incidents/INC-0131.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55972,
+          27.44354
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0132",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "incident_type": "road_damage",
+        "severity": "medium",
+        "reported_at": "2026-08-17T11:30:00",
+        "reported_by_id": "USR-005",
+        "reported_by_name": "P. Tsering",
+        "reporter_role": "Border Roads Supervisor",
+        "description": "Road Damage reported on NH-310 between Gangtok and Mangan.",
+        "photo_url": "/uploads/incidents/INC-0132.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.75017,
+          24.46089
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0133",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "incident_type": "bridge_damage",
+        "severity": "low",
+        "reported_at": "2026-07-12T10:15:00",
+        "reported_by_id": "USR-007",
+        "reported_by_name": "N. Bhutia",
+        "reporter_role": "Disaster Response Officer",
+        "description": "Bridge Damage reported on NH-2-S between Churachandpur and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0133.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.93042,
+          24.11826
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0134",
+        "segment_id": "SEG-0041",
+        "district_id": "D-TR-03",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-06-29T07:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-8 between Ambassa and Kailashahar.",
+        "photo_url": "/uploads/incidents/INC-0134.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.07286,
+          25.50339
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0135",
+        "segment_id": "SEG-0014",
+        "district_id": "D-ML-01",
+        "incident_type": "flood",
+        "severity": "low",
+        "reported_at": "2026-07-02T20:15:00",
+        "reported_by_id": "USR-004",
+        "reported_by_name": "K. Lalrinmawia",
+        "reporter_role": "Block Development Officer",
+        "description": "Flood reported on NH-6 between Shillong and Jowai.",
+        "photo_url": "/uploads/incidents/INC-0135.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.81982,
+          23.68472
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0136",
+        "segment_id": "SEG-0037",
+        "district_id": "D-MZ-01",
+        "incident_type": "road_damage",
+        "severity": "low",
+        "reported_at": "2026-06-30T20:15:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Road Damage reported on NH-302 between Aizawl and Champhai.",
+        "photo_url": "/uploads/incidents/INC-0136.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.86684,
+          24.68351
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0137",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "incident_type": "bridge_damage",
+        "severity": "critical",
+        "reported_at": "2026-07-22T06:15:00",
+        "reported_by_id": "USR-006",
+        "reported_by_name": "S. Debbarma",
+        "reporter_role": "Transport Dept Inspector",
+        "description": "Bridge Damage reported on NH-2-S between Churachandpur and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0137.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.67604,
+          27.22941
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0138",
+        "segment_id": "SEG-0058",
+        "district_id": "D-AR-01",
+        "incident_type": "tree_fall",
+        "severity": "medium",
+        "reported_at": "2026-07-28T16:30:00",
+        "reported_by_id": "USR-003",
+        "reported_by_name": "T. Lotha",
+        "reporter_role": "NH Maintenance Engineer",
+        "description": "Tree Fall reported on NH-13 between Itanagar and Ziro.",
+        "photo_url": "/uploads/incidents/INC-0138.jpg",
+        "status": "resolved",
+        "synced_offline": false,
+        "verified": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.89558,
+          24.73835
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0139",
+        "segment_id": "SEG-0031",
+        "district_id": "D-MN-02",
+        "incident_type": "landslide",
+        "severity": "low",
+        "reported_at": "2026-09-13T16:30:00",
+        "reported_by_id": "USR-002",
+        "reported_by_name": "L. Syiem",
+        "reporter_role": "District Disaster Officer",
+        "description": "Landslide reported on NH-2-S between Churachandpur and Imphal.",
+        "photo_url": "/uploads/incidents/INC-0139.jpg",
+        "status": "in_progress",
+        "synced_offline": false,
+        "verified": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.58051,
+          27.39703
+        ]
+      },
+      "properties": {
+        "incident_id": "INC-0140",
+        "segment_id": "SEG-0049",
+        "district_id": "D-SK-01",
+        "incident_type": "tree_fall",
+        "severity": "low",
+        "reported_at": "2026-07-16T08:45:00",
+        "reported_by_id": "USR-008",
+        "reported_by_name": "M. Singh",
+        "reporter_role": "PWD Field Officer",
+        "description": "Tree Fall reported on NH-310 between Gangtok and Mangan.",
+        "photo_url": "/uploads/incidents/INC-0140.jpg",
+        "status": "resolved",
+        "synced_offline": true,
+        "verified": true
+      }
+    }
+  ]
+}

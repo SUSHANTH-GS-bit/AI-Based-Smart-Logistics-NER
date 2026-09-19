@@ -1,0 +1,3902 @@
+[
+  {
+    "ping_id": "GPS-00001",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 26.1667,
+    "longitude": 90.6167,
+    "speed_kmph": 23.8,
+    "heading_deg": 114,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00002",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 26.08829,
+    "longitude": 90.56662,
+    "speed_kmph": 57.4,
+    "heading_deg": 30,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00003",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 26.00989,
+    "longitude": 90.51655,
+    "speed_kmph": 50.6,
+    "heading_deg": 341,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00004",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.93148,
+    "longitude": 90.46648,
+    "speed_kmph": 33.8,
+    "heading_deg": 87,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00005",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.85308,
+    "longitude": 90.4164,
+    "speed_kmph": 27.3,
+    "heading_deg": 327,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00006",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.76836,
+    "longitude": 90.36295,
+    "speed_kmph": 16.2,
+    "heading_deg": 114,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00007",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.68364,
+    "longitude": 90.3095,
+    "speed_kmph": 22.3,
+    "heading_deg": 177,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00008",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.59892,
+    "longitude": 90.25605,
+    "speed_kmph": 35.9,
+    "heading_deg": 119,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00009",
+    "vehicle_id": "VEH-001",
+    "segment_id": "SEG-0018",
+    "latitude": 25.5142,
+    "longitude": 90.2026,
+    "speed_kmph": 30.8,
+    "heading_deg": 83,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00010",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.75,
+    "longitude": 93.17,
+    "speed_kmph": 14.2,
+    "heading_deg": 321,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00011",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.66986,
+    "longitude": 93.15601,
+    "speed_kmph": 52.4,
+    "heading_deg": 79,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00012",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.58972,
+    "longitude": 93.14203,
+    "speed_kmph": 40.2,
+    "heading_deg": 352,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00013",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.50958,
+    "longitude": 93.12804,
+    "speed_kmph": 34.4,
+    "heading_deg": 214,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00014",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.42589,
+    "longitude": 93.106,
+    "speed_kmph": 37.4,
+    "heading_deg": 147,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00015",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.33866,
+    "longitude": 93.0759,
+    "speed_kmph": 30.6,
+    "heading_deg": 41,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00016",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.25143,
+    "longitude": 93.0458,
+    "speed_kmph": 16.3,
+    "heading_deg": 231,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00017",
+    "vehicle_id": "VEH-002",
+    "segment_id": "SEG-0068",
+    "latitude": 25.1642,
+    "longitude": 93.0157,
+    "speed_kmph": 12.4,
+    "heading_deg": 27,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00018",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.1445,
+    "longitude": 91.7362,
+    "speed_kmph": 19.5,
+    "heading_deg": 263,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00019",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.14191,
+    "longitude": 91.63435,
+    "speed_kmph": 18.3,
+    "heading_deg": 54,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00020",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.13933,
+    "longitude": 91.53249,
+    "speed_kmph": 49.9,
+    "heading_deg": 137,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00021",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.13674,
+    "longitude": 91.43064,
+    "speed_kmph": 12.5,
+    "heading_deg": 336,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00022",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.13416,
+    "longitude": 91.32878,
+    "speed_kmph": 29.4,
+    "heading_deg": 145,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00023",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.13157,
+    "longitude": 91.22693,
+    "speed_kmph": 45.1,
+    "heading_deg": 325,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00024",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.13359,
+    "longitude": 91.12515,
+    "speed_kmph": 27.5,
+    "heading_deg": 109,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00025",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.14021,
+    "longitude": 91.02346,
+    "speed_kmph": 29.9,
+    "heading_deg": 294,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00026",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.14683,
+    "longitude": 90.92177,
+    "speed_kmph": 17.9,
+    "heading_deg": 356,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00027",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.15346,
+    "longitude": 90.82008,
+    "speed_kmph": 23.3,
+    "heading_deg": 170,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00028",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.16008,
+    "longitude": 90.71839,
+    "speed_kmph": 14.0,
+    "heading_deg": 51,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00029",
+    "vehicle_id": "VEH-003",
+    "segment_id": "SEG-0017",
+    "latitude": 26.1667,
+    "longitude": 90.6167,
+    "speed_kmph": 16.8,
+    "heading_deg": 138,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00030",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.45,
+    "longitude": 92.2,
+    "speed_kmph": 54.5,
+    "heading_deg": 193,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00031",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.39197,
+    "longitude": 92.24269,
+    "speed_kmph": 36.9,
+    "heading_deg": 352,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00032",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.33394,
+    "longitude": 92.28539,
+    "speed_kmph": 57.0,
+    "heading_deg": 296,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00033",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.27591,
+    "longitude": 92.32808,
+    "speed_kmph": 27.0,
+    "heading_deg": 302,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00034",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.21788,
+    "longitude": 92.37077,
+    "speed_kmph": 18.1,
+    "heading_deg": 288,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00035",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.15341,
+    "longitude": 92.41411,
+    "speed_kmph": 15.8,
+    "heading_deg": 269,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00036",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.08248,
+    "longitude": 92.45808,
+    "speed_kmph": 25.1,
+    "heading_deg": 299,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00037",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 25.01155,
+    "longitude": 92.50205,
+    "speed_kmph": 54.8,
+    "heading_deg": 131,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00038",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 24.94063,
+    "longitude": 92.54603,
+    "speed_kmph": 28.4,
+    "heading_deg": 342,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00039",
+    "vehicle_id": "VEH-004",
+    "segment_id": "SEG-0015",
+    "latitude": 24.8697,
+    "longitude": 92.59,
+    "speed_kmph": 53.9,
+    "heading_deg": 298,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00040",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.27,
+    "longitude": 94.02,
+    "speed_kmph": 45.8,
+    "heading_deg": 224,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00041",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.21754,
+    "longitude": 94.0183,
+    "speed_kmph": 18.5,
+    "heading_deg": 150,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00042",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.16507,
+    "longitude": 94.01661,
+    "speed_kmph": 33.4,
+    "heading_deg": 75,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00043",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.11261,
+    "longitude": 94.01491,
+    "speed_kmph": 42.3,
+    "heading_deg": 28,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00044",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.06014,
+    "longitude": 94.01322,
+    "speed_kmph": 25.3,
+    "heading_deg": 128,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00045",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 25.00981,
+    "longitude": 94.00397,
+    "speed_kmph": 48.2,
+    "heading_deg": 156,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00046",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 24.96161,
+    "longitude": 93.98718,
+    "speed_kmph": 57.6,
+    "heading_deg": 347,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00047",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 24.9134,
+    "longitude": 93.97039,
+    "speed_kmph": 17.0,
+    "heading_deg": 184,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00048",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 24.8652,
+    "longitude": 93.95359,
+    "speed_kmph": 30.9,
+    "heading_deg": 291,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00049",
+    "vehicle_id": "VEH-005",
+    "segment_id": "SEG-0024",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "speed_kmph": 23.8,
+    "heading_deg": 0,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00050",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.9063,
+    "longitude": 93.7276,
+    "speed_kmph": 49.4,
+    "heading_deg": 166,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00051",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.88767,
+    "longitude": 93.77578,
+    "speed_kmph": 16.6,
+    "heading_deg": 145,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00052",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.86904,
+    "longitude": 93.82396,
+    "speed_kmph": 25.8,
+    "heading_deg": 156,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00053",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.85041,
+    "longitude": 93.87214,
+    "speed_kmph": 31.3,
+    "heading_deg": 185,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00054",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.83178,
+    "longitude": 93.92032,
+    "speed_kmph": 34.3,
+    "heading_deg": 264,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00055",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.8061,
+    "longitude": 93.96265,
+    "speed_kmph": 15.1,
+    "heading_deg": 149,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00056",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.77335,
+    "longitude": 93.99914,
+    "speed_kmph": 46.0,
+    "heading_deg": 81,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00057",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.7406,
+    "longitude": 94.03563,
+    "speed_kmph": 26.6,
+    "heading_deg": 261,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00058",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.70785,
+    "longitude": 94.07211,
+    "speed_kmph": 46.8,
+    "heading_deg": 273,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00059",
+    "vehicle_id": "VEH-006",
+    "segment_id": "SEG-0021",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "speed_kmph": 42.7,
+    "heading_deg": 201,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00060",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.235,
+    "longitude": 88.5,
+    "speed_kmph": 29.4,
+    "heading_deg": 8,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00061",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.24347,
+    "longitude": 88.51936,
+    "speed_kmph": 52.7,
+    "heading_deg": 312,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00062",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.25195,
+    "longitude": 88.53872,
+    "speed_kmph": 22.5,
+    "heading_deg": 12,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00063",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.26042,
+    "longitude": 88.55808,
+    "speed_kmph": 23.5,
+    "heading_deg": 42,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00064",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.26889,
+    "longitude": 88.57744,
+    "speed_kmph": 33.9,
+    "heading_deg": 285,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00065",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.28044,
+    "longitude": 88.58927,
+    "speed_kmph": 25.5,
+    "heading_deg": 39,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00066",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.29505,
+    "longitude": 88.59358,
+    "speed_kmph": 22.9,
+    "heading_deg": 305,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00067",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.30967,
+    "longitude": 88.59789,
+    "speed_kmph": 16.5,
+    "heading_deg": 223,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00068",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.32428,
+    "longitude": 88.60219,
+    "speed_kmph": 44.3,
+    "heading_deg": 316,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00069",
+    "vehicle_id": "VEH-007",
+    "segment_id": "SEG-0048",
+    "latitude": 27.3389,
+    "longitude": 88.6065,
+    "speed_kmph": 55.6,
+    "heading_deg": 174,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00070",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.8315,
+    "longitude": 91.2868,
+    "speed_kmph": 36.2,
+    "heading_deg": 315,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00071",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.86534,
+    "longitude": 91.32247,
+    "speed_kmph": 21.9,
+    "heading_deg": 248,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00072",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.89918,
+    "longitude": 91.35813,
+    "speed_kmph": 34.3,
+    "heading_deg": 67,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00073",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.93302,
+    "longitude": 91.3938,
+    "speed_kmph": 46.4,
+    "heading_deg": 225,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00074",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.96686,
+    "longitude": 91.42947,
+    "speed_kmph": 45.9,
+    "heading_deg": 185,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00075",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 23.99299,
+    "longitude": 91.46427,
+    "speed_kmph": 23.6,
+    "heading_deg": 77,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00076",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 24.01142,
+    "longitude": 91.4982,
+    "speed_kmph": 19.5,
+    "heading_deg": 59,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00077",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 24.02985,
+    "longitude": 91.53213,
+    "speed_kmph": 19.6,
+    "heading_deg": 162,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00078",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 24.04827,
+    "longitude": 91.56607,
+    "speed_kmph": 56.7,
+    "heading_deg": 0,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00079",
+    "vehicle_id": "VEH-008",
+    "segment_id": "SEG-0039",
+    "latitude": 24.0667,
+    "longitude": 91.6,
+    "speed_kmph": 45.0,
+    "heading_deg": 269,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00080",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.5,
+    "longitude": 94.12,
+    "speed_kmph": 24.7,
+    "heading_deg": 50,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00081",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.47919,
+    "longitude": 94.11489,
+    "speed_kmph": 20.6,
+    "heading_deg": 243,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00082",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.45837,
+    "longitude": 94.10979,
+    "speed_kmph": 18.3,
+    "heading_deg": 117,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00083",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.43755,
+    "longitude": 94.10468,
+    "speed_kmph": 56.8,
+    "heading_deg": 233,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00084",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.41674,
+    "longitude": 94.09957,
+    "speed_kmph": 54.0,
+    "heading_deg": 22,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00085",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.38005,
+    "longitude": 94.07968,
+    "speed_kmph": 32.4,
+    "heading_deg": 35,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00086",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.34337,
+    "longitude": 94.05979,
+    "speed_kmph": 39.6,
+    "heading_deg": 176,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00087",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.30669,
+    "longitude": 94.03989,
+    "speed_kmph": 22.0,
+    "heading_deg": 244,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00088",
+    "vehicle_id": "VEH-009",
+    "segment_id": "SEG-0023",
+    "latitude": 25.27,
+    "longitude": 94.02,
+    "speed_kmph": 14.3,
+    "heading_deg": 345,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00089",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 26.7271,
+    "longitude": 88.3953,
+    "speed_kmph": 51.4,
+    "heading_deg": 120,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00090",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 26.83157,
+    "longitude": 88.41029,
+    "speed_kmph": 19.4,
+    "heading_deg": 305,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00091",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 26.93604,
+    "longitude": 88.42528,
+    "speed_kmph": 54.2,
+    "heading_deg": 309,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00092",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 27.02662,
+    "longitude": 88.45222,
+    "speed_kmph": 37.6,
+    "heading_deg": 321,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00093",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 27.10331,
+    "longitude": 88.49111,
+    "speed_kmph": 37.6,
+    "heading_deg": 250,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00094",
+    "vehicle_id": "VEH-010",
+    "segment_id": "SEG-0046",
+    "latitude": 27.18,
+    "longitude": 88.53,
+    "speed_kmph": 55.1,
+    "heading_deg": 107,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00095",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.11,
+    "longitude": 88.32,
+    "speed_kmph": 56.0,
+    "heading_deg": 81,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00096",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.12487,
+    "longitude": 88.32709,
+    "speed_kmph": 16.5,
+    "heading_deg": 0,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00097",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.13975,
+    "longitude": 88.33418,
+    "speed_kmph": 36.4,
+    "heading_deg": 271,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00098",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.15462,
+    "longitude": 88.34128,
+    "speed_kmph": 20.7,
+    "heading_deg": 327,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00099",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1695,
+    "longitude": 88.34837,
+    "speed_kmph": 33.2,
+    "heading_deg": 182,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00100",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1688,
+    "longitude": 88.34878,
+    "speed_kmph": 43.4,
+    "heading_deg": 279,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00101",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1681,
+    "longitude": 88.34919,
+    "speed_kmph": 53.1,
+    "heading_deg": 91,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00102",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1674,
+    "longitude": 88.34959,
+    "speed_kmph": 56.6,
+    "heading_deg": 115,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00103",
+    "vehicle_id": "VEH-011",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1667,
+    "longitude": 88.35,
+    "speed_kmph": 19.3,
+    "heading_deg": 44,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00104",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.3667,
+    "longitude": 92.1667,
+    "speed_kmph": 39.8,
+    "heading_deg": 189,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00105",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.36807,
+    "longitude": 92.18028,
+    "speed_kmph": 52.4,
+    "heading_deg": 31,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00106",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.36944,
+    "longitude": 92.19386,
+    "speed_kmph": 37.6,
+    "heading_deg": 177,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00107",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.3708,
+    "longitude": 92.20744,
+    "speed_kmph": 47.2,
+    "heading_deg": 288,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00108",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.37217,
+    "longitude": 92.22102,
+    "speed_kmph": 44.5,
+    "heading_deg": 296,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00109",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.37354,
+    "longitude": 92.2346,
+    "speed_kmph": 35.7,
+    "heading_deg": 342,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00110",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.37491,
+    "longitude": 92.24818,
+    "speed_kmph": 16.3,
+    "heading_deg": 62,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00111",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.37901,
+    "longitude": 92.26074,
+    "speed_kmph": 53.9,
+    "heading_deg": 308,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00112",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.38584,
+    "longitude": 92.27228,
+    "speed_kmph": 40.5,
+    "heading_deg": 92,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00113",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.39267,
+    "longitude": 92.28383,
+    "speed_kmph": 37.8,
+    "heading_deg": 254,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00114",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.3995,
+    "longitude": 92.29537,
+    "speed_kmph": 49.6,
+    "heading_deg": 286,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00115",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.40634,
+    "longitude": 92.30691,
+    "speed_kmph": 22.8,
+    "heading_deg": 69,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00116",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.41317,
+    "longitude": 92.31846,
+    "speed_kmph": 47.9,
+    "heading_deg": 1,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00117",
+    "vehicle_id": "VEH-012",
+    "segment_id": "SEG-0043",
+    "latitude": 24.42,
+    "longitude": 92.33,
+    "speed_kmph": 30.9,
+    "heading_deg": 97,
+    "recorded_at": "2026-09-16T11:25:00"
+  },
+  {
+    "ping_id": "GPS-00118",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.3464,
+    "longitude": 92.684,
+    "speed_kmph": 0.0,
+    "heading_deg": 336,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00119",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.3884,
+    "longitude": 92.70032,
+    "speed_kmph": 0.0,
+    "heading_deg": 301,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00120",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.43041,
+    "longitude": 92.71663,
+    "speed_kmph": 0.0,
+    "heading_deg": 335,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00121",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.47242,
+    "longitude": 92.73295,
+    "speed_kmph": 0.0,
+    "heading_deg": 163,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00122",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.51442,
+    "longitude": 92.74926,
+    "speed_kmph": 0.0,
+    "heading_deg": 173,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00123",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.54427,
+    "longitude": 92.76194,
+    "speed_kmph": 0.0,
+    "heading_deg": 96,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00124",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.57411,
+    "longitude": 92.77463,
+    "speed_kmph": 0.0,
+    "heading_deg": 158,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00125",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.60395,
+    "longitude": 92.78732,
+    "speed_kmph": 0.0,
+    "heading_deg": 100,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00126",
+    "vehicle_id": "VEH-013",
+    "segment_id": "SEG-0006",
+    "latitude": 26.6338,
+    "longitude": 92.8,
+    "speed_kmph": 0.0,
+    "heading_deg": 96,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00127",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.27,
+    "longitude": 94.02,
+    "speed_kmph": 37.9,
+    "heading_deg": 232,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00128",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.21754,
+    "longitude": 94.0183,
+    "speed_kmph": 44.8,
+    "heading_deg": 305,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00129",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.16507,
+    "longitude": 94.01661,
+    "speed_kmph": 32.5,
+    "heading_deg": 320,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00130",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.11261,
+    "longitude": 94.01491,
+    "speed_kmph": 12.6,
+    "heading_deg": 25,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00131",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.06014,
+    "longitude": 94.01322,
+    "speed_kmph": 50.1,
+    "heading_deg": 289,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00132",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 25.00981,
+    "longitude": 94.00397,
+    "speed_kmph": 43.0,
+    "heading_deg": 110,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00133",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 24.96161,
+    "longitude": 93.98718,
+    "speed_kmph": 20.5,
+    "heading_deg": 75,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00134",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 24.9134,
+    "longitude": 93.97039,
+    "speed_kmph": 24.7,
+    "heading_deg": 100,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00135",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 24.8652,
+    "longitude": 93.95359,
+    "speed_kmph": 50.1,
+    "heading_deg": 16,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00136",
+    "vehicle_id": "VEH-014",
+    "segment_id": "SEG-0024",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "speed_kmph": 51.8,
+    "heading_deg": 313,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00137",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.9063,
+    "longitude": 93.7276,
+    "speed_kmph": 43.3,
+    "heading_deg": 235,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00138",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.87836,
+    "longitude": 93.79987,
+    "speed_kmph": 22.3,
+    "heading_deg": 192,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00139",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.85041,
+    "longitude": 93.87214,
+    "speed_kmph": 20.9,
+    "heading_deg": 68,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00140",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.82247,
+    "longitude": 93.94441,
+    "speed_kmph": 25.5,
+    "heading_deg": 116,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00141",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.77335,
+    "longitude": 93.99914,
+    "speed_kmph": 12.2,
+    "heading_deg": 264,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00142",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.72422,
+    "longitude": 94.05387,
+    "speed_kmph": 42.1,
+    "heading_deg": 340,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00143",
+    "vehicle_id": "VEH-015",
+    "segment_id": "SEG-0021",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "speed_kmph": 34.9,
+    "heading_deg": 87,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00144",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "speed_kmph": 23.7,
+    "heading_deg": 257,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00145",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.69374,
+    "longitude": 92.78531,
+    "speed_kmph": 23.0,
+    "heading_deg": 293,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00146",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.66038,
+    "longitude": 92.85302,
+    "speed_kmph": 45.9,
+    "heading_deg": 248,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00147",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.62703,
+    "longitude": 92.92073,
+    "speed_kmph": 17.5,
+    "heading_deg": 69,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00148",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.59367,
+    "longitude": 92.98844,
+    "speed_kmph": 15.8,
+    "heading_deg": 85,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00149",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.5655,
+    "longitude": 93.05637,
+    "speed_kmph": 28.8,
+    "heading_deg": 317,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00150",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.54253,
+    "longitude": 93.12453,
+    "speed_kmph": 49.3,
+    "heading_deg": 301,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00151",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.51955,
+    "longitude": 93.19268,
+    "speed_kmph": 31.9,
+    "heading_deg": 307,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00152",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.49658,
+    "longitude": 93.26084,
+    "speed_kmph": 57.3,
+    "heading_deg": 25,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00153",
+    "vehicle_id": "VEH-016",
+    "segment_id": "SEG-0037",
+    "latitude": 23.4736,
+    "longitude": 93.329,
+    "speed_kmph": 18.7,
+    "heading_deg": 57,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00154",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.22,
+    "longitude": 92.68,
+    "speed_kmph": 0.0,
+    "heading_deg": 337,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00155",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.18598,
+    "longitude": 92.68019,
+    "speed_kmph": 0.0,
+    "heading_deg": 91,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00156",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.15196,
+    "longitude": 92.68037,
+    "speed_kmph": 0.0,
+    "heading_deg": 241,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00157",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.11794,
+    "longitude": 92.68056,
+    "speed_kmph": 0.0,
+    "heading_deg": 83,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00158",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.08392,
+    "longitude": 92.68074,
+    "speed_kmph": 0.0,
+    "heading_deg": 143,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00159",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.0499,
+    "longitude": 92.68093,
+    "speed_kmph": 0.0,
+    "heading_deg": 148,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00160",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 24.01588,
+    "longitude": 92.68112,
+    "speed_kmph": 0.0,
+    "heading_deg": 333,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00161",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.97796,
+    "longitude": 92.68401,
+    "speed_kmph": 0.0,
+    "heading_deg": 319,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00162",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.93615,
+    "longitude": 92.68961,
+    "speed_kmph": 0.0,
+    "heading_deg": 184,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00163",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.89434,
+    "longitude": 92.69521,
+    "speed_kmph": 0.0,
+    "heading_deg": 90,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00164",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.85253,
+    "longitude": 92.7008,
+    "speed_kmph": 0.0,
+    "heading_deg": 19,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00165",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.81072,
+    "longitude": 92.7064,
+    "speed_kmph": 0.0,
+    "heading_deg": 225,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00166",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.76891,
+    "longitude": 92.712,
+    "speed_kmph": 0.0,
+    "heading_deg": 196,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00167",
+    "vehicle_id": "VEH-017",
+    "segment_id": "SEG-0034",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "speed_kmph": 0.0,
+    "heading_deg": 292,
+    "recorded_at": "2026-09-16T11:25:00"
+  },
+  {
+    "ping_id": "GPS-00168",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.3333,
+    "longitude": 93.6833,
+    "speed_kmph": 0.0,
+    "heading_deg": 182,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00169",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.41358,
+    "longitude": 93.72647,
+    "speed_kmph": 0.0,
+    "heading_deg": 73,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00170",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.49385,
+    "longitude": 93.76963,
+    "speed_kmph": 0.0,
+    "heading_deg": 276,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00171",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.57413,
+    "longitude": 93.8128,
+    "speed_kmph": 0.0,
+    "heading_deg": 107,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00172",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.65509,
+    "longitude": 93.85413,
+    "speed_kmph": 0.0,
+    "heading_deg": 43,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00173",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.73604,
+    "longitude": 93.89547,
+    "speed_kmph": 0.0,
+    "heading_deg": 46,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00174",
+    "vehicle_id": "VEH-018",
+    "segment_id": "SEG-0031",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "speed_kmph": 0.0,
+    "heading_deg": 289,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00175",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.7509,
+    "longitude": 94.2037,
+    "speed_kmph": 34.7,
+    "heading_deg": 295,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00176",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.76551,
+    "longitude": 94.23677,
+    "speed_kmph": 28.4,
+    "heading_deg": 218,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00177",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.78011,
+    "longitude": 94.26985,
+    "speed_kmph": 30.7,
+    "heading_deg": 28,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00178",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.79472,
+    "longitude": 94.30293,
+    "speed_kmph": 54.8,
+    "heading_deg": 273,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00179",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.80933,
+    "longitude": 94.336,
+    "speed_kmph": 14.2,
+    "heading_deg": 190,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00180",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.82393,
+    "longitude": 94.36908,
+    "speed_kmph": 24.7,
+    "heading_deg": 10,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00181",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.83854,
+    "longitude": 94.40215,
+    "speed_kmph": 46.6,
+    "heading_deg": 238,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00182",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.86295,
+    "longitude": 94.44146,
+    "speed_kmph": 32.1,
+    "heading_deg": 30,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00183",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.88736,
+    "longitude": 94.48077,
+    "speed_kmph": 17.4,
+    "heading_deg": 64,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00184",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.91177,
+    "longitude": 94.52008,
+    "speed_kmph": 22.2,
+    "heading_deg": 199,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00185",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.93618,
+    "longitude": 94.55938,
+    "speed_kmph": 18.3,
+    "heading_deg": 241,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00186",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.96059,
+    "longitude": 94.59869,
+    "speed_kmph": 28.9,
+    "heading_deg": 12,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00187",
+    "vehicle_id": "VEH-019",
+    "segment_id": "SEG-0009",
+    "latitude": 26.985,
+    "longitude": 94.638,
+    "speed_kmph": 57.2,
+    "heading_deg": 9,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00188",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3167,
+    "longitude": 92.0167,
+    "speed_kmph": 29.8,
+    "heading_deg": 210,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00189",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31745,
+    "longitude": 92.03711,
+    "speed_kmph": 46.5,
+    "heading_deg": 178,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00190",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3182,
+    "longitude": 92.05752,
+    "speed_kmph": 33.7,
+    "heading_deg": 159,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00191",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31896,
+    "longitude": 92.07794,
+    "speed_kmph": 23.0,
+    "heading_deg": 243,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00192",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31971,
+    "longitude": 92.09835,
+    "speed_kmph": 57.7,
+    "heading_deg": 121,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00193",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.33146,
+    "longitude": 92.11544,
+    "speed_kmph": 37.2,
+    "heading_deg": 230,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00194",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.34321,
+    "longitude": 92.13253,
+    "speed_kmph": 56.7,
+    "heading_deg": 46,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00195",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.35495,
+    "longitude": 92.14961,
+    "speed_kmph": 46.3,
+    "heading_deg": 279,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00196",
+    "vehicle_id": "VEH-020",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3667,
+    "longitude": 92.1667,
+    "speed_kmph": 24.4,
+    "heading_deg": 187,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00197",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "speed_kmph": 15.4,
+    "heading_deg": 198,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00198",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.83159,
+    "longitude": 93.96553,
+    "speed_kmph": 22.4,
+    "heading_deg": 24,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00199",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.84618,
+    "longitude": 93.99426,
+    "speed_kmph": 54.6,
+    "heading_deg": 54,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00200",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.86077,
+    "longitude": 94.02299,
+    "speed_kmph": 20.0,
+    "heading_deg": 39,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00201",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.87536,
+    "longitude": 94.05172,
+    "speed_kmph": 36.7,
+    "heading_deg": 98,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00202",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.88995,
+    "longitude": 94.08045,
+    "speed_kmph": 30.7,
+    "heading_deg": 242,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00203",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.90454,
+    "longitude": 94.10918,
+    "speed_kmph": 56.7,
+    "heading_deg": 169,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00204",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.92246,
+    "longitude": 94.14224,
+    "speed_kmph": 50.0,
+    "heading_deg": 47,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00205",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.94372,
+    "longitude": 94.17965,
+    "speed_kmph": 18.4,
+    "heading_deg": 339,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00206",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.96497,
+    "longitude": 94.21706,
+    "speed_kmph": 36.0,
+    "heading_deg": 16,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00207",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 24.98623,
+    "longitude": 94.25447,
+    "speed_kmph": 46.2,
+    "heading_deg": 105,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00208",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 25.00749,
+    "longitude": 94.29188,
+    "speed_kmph": 55.9,
+    "heading_deg": 44,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00209",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 25.02874,
+    "longitude": 94.32929,
+    "speed_kmph": 14.4,
+    "heading_deg": 194,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00210",
+    "vehicle_id": "VEH-021",
+    "segment_id": "SEG-0032",
+    "latitude": 25.05,
+    "longitude": 94.3667,
+    "speed_kmph": 19.0,
+    "heading_deg": 225,
+    "recorded_at": "2026-09-16T11:25:00"
+  },
+  {
+    "ping_id": "GPS-00211",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.9,
+    "longitude": 91.88,
+    "speed_kmph": 28.7,
+    "heading_deg": 196,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00212",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.82817,
+    "longitude": 91.86956,
+    "speed_kmph": 48.0,
+    "heading_deg": 344,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00213",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.75634,
+    "longitude": 91.85912,
+    "speed_kmph": 25.6,
+    "heading_deg": 89,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00214",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.6921,
+    "longitude": 91.86178,
+    "speed_kmph": 43.1,
+    "heading_deg": 81,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00215",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.63545,
+    "longitude": 91.87754,
+    "speed_kmph": 51.7,
+    "heading_deg": 78,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00216",
+    "vehicle_id": "VEH-022",
+    "segment_id": "SEG-0013",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "speed_kmph": 38.5,
+    "heading_deg": 166,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00217",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "speed_kmph": 51.0,
+    "heading_deg": 201,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00218",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.67906,
+    "longitude": 92.73814,
+    "speed_kmph": 27.5,
+    "heading_deg": 344,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00219",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.63102,
+    "longitude": 92.75867,
+    "speed_kmph": 24.8,
+    "heading_deg": 192,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00220",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.58299,
+    "longitude": 92.77921,
+    "speed_kmph": 22.2,
+    "heading_deg": 39,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00221",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.53495,
+    "longitude": 92.79974,
+    "speed_kmph": 31.9,
+    "heading_deg": 47,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00222",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.48749,
+    "longitude": 92.81445,
+    "speed_kmph": 25.7,
+    "heading_deg": 181,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00223",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.44062,
+    "longitude": 92.82334,
+    "speed_kmph": 53.4,
+    "heading_deg": 27,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00224",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.39375,
+    "longitude": 92.83223,
+    "speed_kmph": 21.5,
+    "heading_deg": 173,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00225",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.34687,
+    "longitude": 92.84111,
+    "speed_kmph": 22.4,
+    "heading_deg": 144,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00226",
+    "vehicle_id": "VEH-023",
+    "segment_id": "SEG-0035",
+    "latitude": 23.3,
+    "longitude": 92.85,
+    "speed_kmph": 19.3,
+    "heading_deg": 104,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00227",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.7271,
+    "longitude": 92.7176,
+    "speed_kmph": 19.3,
+    "heading_deg": 130,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00228",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.69107,
+    "longitude": 92.733,
+    "speed_kmph": 32.1,
+    "heading_deg": 231,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00229",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.65504,
+    "longitude": 92.7484,
+    "speed_kmph": 51.9,
+    "heading_deg": 64,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00230",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.61901,
+    "longitude": 92.76381,
+    "speed_kmph": 19.7,
+    "heading_deg": 357,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00231",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.58299,
+    "longitude": 92.77921,
+    "speed_kmph": 34.2,
+    "heading_deg": 37,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00232",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.54696,
+    "longitude": 92.79461,
+    "speed_kmph": 34.7,
+    "heading_deg": 329,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00233",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.51093,
+    "longitude": 92.81001,
+    "speed_kmph": 32.2,
+    "heading_deg": 6,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00234",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.47577,
+    "longitude": 92.81668,
+    "speed_kmph": 24.8,
+    "heading_deg": 182,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00235",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.44062,
+    "longitude": 92.82334,
+    "speed_kmph": 57.8,
+    "heading_deg": 171,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00236",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.40546,
+    "longitude": 92.83,
+    "speed_kmph": 55.2,
+    "heading_deg": 73,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00237",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.37031,
+    "longitude": 92.83667,
+    "speed_kmph": 25.5,
+    "heading_deg": 87,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00238",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.33516,
+    "longitude": 92.84333,
+    "speed_kmph": 43.8,
+    "heading_deg": 184,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00239",
+    "vehicle_id": "VEH-024",
+    "segment_id": "SEG-0035",
+    "latitude": 23.3,
+    "longitude": 92.85,
+    "speed_kmph": 39.5,
+    "heading_deg": 218,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00240",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.11,
+    "longitude": 88.32,
+    "speed_kmph": 56.6,
+    "heading_deg": 75,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00241",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.12322,
+    "longitude": 88.3263,
+    "speed_kmph": 28.8,
+    "heading_deg": 309,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00242",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.13644,
+    "longitude": 88.33261,
+    "speed_kmph": 32.7,
+    "heading_deg": 26,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00243",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.14967,
+    "longitude": 88.33891,
+    "speed_kmph": 29.3,
+    "heading_deg": 117,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00244",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.16289,
+    "longitude": 88.34522,
+    "speed_kmph": 34.2,
+    "heading_deg": 316,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00245",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.16919,
+    "longitude": 88.34855,
+    "speed_kmph": 50.7,
+    "heading_deg": 335,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00246",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.16857,
+    "longitude": 88.34891,
+    "speed_kmph": 54.6,
+    "heading_deg": 20,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00247",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.16794,
+    "longitude": 88.34928,
+    "speed_kmph": 44.0,
+    "heading_deg": 96,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00248",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.16732,
+    "longitude": 88.34964,
+    "speed_kmph": 25.3,
+    "heading_deg": 261,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00249",
+    "vehicle_id": "VEH-025",
+    "segment_id": "SEG-0053",
+    "latitude": 27.1667,
+    "longitude": 88.35,
+    "speed_kmph": 40.6,
+    "heading_deg": 113,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00250",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 24.0667,
+    "longitude": 91.6,
+    "speed_kmph": 17.0,
+    "heading_deg": 23,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00251",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 24.03416,
+    "longitude": 91.64717,
+    "speed_kmph": 17.7,
+    "heading_deg": 194,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00252",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 24.00163,
+    "longitude": 91.69433,
+    "speed_kmph": 50.9,
+    "heading_deg": 120,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00253",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 23.96909,
+    "longitude": 91.7415,
+    "speed_kmph": 52.8,
+    "heading_deg": 289,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00254",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 23.95716,
+    "longitude": 91.77767,
+    "speed_kmph": 39.7,
+    "heading_deg": 94,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00255",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 23.94523,
+    "longitude": 91.81383,
+    "speed_kmph": 54.6,
+    "heading_deg": 49,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00256",
+    "vehicle_id": "VEH-026",
+    "segment_id": "SEG-0040",
+    "latitude": 23.9333,
+    "longitude": 91.85,
+    "speed_kmph": 47.5,
+    "heading_deg": 327,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00257",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.7271,
+    "longitude": 88.3953,
+    "speed_kmph": 24.9,
+    "heading_deg": 93,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00258",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.69543,
+    "longitude": 88.60845,
+    "speed_kmph": 23.7,
+    "heading_deg": 47,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00259",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.66376,
+    "longitude": 88.8216,
+    "speed_kmph": 28.0,
+    "heading_deg": 346,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00260",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.63209,
+    "longitude": 89.03475,
+    "speed_kmph": 46.1,
+    "heading_deg": 109,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00261",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.60042,
+    "longitude": 89.2479,
+    "speed_kmph": 50.7,
+    "heading_deg": 238,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00262",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.56875,
+    "longitude": 89.46105,
+    "speed_kmph": 40.1,
+    "heading_deg": 31,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00263",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.55038,
+    "longitude": 89.6805,
+    "speed_kmph": 44.4,
+    "heading_deg": 212,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00264",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.53201,
+    "longitude": 89.89995,
+    "speed_kmph": 50.5,
+    "heading_deg": 13,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00265",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.51364,
+    "longitude": 90.1194,
+    "speed_kmph": 36.4,
+    "heading_deg": 262,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00266",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.49527,
+    "longitude": 90.33885,
+    "speed_kmph": 23.1,
+    "heading_deg": 269,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00267",
+    "vehicle_id": "VEH-027",
+    "segment_id": "SEG-0001",
+    "latitude": 26.4769,
+    "longitude": 90.5583,
+    "speed_kmph": 45.0,
+    "heading_deg": 189,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00268",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.18,
+    "longitude": 88.53,
+    "speed_kmph": 57.4,
+    "heading_deg": 330,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00269",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17946,
+    "longitude": 88.52342,
+    "speed_kmph": 55.6,
+    "heading_deg": 114,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00270",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17893,
+    "longitude": 88.51684,
+    "speed_kmph": 31.6,
+    "heading_deg": 164,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00271",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17839,
+    "longitude": 88.51026,
+    "speed_kmph": 24.1,
+    "heading_deg": 287,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00272",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17786,
+    "longitude": 88.50368,
+    "speed_kmph": 32.6,
+    "heading_deg": 313,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00273",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17732,
+    "longitude": 88.4971,
+    "speed_kmph": 32.7,
+    "heading_deg": 289,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00274",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.18886,
+    "longitude": 88.49768,
+    "speed_kmph": 47.5,
+    "heading_deg": 247,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00275",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.20039,
+    "longitude": 88.49826,
+    "speed_kmph": 24.0,
+    "heading_deg": 178,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00276",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.21193,
+    "longitude": 88.49884,
+    "speed_kmph": 45.7,
+    "heading_deg": 82,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00277",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.22346,
+    "longitude": 88.49942,
+    "speed_kmph": 41.1,
+    "heading_deg": 331,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00278",
+    "vehicle_id": "VEH-028",
+    "segment_id": "SEG-0047",
+    "latitude": 27.235,
+    "longitude": 88.5,
+    "speed_kmph": 57.2,
+    "heading_deg": 155,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00279",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.9063,
+    "longitude": 93.7276,
+    "speed_kmph": 0.0,
+    "heading_deg": 196,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00280",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.88534,
+    "longitude": 93.7818,
+    "speed_kmph": 0.0,
+    "heading_deg": 271,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00281",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.86438,
+    "longitude": 93.83601,
+    "speed_kmph": 0.0,
+    "heading_deg": 85,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00282",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.84343,
+    "longitude": 93.89021,
+    "speed_kmph": 0.0,
+    "heading_deg": 244,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00283",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.82247,
+    "longitude": 93.94441,
+    "speed_kmph": 0.0,
+    "heading_deg": 167,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00284",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.78563,
+    "longitude": 93.98546,
+    "speed_kmph": 0.0,
+    "heading_deg": 206,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00285",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.74878,
+    "longitude": 94.02651,
+    "speed_kmph": 0.0,
+    "heading_deg": 263,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00286",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.71194,
+    "longitude": 94.06755,
+    "speed_kmph": 0.0,
+    "heading_deg": 130,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00287",
+    "vehicle_id": "VEH-029",
+    "segment_id": "SEG-0021",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "speed_kmph": 0.0,
+    "heading_deg": 299,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00288",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.45,
+    "longitude": 92.2,
+    "speed_kmph": 52.8,
+    "heading_deg": 270,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00289",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.40648,
+    "longitude": 92.23202,
+    "speed_kmph": 27.1,
+    "heading_deg": 354,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00290",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.36296,
+    "longitude": 92.26404,
+    "speed_kmph": 52.9,
+    "heading_deg": 231,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00291",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.31943,
+    "longitude": 92.29606,
+    "speed_kmph": 36.0,
+    "heading_deg": 328,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00292",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.27591,
+    "longitude": 92.32808,
+    "speed_kmph": 52.2,
+    "heading_deg": 246,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00293",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.23239,
+    "longitude": 92.3601,
+    "speed_kmph": 54.6,
+    "heading_deg": 162,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00294",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.18887,
+    "longitude": 92.39212,
+    "speed_kmph": 22.7,
+    "heading_deg": 261,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00295",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.13568,
+    "longitude": 92.4251,
+    "speed_kmph": 16.9,
+    "heading_deg": 271,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00296",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.08248,
+    "longitude": 92.45808,
+    "speed_kmph": 12.3,
+    "heading_deg": 206,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00297",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 25.02929,
+    "longitude": 92.49106,
+    "speed_kmph": 56.3,
+    "heading_deg": 267,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00298",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 24.97609,
+    "longitude": 92.52404,
+    "speed_kmph": 43.0,
+    "heading_deg": 304,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00299",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 24.9229,
+    "longitude": 92.55702,
+    "speed_kmph": 24.0,
+    "heading_deg": 55,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00300",
+    "vehicle_id": "VEH-030",
+    "segment_id": "SEG-0015",
+    "latitude": 24.8697,
+    "longitude": 92.59,
+    "speed_kmph": 16.9,
+    "heading_deg": 308,
+    "recorded_at": "2026-09-16T11:00:00"
+  },
+  {
+    "ping_id": "GPS-00301",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.29,
+    "longitude": 88.26,
+    "speed_kmph": 43.2,
+    "heading_deg": 81,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00302",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.30631,
+    "longitude": 88.26198,
+    "speed_kmph": 49.0,
+    "heading_deg": 211,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00303",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.32263,
+    "longitude": 88.26396,
+    "speed_kmph": 34.2,
+    "heading_deg": 330,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00304",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.33894,
+    "longitude": 88.26594,
+    "speed_kmph": 44.8,
+    "heading_deg": 288,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00305",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.35525,
+    "longitude": 88.26792,
+    "speed_kmph": 40.4,
+    "heading_deg": 79,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00306",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.35894,
+    "longitude": 88.25594,
+    "speed_kmph": 33.4,
+    "heading_deg": 87,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00307",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.36263,
+    "longitude": 88.24396,
+    "speed_kmph": 22.0,
+    "heading_deg": 54,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00308",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.36631,
+    "longitude": 88.23198,
+    "speed_kmph": 12.9,
+    "heading_deg": 4,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00309",
+    "vehicle_id": "VEH-031",
+    "segment_id": "SEG-0055",
+    "latitude": 27.37,
+    "longitude": 88.22,
+    "speed_kmph": 45.3,
+    "heading_deg": 318,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00310",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.18,
+    "longitude": 88.53,
+    "speed_kmph": 51.9,
+    "heading_deg": 328,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00311",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17946,
+    "longitude": 88.52342,
+    "speed_kmph": 29.7,
+    "heading_deg": 162,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00312",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17893,
+    "longitude": 88.51684,
+    "speed_kmph": 15.4,
+    "heading_deg": 286,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00313",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17839,
+    "longitude": 88.51026,
+    "speed_kmph": 51.0,
+    "heading_deg": 179,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00314",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17786,
+    "longitude": 88.50368,
+    "speed_kmph": 32.8,
+    "heading_deg": 187,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00315",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.17732,
+    "longitude": 88.4971,
+    "speed_kmph": 21.4,
+    "heading_deg": 92,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00316",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.18886,
+    "longitude": 88.49768,
+    "speed_kmph": 13.9,
+    "heading_deg": 125,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00317",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.20039,
+    "longitude": 88.49826,
+    "speed_kmph": 29.3,
+    "heading_deg": 113,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00318",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.21193,
+    "longitude": 88.49884,
+    "speed_kmph": 43.5,
+    "heading_deg": 10,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00319",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.22346,
+    "longitude": 88.49942,
+    "speed_kmph": 15.0,
+    "heading_deg": 159,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00320",
+    "vehicle_id": "VEH-032",
+    "segment_id": "SEG-0047",
+    "latitude": 27.235,
+    "longitude": 88.5,
+    "speed_kmph": 49.1,
+    "heading_deg": 140,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00321",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.29,
+    "longitude": 88.26,
+    "speed_kmph": 40.6,
+    "heading_deg": 246,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00322",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.31175,
+    "longitude": 88.26264,
+    "speed_kmph": 19.3,
+    "heading_deg": 288,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00323",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.3335,
+    "longitude": 88.26528,
+    "speed_kmph": 50.2,
+    "heading_deg": 336,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00324",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.35525,
+    "longitude": 88.26792,
+    "speed_kmph": 25.3,
+    "heading_deg": 336,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00325",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.36017,
+    "longitude": 88.25195,
+    "speed_kmph": 14.6,
+    "heading_deg": 218,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00326",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.36508,
+    "longitude": 88.23597,
+    "speed_kmph": 34.7,
+    "heading_deg": 271,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00327",
+    "vehicle_id": "VEH-033",
+    "segment_id": "SEG-0055",
+    "latitude": 27.37,
+    "longitude": 88.22,
+    "speed_kmph": 55.8,
+    "heading_deg": 198,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00328",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.75,
+    "longitude": 93.17,
+    "speed_kmph": 0.0,
+    "heading_deg": 78,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00329",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.67988,
+    "longitude": 93.15776,
+    "speed_kmph": 0.0,
+    "heading_deg": 268,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00330",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.60975,
+    "longitude": 93.14552,
+    "speed_kmph": 0.0,
+    "heading_deg": 302,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00331",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.53963,
+    "longitude": 93.13329,
+    "speed_kmph": 0.0,
+    "heading_deg": 136,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00332",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.46951,
+    "longitude": 93.12105,
+    "speed_kmph": 0.0,
+    "heading_deg": 20,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00333",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.39318,
+    "longitude": 93.09471,
+    "speed_kmph": 0.0,
+    "heading_deg": 36,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00334",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.31686,
+    "longitude": 93.06838,
+    "speed_kmph": 0.0,
+    "heading_deg": 46,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00335",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.24053,
+    "longitude": 93.04204,
+    "speed_kmph": 0.0,
+    "heading_deg": 233,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00336",
+    "vehicle_id": "VEH-034",
+    "segment_id": "SEG-0068",
+    "latitude": 25.1642,
+    "longitude": 93.0157,
+    "speed_kmph": 0.0,
+    "heading_deg": 39,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00337",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3167,
+    "longitude": 92.0167,
+    "speed_kmph": 52.7,
+    "heading_deg": 127,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00338",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31745,
+    "longitude": 92.03711,
+    "speed_kmph": 55.7,
+    "heading_deg": 248,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00339",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3182,
+    "longitude": 92.05752,
+    "speed_kmph": 13.3,
+    "heading_deg": 235,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00340",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31896,
+    "longitude": 92.07794,
+    "speed_kmph": 16.7,
+    "heading_deg": 135,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00341",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.31971,
+    "longitude": 92.09835,
+    "speed_kmph": 31.0,
+    "heading_deg": 234,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00342",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.33146,
+    "longitude": 92.11544,
+    "speed_kmph": 39.2,
+    "heading_deg": 282,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00343",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.34321,
+    "longitude": 92.13253,
+    "speed_kmph": 33.4,
+    "heading_deg": 357,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00344",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.35495,
+    "longitude": 92.14961,
+    "speed_kmph": 22.8,
+    "heading_deg": 110,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00345",
+    "vehicle_id": "VEH-035",
+    "segment_id": "SEG-0042",
+    "latitude": 24.3667,
+    "longitude": 92.1667,
+    "speed_kmph": 56.7,
+    "heading_deg": 54,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00346",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.9,
+    "longitude": 91.88,
+    "speed_kmph": 48.9,
+    "heading_deg": 73,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00347",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.86735,
+    "longitude": 91.87525,
+    "speed_kmph": 32.6,
+    "heading_deg": 312,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00348",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.8347,
+    "longitude": 91.87051,
+    "speed_kmph": 19.8,
+    "heading_deg": 158,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00349",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.80205,
+    "longitude": 91.86576,
+    "speed_kmph": 31.0,
+    "heading_deg": 24,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00350",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.7694,
+    "longitude": 91.86102,
+    "speed_kmph": 15.9,
+    "heading_deg": 8,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00351",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.73675,
+    "longitude": 91.85627,
+    "speed_kmph": 56.6,
+    "heading_deg": 326,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00352",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.70755,
+    "longitude": 91.85748,
+    "speed_kmph": 40.0,
+    "heading_deg": 333,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00353",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.6818,
+    "longitude": 91.86465,
+    "speed_kmph": 49.5,
+    "heading_deg": 240,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00354",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.65605,
+    "longitude": 91.87181,
+    "speed_kmph": 25.4,
+    "heading_deg": 0,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00355",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.6303,
+    "longitude": 91.87897,
+    "speed_kmph": 39.3,
+    "heading_deg": 236,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00356",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.60455,
+    "longitude": 91.88614,
+    "speed_kmph": 14.5,
+    "heading_deg": 262,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00357",
+    "vehicle_id": "VEH-036",
+    "segment_id": "SEG-0013",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "speed_kmph": 21.9,
+    "heading_deg": 189,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00358",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.6751,
+    "longitude": 94.1086,
+    "speed_kmph": 29.5,
+    "heading_deg": 36,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00359",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.71896,
+    "longitude": 94.11709,
+    "speed_kmph": 37.0,
+    "heading_deg": 193,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00360",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.76282,
+    "longitude": 94.12558,
+    "speed_kmph": 16.3,
+    "heading_deg": 269,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00361",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.80669,
+    "longitude": 94.13407,
+    "speed_kmph": 53.9,
+    "heading_deg": 124,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00362",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.85055,
+    "longitude": 94.14256,
+    "speed_kmph": 49.3,
+    "heading_deg": 20,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00363",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.89441,
+    "longitude": 94.15105,
+    "speed_kmph": 12.3,
+    "heading_deg": 31,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00364",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.93258,
+    "longitude": 94.16482,
+    "speed_kmph": 50.1,
+    "heading_deg": 51,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00365",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.96507,
+    "longitude": 94.18385,
+    "speed_kmph": 12.3,
+    "heading_deg": 76,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00366",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 25.99755,
+    "longitude": 94.20289,
+    "speed_kmph": 46.5,
+    "heading_deg": 67,
+    "recorded_at": "2026-09-16T09:20:00"
+  },
+  {
+    "ping_id": "GPS-00367",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 26.03003,
+    "longitude": 94.22193,
+    "speed_kmph": 45.3,
+    "heading_deg": 86,
+    "recorded_at": "2026-09-16T09:45:00"
+  },
+  {
+    "ping_id": "GPS-00368",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 26.06252,
+    "longitude": 94.24096,
+    "speed_kmph": 44.3,
+    "heading_deg": 286,
+    "recorded_at": "2026-09-16T10:10:00"
+  },
+  {
+    "ping_id": "GPS-00369",
+    "vehicle_id": "VEH-037",
+    "segment_id": "SEG-0025",
+    "latitude": 26.095,
+    "longitude": 94.26,
+    "speed_kmph": 50.1,
+    "heading_deg": 314,
+    "recorded_at": "2026-09-16T10:35:00"
+  },
+  {
+    "ping_id": "GPS-00370",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.3333,
+    "longitude": 93.6833,
+    "speed_kmph": 26.7,
+    "heading_deg": 18,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00371",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.42963,
+    "longitude": 93.7351,
+    "speed_kmph": 17.6,
+    "heading_deg": 39,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00372",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.52596,
+    "longitude": 93.7869,
+    "speed_kmph": 47.0,
+    "heading_deg": 279,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00373",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.6227,
+    "longitude": 93.8376,
+    "speed_kmph": 53.8,
+    "heading_deg": 193,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00374",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.71985,
+    "longitude": 93.8872,
+    "speed_kmph": 38.0,
+    "heading_deg": 137,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00375",
+    "vehicle_id": "VEH-038",
+    "segment_id": "SEG-0031",
+    "latitude": 24.817,
+    "longitude": 93.9368,
+    "speed_kmph": 45.4,
+    "heading_deg": 57,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00376",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.1445,
+    "longitude": 91.7362,
+    "speed_kmph": 48.0,
+    "heading_deg": 237,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00377",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.17523,
+    "longitude": 91.93856,
+    "speed_kmph": 32.1,
+    "heading_deg": 265,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00378",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.20596,
+    "longitude": 92.14092,
+    "speed_kmph": 53.4,
+    "heading_deg": 33,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00379",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.24634,
+    "longitude": 92.33048,
+    "speed_kmph": 13.8,
+    "heading_deg": 56,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00380",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.29637,
+    "longitude": 92.50724,
+    "speed_kmph": 25.0,
+    "heading_deg": 156,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00381",
+    "vehicle_id": "VEH-039",
+    "segment_id": "SEG-0005",
+    "latitude": 26.3464,
+    "longitude": 92.684,
+    "speed_kmph": 15.7,
+    "heading_deg": 217,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00382",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.9,
+    "longitude": 91.88,
+    "speed_kmph": 50.5,
+    "heading_deg": 286,
+    "recorded_at": "2026-09-16T06:00:00"
+  },
+  {
+    "ping_id": "GPS-00383",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.85511,
+    "longitude": 91.87347,
+    "speed_kmph": 18.9,
+    "heading_deg": 77,
+    "recorded_at": "2026-09-16T06:25:00"
+  },
+  {
+    "ping_id": "GPS-00384",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.81021,
+    "longitude": 91.86695,
+    "speed_kmph": 28.7,
+    "heading_deg": 290,
+    "recorded_at": "2026-09-16T06:50:00"
+  },
+  {
+    "ping_id": "GPS-00385",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.76532,
+    "longitude": 91.86042,
+    "speed_kmph": 29.5,
+    "heading_deg": 69,
+    "recorded_at": "2026-09-16T07:15:00"
+  },
+  {
+    "ping_id": "GPS-00386",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.72043,
+    "longitude": 91.8539,
+    "speed_kmph": 54.0,
+    "heading_deg": 302,
+    "recorded_at": "2026-09-16T07:40:00"
+  },
+  {
+    "ping_id": "GPS-00387",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.68502,
+    "longitude": 91.86375,
+    "speed_kmph": 55.1,
+    "heading_deg": 259,
+    "recorded_at": "2026-09-16T08:05:00"
+  },
+  {
+    "ping_id": "GPS-00388",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.64962,
+    "longitude": 91.8736,
+    "speed_kmph": 41.0,
+    "heading_deg": 62,
+    "recorded_at": "2026-09-16T08:30:00"
+  },
+  {
+    "ping_id": "GPS-00389",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.61421,
+    "longitude": 91.88345,
+    "speed_kmph": 31.9,
+    "heading_deg": 74,
+    "recorded_at": "2026-09-16T08:55:00"
+  },
+  {
+    "ping_id": "GPS-00390",
+    "vehicle_id": "VEH-040",
+    "segment_id": "SEG-0013",
+    "latitude": 25.5788,
+    "longitude": 91.8933,
+    "speed_kmph": 17.0,
+    "heading_deg": 248,
+    "recorded_at": "2026-09-16T09:20:00"
+  }
+]

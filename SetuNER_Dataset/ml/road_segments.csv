@@ -1,0 +1,72 @@
+segment_id,highway_code,corridor_name,from_name,to_name,from_district_id,to_district_id,importance,lanes,length_km,terrain,avg_slope_deg,elevation_m,soil_type,bridge_count,surface_quality,dist_to_river_km
+SEG-0001,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Siliguri,Bongaigaon,D-WB-01,D-AS-10,national,4,216.84,plain,4.2,87,alluvial,1,good,3.0
+SEG-0002,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Bongaigaon,Barpeta Road,D-AS-10,D-AS-10,national,4,47.71,plain,4.4,53,alluvial,3,good,0.31
+SEG-0003,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Barpeta Road,Nalbari,D-AS-10,D-AS-01,national,4,45.56,plain,2.1,54,alluvial,1,fair,2.67
+SEG-0004,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Nalbari,Guwahati,D-AS-01,D-AS-01,national,4,44.45,plain,3.7,55,alluvial,0,good,2.85
+SEG-0005,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Guwahati,Nagaon,D-AS-01,D-AS-02,national,4,97.15,plain,2.7,57,alluvial,2,good,0.55
+SEG-0006,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Nagaon,Tezpur,D-AS-02,D-AS-09,national,4,33.98,plain,1.5,69,alluvial,0,fair,1.95
+SEG-0007,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Tezpur,Golaghat,D-AS-09,D-AS-03,national,4,116.18,plain,1.6,84,alluvial,2,fair,2.55
+SEG-0008,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Golaghat,Jorhat,D-AS-03,D-AS-03,national,4,36.12,plain,5.3,90,alluvial,0,fair,1.07
+SEG-0009,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Jorhat,Sivasagar,D-AS-03,D-AS-11,national,4,50.33,plain,2.4,93,alluvial,0,good,1.26
+SEG-0010,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Sivasagar,Dibrugarh,D-AS-11,D-AS-04,national,4,60.63,plain,4.2,102,alluvial,1,fair,1.21
+SEG-0011,NH-27,Siliguri - Guwahati - Dibrugarh (East-West Corridor),Dibrugarh,Tinsukia,D-AS-04,D-AS-05,national,4,42.95,plain,5.7,112,alluvial,1,fair,2.97
+SEG-0012,NH-6,Guwahati - Shillong - Silchar,Guwahati,Nongpoh,D-AS-01,D-ML-01,national,2,30.75,mountain,23.6,775,weathered_rock,3,fair,15.25
+SEG-0013,NH-6,Guwahati - Shillong - Silchar,Nongpoh,Shillong,D-ML-01,D-ML-01,national,2,35.74,mountain,37.1,1496,weathered_rock,5,poor,5.19
+SEG-0014,NH-6,Guwahati - Shillong - Silchar,Shillong,Jowai,D-ML-01,D-ML-02,national,2,33.95,mountain,24.6,1438,weathered_rock,5,fair,11.97
+SEG-0015,NH-6,Guwahati - Shillong - Silchar,Jowai,Badarpur,D-ML-02,D-AS-12,national,2,75.53,mountain,28.7,701,weathered_rock,4,fair,4.82
+SEG-0016,NH-6,Guwahati - Shillong - Silchar,Badarpur,Silchar,D-AS-12,D-AS-06,national,2,19.48,plain,3.8,24,alluvial,4,good,1.58
+SEG-0017,NH-27-SPUR,Guwahati - Tura (Garo Hills),Guwahati,Goalpara,D-AS-01,D-AS-10,national,2,111.76,plain,6.0,54,alluvial,0,good,0.78
+SEG-0018,NH-27-SPUR,Guwahati - Tura (Garo Hills),Goalpara,Tura,D-AS-10,D-ML-03,national,2,83.56,hilly,10.2,139,lateritic,6,poor,10.93
+SEG-0019,NH-27-SPUR,Guwahati - Tura (Garo Hills),Tura,Williamnagar,D-ML-03,D-ML-04,national,2,41.98,hilly,14.6,337,lateritic,0,good,12.43
+SEG-0020,NH-27-SPUR,Guwahati - Tura (Garo Hills),Williamnagar,Baghmara,D-ML-04,D-ML-04,national,2,33.37,hilly,15.5,450,lateritic,1,fair,8.11
+SEG-0021,NH-2,Dimapur - Kohima - Imphal (lifeline to Manipur),Dimapur,Kohima,D-NL-02,D-NL-01,national,2,46.0,mountain,30.0,794,weathered_rock,4,fair,9.38
+SEG-0022,NH-2,Dimapur - Kohima - Imphal (lifeline to Manipur),Kohima,Mao Gate,D-NL-01,D-MN-05,national,2,19.5,mountain,22.3,1252,weathered_rock,3,fair,7.04
+SEG-0023,NH-2,Dimapur - Kohima - Imphal (lifeline to Manipur),Mao Gate,Senapati,D-MN-05,D-MN-05,national,2,27.48,mountain,23.6,1061,weathered_rock,0,fair,9.05
+SEG-0024,NH-2,Dimapur - Kohima - Imphal (lifeline to Manipur),Senapati,Imphal,D-MN-05,D-MN-01,national,2,51.06,mountain,22.5,923,weathered_rock,4,fair,1.51
+SEG-0025,NH-29,Kohima - Mokokchung - Tuensang,Kohima,Wokha,D-NL-01,D-NL-04,national,2,49.09,mountain,39.3,1378,weathered_rock,7,good,17.61
+SEG-0026,NH-29,Kohima - Mokokchung - Tuensang,Wokha,Mokokchung,D-NL-04,D-NL-03,national,2,35.84,mountain,31.7,1319,weathered_rock,2,fair,9.73
+SEG-0027,NH-29,Kohima - Mokokchung - Tuensang,Mokokchung,Tuensang,D-NL-03,D-NL-05,national,2,31.75,mountain,33.3,1348,weathered_rock,3,fair,7.48
+SEG-0028,NH-37,Imphal - Tamenglong - Silchar (alternate to Manipur),Imphal,Tamenglong,D-MN-01,D-MN-04,national,2,46.71,mountain,34.8,1023,weathered_rock,7,good,4.84
+SEG-0029,NH-37,Imphal - Tamenglong - Silchar (alternate to Manipur),Tamenglong,Jiribam,D-MN-04,D-MN-04,national,2,44.14,mountain,21.4,1260,weathered_rock,3,good,1.74
+SEG-0030,NH-37,Imphal - Tamenglong - Silchar (alternate to Manipur),Jiribam,Silchar,D-MN-04,D-AS-06,national,2,34.62,mountain,33.9,642,weathered_rock,5,good,9.5
+SEG-0031,NH-2-S,Imphal - Churachandpur - Ukhrul,Churachandpur,Imphal,D-MN-02,D-MN-01,state,2,59.58,mountain,26.1,850,weathered_rock,7,fair,14.23
+SEG-0032,NH-2-S,Imphal - Churachandpur - Ukhrul,Imphal,Ukhrul,D-MN-01,D-MN-03,state,2,50.5,mountain,37.8,1224,weathered_rock,6,fair,7.91
+SEG-0033,NH-306,Silchar - Aizawl - Lunglei (Mizoram lifeline),Silchar,Kolasib,D-AS-06,D-MZ-04,national,2,68.93,hilly,14.5,337,lateritic,1,good,7.55
+SEG-0034,NH-306,Silchar - Aizawl - Lunglei (Mizoram lifeline),Kolasib,Aizawl,D-MZ-04,D-MZ-01,national,2,54.94,mountain,27.5,891,weathered_rock,3,poor,2.95
+SEG-0035,NH-306,Silchar - Aizawl - Lunglei (Mizoram lifeline),Aizawl,Serchhip,D-MZ-01,D-MZ-05,national,2,49.37,mountain,24.0,1216,weathered_rock,1,poor,14.64
+SEG-0036,NH-306,Silchar - Aizawl - Lunglei (Mizoram lifeline),Serchhip,Lunglei,D-MZ-05,D-MZ-02,national,2,48.29,mountain,38.8,1084,weathered_rock,0,good,16.71
+SEG-0037,NH-302,Aizawl - Champhai (Myanmar border road),Aizawl,Champhai,D-MZ-01,D-MZ-03,state,2,68.38,mountain,38.7,1405,weathered_rock,3,poor,16.29
+SEG-0038,NH-8,Agartala - Dharmanagar (Tripura spine),Belonia,Agartala,D-TR-04,D-TR-01,national,2,66.77,plain,1.8,16,alluvial,3,good,1.81
+SEG-0039,NH-8,Agartala - Dharmanagar (Tripura spine),Agartala,Khowai,D-TR-01,D-TR-03,national,2,41.19,hilly,21.4,36,lateritic,7,fair,3.82
+SEG-0040,NH-8,Agartala - Dharmanagar (Tripura spine),Khowai,Ambassa,D-TR-03,D-TR-03,national,2,29.41,hilly,11.0,60,lateritic,0,fair,1.5
+SEG-0041,NH-8,Agartala - Dharmanagar (Tripura spine),Ambassa,Kailashahar,D-TR-03,D-TR-02,national,2,45.87,hilly,16.2,52,lateritic,2,good,17.31
+SEG-0042,NH-8,Agartala - Dharmanagar (Tripura spine),Kailashahar,Dharmanagar,D-TR-02,D-TR-02,national,2,16.18,hilly,9.1,45,lateritic,3,poor,2.6
+SEG-0043,NH-8,Agartala - Dharmanagar (Tripura spine),Dharmanagar,Churaibari,D-TR-02,D-AS-12,national,2,17.57,hilly,20.5,34,lateritic,1,poor,12.0
+SEG-0044,NH-8,Agartala - Dharmanagar (Tripura spine),Churaibari,Karimganj,D-AS-12,D-AS-12,national,2,50.09,plain,3.8,23,alluvial,2,good,1.21
+SEG-0045,NH-8,Agartala - Dharmanagar (Tripura spine),Karimganj,Badarpur,D-AS-12,D-AS-12,national,2,23.28,plain,1.7,23,alluvial,0,good,1.94
+SEG-0046,NH-10,Siliguri - Gangtok (Sikkim's only lifeline),Siliguri,Rangpo,D-WB-01,D-SK-01,national,2,52.1,mountain,42.0,886,weathered_rock,3,fair,2.82
+SEG-0047,NH-10,Siliguri - Gangtok (Sikkim's only lifeline),Rangpo,Singtam,D-SK-01,D-SK-01,national,2,6.8,mountain,27.7,1650,weathered_rock,4,fair,8.17
+SEG-0048,NH-10,Siliguri - Gangtok (Sikkim's only lifeline),Singtam,Gangtok,D-SK-01,D-SK-01,national,2,15.63,mountain,32.0,1650,weathered_rock,0,fair,16.81
+SEG-0049,NH-310,Gangtok - Chungthang - Lachung (North Sikkim),Gangtok,Mangan,D-SK-01,D-SK-02,national,1,20.47,mountain,22.3,1450,weathered_rock,1,fair,5.27
+SEG-0050,NH-310,Gangtok - Chungthang - Lachung (North Sikkim),Mangan,Chungthang,D-SK-02,D-SK-02,national,1,14.76,mountain,33.3,1250,weathered_rock,4,poor,4.89
+SEG-0051,NH-310,Gangtok - Chungthang - Lachung (North Sikkim),Chungthang,Lachung,D-SK-02,D-SK-02,national,1,14.39,mountain,40.0,1250,weathered_rock,4,good,0.56
+SEG-0052,NH-510,Gangtok - Namchi - Gyalshing (South & West Sikkim),Gangtok,Jorethang,D-SK-01,D-SK-03,state,2,38.08,mountain,37.0,1662,weathered_rock,7,poor,10.32
+SEG-0053,NH-510,Gangtok - Namchi - Gyalshing (South & West Sikkim),Jorethang,Namchi,D-SK-03,D-SK-03,state,2,6.97,mountain,22.5,1675,weathered_rock,2,good,15.11
+SEG-0054,NH-510,Gangtok - Namchi - Gyalshing (South & West Sikkim),Namchi,Gyalshing,D-SK-03,D-SK-04,state,2,16.34,mountain,32.8,1727,weathered_rock,4,fair,16.23
+SEG-0055,NH-510,Gangtok - Namchi - Gyalshing (South & West Sikkim),Gyalshing,Yuksom,D-SK-04,D-SK-04,state,2,9.73,mountain,37.5,1780,weathered_rock,3,fair,12.17
+SEG-0056,NH-15,Tezpur - Itanagar - North Lakhimpur,Tezpur,Itanagar,D-AS-09,D-AR-01,national,2,94.3,hilly,13.0,259,lateritic,2,fair,15.63
+SEG-0057,NH-15,Tezpur - Itanagar - North Lakhimpur,Itanagar,North Lakhimpur,D-AR-01,D-AS-09,national,2,52.2,hilly,21.7,259,lateritic,0,fair,13.39
+SEG-0058,NH-13,Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat,Itanagar,Ziro,D-AR-01,D-AR-04,national,2,55.82,mountain,27.3,1002,weathered_rock,3,fair,3.29
+SEG-0059,NH-13,Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat,Ziro,Daporijo,D-AR-04,D-AR-06,national,2,61.83,mountain,35.4,1092,weathered_rock,7,fair,3.99
+SEG-0060,NH-13,Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat,Daporijo,Aalo,D-AR-06,D-AR-06,national,2,60.75,mountain,40.2,620,weathered_rock,3,fair,0.91
+SEG-0061,NH-13,Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat,Aalo,Pasighat,D-AR-06,D-AR-05,national,2,53.47,mountain,24.2,386,weathered_rock,4,fair,11.73
+SEG-0062,NH-13-W,Bhalukpong - Bomdila - Tawang (border road),Tezpur,Bhalukpong,D-AS-09,D-AR-03,national,1,44.74,mountain,28.8,1247,weathered_rock,0,good,15.85
+SEG-0063,NH-13-W,Bhalukpong - Bomdila - Tawang (border road),Bhalukpong,Bomdila,D-AR-03,D-AR-03,national,1,35.45,mountain,25.7,2415,weathered_rock,0,good,10.94
+SEG-0064,NH-13-W,Bhalukpong - Bomdila - Tawang (border road),Bomdila,Tawang,D-AR-03,D-AR-02,national,1,66.29,mountain,27.6,2731,weathered_rock,1,poor,16.24
+SEG-0065,NH-315,Pasighat - Roing - Tezu (East Arunachal),Pasighat,Roing,D-AR-05,D-AR-09,state,1,49.23,mountain,24.2,1060,weathered_rock,3,fair,8.05
+SEG-0066,NH-315,Pasighat - Roing - Tezu (East Arunachal),Roing,Tezu,D-AR-09,D-AR-07,state,1,40.68,mountain,40.9,1099,weathered_rock,1,fair,9.37
+SEG-0067,NH-315,Pasighat - Roing - Tezu (East Arunachal),Tezu,Namsai,D-AR-07,D-AR-07,state,1,38.22,hilly,17.3,231,lateritic,2,fair,7.86
+SEG-0068,NH-27-DH,Lumding - Haflong - Silchar (Dima Hasao hill route),Lumding,Haflong,D-AS-08,D-AS-07,state,1,66.95,mountain,40.7,433,weathered_rock,4,poor,10.09
+SEG-0069,NH-27-DH,Lumding - Haflong - Silchar (Dima Hasao hill route),Haflong,Silchar,D-AS-07,D-AS-06,state,1,43.86,mountain,20.0,352,weathered_rock,5,poor,8.23
+SEG-0070,NH-36,Nagaon - Diphu - Dimapur (Karbi Anglong),Nagaon,Diphu,D-AS-02,D-AS-08,state,2,93.38,hilly,17.5,123,lateritic,2,good,5.47
+SEG-0071,NH-36,Nagaon - Diphu - Dimapur (Karbi Anglong),Diphu,Dimapur,D-AS-08,D-NL-02,state,2,30.67,hilly,17.3,165,lateritic,3,fair,4.43

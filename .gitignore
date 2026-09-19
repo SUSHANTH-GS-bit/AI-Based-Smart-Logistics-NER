@@ -1,0 +1,21 @@
+# Environment variables and secrets (NEVER commit your password to Git!)
+.env
+.env.local
+*.env
+backend/.env
+!.env.example
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE configurations
+.vscode/
+.idea/

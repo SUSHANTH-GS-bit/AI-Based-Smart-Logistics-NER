@@ -1,0 +1,47 @@
+[
+  {
+    "fiscal_period": "2015-16",
+    "landslide_events": 276,
+    "fatalities": 40,
+    "road_blocking_events": 164,
+    "disruptions": 300,
+    "total_closure_hours": 23369.6,
+    "economic_loss_inr": 251596870
+  },
+  {
+    "fiscal_period": "2017-18",
+    "landslide_events": 395,
+    "fatalities": 74,
+    "road_blocking_events": 224,
+    "disruptions": 353,
+    "total_closure_hours": 18689.1,
+    "economic_loss_inr": 262319697
+  },
+  {
+    "fiscal_period": "2019-20",
+    "landslide_events": 523,
+    "fatalities": 109,
+    "road_blocking_events": 304,
+    "disruptions": 423,
+    "total_closure_hours": 27092.2,
+    "economic_loss_inr": 344821206
+  },
+  {
+    "fiscal_period": "2021-22",
+    "landslide_events": 712,
+    "fatalities": 130,
+    "road_blocking_events": 412,
+    "disruptions": 547,
+    "total_closure_hours": 28795.1,
+    "economic_loss_inr": 420399633
+  },
+  {
+    "fiscal_period": "2023-24",
+    "landslide_events": 928,
+    "fatalities": 135,
+    "road_blocking_events": 518,
+    "disruptions": 680,
+    "total_closure_hours": 36022.1,
+    "economic_loss_inr": 531157876
+  }
+]

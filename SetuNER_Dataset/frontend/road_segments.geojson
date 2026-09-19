@@ -1,0 +1,3129 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3953,
+            26.7271
+          ],
+          [
+            89.46105,
+            26.56875
+          ],
+          [
+            90.5583,
+            26.4769
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0001",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Siliguri",
+        "to_name": "Bongaigaon",
+        "from_district_id": "D-WB-01",
+        "to_district_id": "D-AS-10",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 216.84,
+        "terrain": "plain",
+        "avg_slope_deg": 4.2,
+        "elevation_m": 87,
+        "soil_type": "alluvial",
+        "bridge_count": 1,
+        "surface_quality": "good",
+        "dist_to_river_km": 3.0,
+        "risk_level": "low",
+        "risk_score": 3.268,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.5583,
+            26.4769
+          ],
+          [
+            90.75274,
+            26.4269
+          ],
+          [
+            91.005,
+            26.322
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0002",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Bongaigaon",
+        "to_name": "Barpeta Road",
+        "from_district_id": "D-AS-10",
+        "to_district_id": "D-AS-10",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 47.71,
+        "terrain": "plain",
+        "avg_slope_deg": 4.4,
+        "elevation_m": 53,
+        "soil_type": "alluvial",
+        "bridge_count": 3,
+        "surface_quality": "good",
+        "dist_to_river_km": 0.31,
+        "risk_level": "low",
+        "risk_score": 1.609,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.005,
+            26.322
+          ],
+          [
+            91.19011,
+            26.38362
+          ],
+          [
+            91.4415,
+            26.4445
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0003",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Barpeta Road",
+        "to_name": "Nalbari",
+        "from_district_id": "D-AS-10",
+        "to_district_id": "D-AS-01",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 45.56,
+        "terrain": "plain",
+        "avg_slope_deg": 2.1,
+        "elevation_m": 54,
+        "soil_type": "alluvial",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 2.67,
+        "risk_level": "low",
+        "risk_score": 1.414,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.4415,
+            26.4445
+          ],
+          [
+            91.5951,
+            26.27493
+          ],
+          [
+            91.7362,
+            26.1445
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0004",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Nalbari",
+        "to_name": "Guwahati",
+        "from_district_id": "D-AS-01",
+        "to_district_id": "D-AS-01",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 44.45,
+        "terrain": "plain",
+        "avg_slope_deg": 3.7,
+        "elevation_m": 55,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 2.85,
+        "risk_level": "low",
+        "risk_score": 1.827,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            92.2421,
+            26.22133
+          ],
+          [
+            92.684,
+            26.3464
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0005",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Guwahati",
+        "to_name": "Nagaon",
+        "from_district_id": "D-AS-01",
+        "to_district_id": "D-AS-02",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 97.15,
+        "terrain": "plain",
+        "avg_slope_deg": 2.7,
+        "elevation_m": 57,
+        "soil_type": "alluvial",
+        "bridge_count": 2,
+        "surface_quality": "good",
+        "dist_to_river_km": 0.55,
+        "risk_level": "low",
+        "risk_score": 2.028,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.684,
+            26.3464
+          ],
+          [
+            92.74926,
+            26.51442
+          ],
+          [
+            92.8,
+            26.6338
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0006",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Nagaon",
+        "to_name": "Tezpur",
+        "from_district_id": "D-AS-02",
+        "to_district_id": "D-AS-09",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 33.98,
+        "terrain": "plain",
+        "avg_slope_deg": 1.5,
+        "elevation_m": 69,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 1.95,
+        "risk_level": "low",
+        "risk_score": 2.037,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            93.35052,
+            26.60146
+          ],
+          [
+            93.96,
+            26.51
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0007",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Tezpur",
+        "to_name": "Golaghat",
+        "from_district_id": "D-AS-09",
+        "to_district_id": "D-AS-03",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 116.18,
+        "terrain": "plain",
+        "avg_slope_deg": 1.6,
+        "elevation_m": 84,
+        "soil_type": "alluvial",
+        "bridge_count": 2,
+        "surface_quality": "fair",
+        "dist_to_river_km": 2.55,
+        "risk_level": "low",
+        "risk_score": 1.314,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.96,
+            26.51
+          ],
+          [
+            94.09617,
+            26.63586
+          ],
+          [
+            94.2037,
+            26.7509
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0008",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Golaghat",
+        "to_name": "Jorhat",
+        "from_district_id": "D-AS-03",
+        "to_district_id": "D-AS-03",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 36.12,
+        "terrain": "plain",
+        "avg_slope_deg": 5.3,
+        "elevation_m": 90,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 1.07,
+        "risk_level": "low",
+        "risk_score": 2.892,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.2037,
+            26.7509
+          ],
+          [
+            94.40215,
+            26.83854
+          ],
+          [
+            94.638,
+            26.985
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0009",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Jorhat",
+        "to_name": "Sivasagar",
+        "from_district_id": "D-AS-03",
+        "to_district_id": "D-AS-11",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 50.33,
+        "terrain": "plain",
+        "avg_slope_deg": 2.4,
+        "elevation_m": 93,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.26,
+        "risk_level": "low",
+        "risk_score": 1.958,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.638,
+            26.985
+          ],
+          [
+            94.76591,
+            27.21944
+          ],
+          [
+            94.912,
+            27.4728
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0010",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Sivasagar",
+        "to_name": "Dibrugarh",
+        "from_district_id": "D-AS-11",
+        "to_district_id": "D-AS-04",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 60.63,
+        "terrain": "plain",
+        "avg_slope_deg": 4.2,
+        "elevation_m": 102,
+        "soil_type": "alluvial",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 1.21,
+        "risk_level": "low",
+        "risk_score": 4.576,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.912,
+            27.4728
+          ],
+          [
+            95.13704,
+            27.49286
+          ],
+          [
+            95.3468,
+            27.4922
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0011",
+        "highway_code": "NH-27",
+        "corridor_name": "Siliguri - Guwahati - Dibrugarh (East-West Corridor)",
+        "from_name": "Dibrugarh",
+        "to_name": "Tinsukia",
+        "from_district_id": "D-AS-04",
+        "to_district_id": "D-AS-05",
+        "importance": "national",
+        "lanes": 4,
+        "length_km": 42.95,
+        "terrain": "plain",
+        "avg_slope_deg": 5.7,
+        "elevation_m": 112,
+        "soil_type": "alluvial",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 2.97,
+        "risk_level": "low",
+        "risk_score": 1.917,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.84237,
+            26.01381
+          ],
+          [
+            91.88,
+            25.9
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0012",
+        "highway_code": "NH-6",
+        "corridor_name": "Guwahati - Shillong - Silchar",
+        "from_name": "Guwahati",
+        "to_name": "Nongpoh",
+        "from_district_id": "D-AS-01",
+        "to_district_id": "D-ML-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 30.75,
+        "terrain": "mountain",
+        "avg_slope_deg": 23.6,
+        "elevation_m": 775,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 15.25,
+        "risk_level": "medium",
+        "risk_score": 7.286,
+        "status": "restricted",
+        "estimated_delay_min": 37,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.88,
+            25.9
+          ],
+          [
+            91.8539,
+            25.72043
+          ],
+          [
+            91.8933,
+            25.5788
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0013",
+        "highway_code": "NH-6",
+        "corridor_name": "Guwahati - Shillong - Silchar",
+        "from_name": "Nongpoh",
+        "to_name": "Shillong",
+        "from_district_id": "D-ML-01",
+        "to_district_id": "D-ML-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 35.74,
+        "terrain": "mountain",
+        "avg_slope_deg": 37.1,
+        "elevation_m": 1496,
+        "soil_type": "weathered_rock",
+        "bridge_count": 5,
+        "surface_quality": "poor",
+        "dist_to_river_km": 5.19,
+        "risk_level": "high",
+        "risk_score": 13.934,
+        "status": "restricted",
+        "estimated_delay_min": 51,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.8933,
+            25.5788
+          ],
+          [
+            92.073,
+            25.5454
+          ],
+          [
+            92.2,
+            25.45
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0014",
+        "highway_code": "NH-6",
+        "corridor_name": "Guwahati - Shillong - Silchar",
+        "from_name": "Shillong",
+        "to_name": "Jowai",
+        "from_district_id": "D-ML-01",
+        "to_district_id": "D-ML-02",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 33.95,
+        "terrain": "mountain",
+        "avg_slope_deg": 24.6,
+        "elevation_m": 1438,
+        "soil_type": "weathered_rock",
+        "bridge_count": 5,
+        "surface_quality": "fair",
+        "dist_to_river_km": 11.97,
+        "risk_level": "high",
+        "risk_score": 14.083,
+        "status": "blocked",
+        "estimated_delay_min": 181,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.2,
+            25.45
+          ],
+          [
+            92.39212,
+            25.18887
+          ],
+          [
+            92.59,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0015",
+        "highway_code": "NH-6",
+        "corridor_name": "Guwahati - Shillong - Silchar",
+        "from_name": "Jowai",
+        "to_name": "Badarpur",
+        "from_district_id": "D-ML-02",
+        "to_district_id": "D-AS-12",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 75.53,
+        "terrain": "mountain",
+        "avg_slope_deg": 28.7,
+        "elevation_m": 701,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 4.82,
+        "risk_level": "medium",
+        "risk_score": 9.445,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.59,
+            24.8697
+          ],
+          [
+            92.69037,
+            24.83489
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0016",
+        "highway_code": "NH-6",
+        "corridor_name": "Guwahati - Shillong - Silchar",
+        "from_name": "Badarpur",
+        "to_name": "Silchar",
+        "from_district_id": "D-AS-12",
+        "to_district_id": "D-AS-06",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 19.48,
+        "terrain": "plain",
+        "avg_slope_deg": 3.8,
+        "elevation_m": 24,
+        "soil_type": "alluvial",
+        "bridge_count": 4,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.58,
+        "risk_level": "low",
+        "risk_score": 1.497,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.7362,
+            26.1445
+          ],
+          [
+            91.176,
+            26.13028
+          ],
+          [
+            90.6167,
+            26.1667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0017",
+        "highway_code": "NH-27-SPUR",
+        "corridor_name": "Guwahati - Tura (Garo Hills)",
+        "from_name": "Guwahati",
+        "to_name": "Goalpara",
+        "from_district_id": "D-AS-01",
+        "to_district_id": "D-AS-10",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 111.76,
+        "terrain": "plain",
+        "avg_slope_deg": 6.0,
+        "elevation_m": 54,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 0.78,
+        "risk_level": "low",
+        "risk_score": 2.322,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.6167,
+            26.1667
+          ],
+          [
+            90.4164,
+            25.85308
+          ],
+          [
+            90.2026,
+            25.5142
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0018",
+        "highway_code": "NH-27-SPUR",
+        "corridor_name": "Guwahati - Tura (Garo Hills)",
+        "from_name": "Goalpara",
+        "to_name": "Tura",
+        "from_district_id": "D-AS-10",
+        "to_district_id": "D-ML-03",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 83.56,
+        "terrain": "hilly",
+        "avg_slope_deg": 10.2,
+        "elevation_m": 139,
+        "soil_type": "lateritic",
+        "bridge_count": 6,
+        "surface_quality": "poor",
+        "dist_to_river_km": 10.93,
+        "risk_level": "low",
+        "risk_score": 5.767,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.2026,
+            25.5142
+          ],
+          [
+            90.41503,
+            25.4847
+          ],
+          [
+            90.62,
+            25.49
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0019",
+        "highway_code": "NH-27-SPUR",
+        "corridor_name": "Guwahati - Tura (Garo Hills)",
+        "from_name": "Tura",
+        "to_name": "Williamnagar",
+        "from_district_id": "D-ML-03",
+        "to_district_id": "D-ML-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 41.98,
+        "terrain": "hilly",
+        "avg_slope_deg": 14.6,
+        "elevation_m": 337,
+        "soil_type": "lateritic",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 12.43,
+        "risk_level": "low",
+        "risk_score": 5.417,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            90.62,
+            25.49
+          ],
+          [
+            90.63487,
+            25.32368
+          ],
+          [
+            90.63,
+            25.19
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0020",
+        "highway_code": "NH-27-SPUR",
+        "corridor_name": "Guwahati - Tura (Garo Hills)",
+        "from_name": "Williamnagar",
+        "to_name": "Baghmara",
+        "from_district_id": "D-ML-04",
+        "to_district_id": "D-ML-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 33.37,
+        "terrain": "hilly",
+        "avg_slope_deg": 15.5,
+        "elevation_m": 450,
+        "soil_type": "lateritic",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 8.11,
+        "risk_level": "low",
+        "risk_score": 5.864,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.7276,
+            25.9063
+          ],
+          [
+            93.94441,
+            25.82247
+          ],
+          [
+            94.1086,
+            25.6751
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0021",
+        "highway_code": "NH-2",
+        "corridor_name": "Dimapur - Kohima - Imphal (lifeline to Manipur)",
+        "from_name": "Dimapur",
+        "to_name": "Kohima",
+        "from_district_id": "D-NL-02",
+        "to_district_id": "D-NL-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 46.0,
+        "terrain": "mountain",
+        "avg_slope_deg": 30.0,
+        "elevation_m": 794,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 9.38,
+        "risk_level": "medium",
+        "risk_score": 7.702,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.1086,
+            25.6751
+          ],
+          [
+            94.13822,
+            25.59632
+          ],
+          [
+            94.12,
+            25.5
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0022",
+        "highway_code": "NH-2",
+        "corridor_name": "Dimapur - Kohima - Imphal (lifeline to Manipur)",
+        "from_name": "Kohima",
+        "to_name": "Mao Gate",
+        "from_district_id": "D-NL-01",
+        "to_district_id": "D-MN-05",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 19.5,
+        "terrain": "mountain",
+        "avg_slope_deg": 22.3,
+        "elevation_m": 1252,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 7.04,
+        "risk_level": "medium",
+        "risk_score": 7.184,
+        "status": "restricted",
+        "estimated_delay_min": 43,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.12,
+            25.5
+          ],
+          [
+            94.09957,
+            25.41674
+          ],
+          [
+            94.02,
+            25.27
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0023",
+        "highway_code": "NH-2",
+        "corridor_name": "Dimapur - Kohima - Imphal (lifeline to Manipur)",
+        "from_name": "Mao Gate",
+        "to_name": "Senapati",
+        "from_district_id": "D-MN-05",
+        "to_district_id": "D-MN-05",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 27.48,
+        "terrain": "mountain",
+        "avg_slope_deg": 23.6,
+        "elevation_m": 1061,
+        "soil_type": "weathered_rock",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 9.05,
+        "risk_level": "medium",
+        "risk_score": 7.83,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.02,
+            25.27
+          ],
+          [
+            94.01237,
+            25.03391
+          ],
+          [
+            93.9368,
+            24.817
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0024",
+        "highway_code": "NH-2",
+        "corridor_name": "Dimapur - Kohima - Imphal (lifeline to Manipur)",
+        "from_name": "Senapati",
+        "to_name": "Imphal",
+        "from_district_id": "D-MN-05",
+        "to_district_id": "D-MN-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 51.06,
+        "terrain": "mountain",
+        "avg_slope_deg": 22.5,
+        "elevation_m": 923,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 1.51,
+        "risk_level": "low",
+        "risk_score": 6.353,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.1086,
+            25.6751
+          ],
+          [
+            94.1553,
+            25.91634
+          ],
+          [
+            94.26,
+            26.095
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0025",
+        "highway_code": "NH-29",
+        "corridor_name": "Kohima - Mokokchung - Tuensang",
+        "from_name": "Kohima",
+        "to_name": "Wokha",
+        "from_district_id": "D-NL-01",
+        "to_district_id": "D-NL-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 49.09,
+        "terrain": "mountain",
+        "avg_slope_deg": 39.3,
+        "elevation_m": 1378,
+        "soil_type": "weathered_rock",
+        "bridge_count": 7,
+        "surface_quality": "good",
+        "dist_to_river_km": 17.61,
+        "risk_level": "high",
+        "risk_score": 10.24,
+        "status": "blocked",
+        "estimated_delay_min": 737,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.26,
+            26.095
+          ],
+          [
+            94.39868,
+            26.1823
+          ],
+          [
+            94.515,
+            26.322
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0026",
+        "highway_code": "NH-29",
+        "corridor_name": "Kohima - Mokokchung - Tuensang",
+        "from_name": "Wokha",
+        "to_name": "Mokokchung",
+        "from_district_id": "D-NL-04",
+        "to_district_id": "D-NL-03",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 35.84,
+        "terrain": "mountain",
+        "avg_slope_deg": 31.7,
+        "elevation_m": 1319,
+        "soil_type": "weathered_rock",
+        "bridge_count": 2,
+        "surface_quality": "fair",
+        "dist_to_river_km": 9.73,
+        "risk_level": "high",
+        "risk_score": 9.829,
+        "status": "restricted",
+        "estimated_delay_min": 28,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.515,
+            26.322
+          ],
+          [
+            94.70252,
+            26.33351
+          ],
+          [
+            94.83,
+            26.28
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0027",
+        "highway_code": "NH-29",
+        "corridor_name": "Kohima - Mokokchung - Tuensang",
+        "from_name": "Mokokchung",
+        "to_name": "Tuensang",
+        "from_district_id": "D-NL-03",
+        "to_district_id": "D-NL-05",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 31.75,
+        "terrain": "mountain",
+        "avg_slope_deg": 33.3,
+        "elevation_m": 1348,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 7.48,
+        "risk_level": "medium",
+        "risk_score": 8.975,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9368,
+            24.817
+          ],
+          [
+            93.75137,
+            24.88964
+          ],
+          [
+            93.51,
+            24.98
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0028",
+        "highway_code": "NH-37",
+        "corridor_name": "Imphal - Tamenglong - Silchar (alternate to Manipur)",
+        "from_name": "Imphal",
+        "to_name": "Tamenglong",
+        "from_district_id": "D-MN-01",
+        "to_district_id": "D-MN-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 46.71,
+        "terrain": "mountain",
+        "avg_slope_deg": 34.8,
+        "elevation_m": 1023,
+        "soil_type": "weathered_rock",
+        "bridge_count": 7,
+        "surface_quality": "good",
+        "dist_to_river_km": 4.84,
+        "risk_level": "high",
+        "risk_score": 10.933,
+        "status": "restricted",
+        "estimated_delay_min": 96,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.51,
+            24.98
+          ],
+          [
+            93.31877,
+            24.85647
+          ],
+          [
+            93.12,
+            24.8
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0029",
+        "highway_code": "NH-37",
+        "corridor_name": "Imphal - Tamenglong - Silchar (alternate to Manipur)",
+        "from_name": "Tamenglong",
+        "to_name": "Jiribam",
+        "from_district_id": "D-MN-04",
+        "to_district_id": "D-MN-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 44.14,
+        "terrain": "mountain",
+        "avg_slope_deg": 21.4,
+        "elevation_m": 1260,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.74,
+        "risk_level": "medium",
+        "risk_score": 7.869,
+        "status": "restricted",
+        "estimated_delay_min": 91,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.12,
+            24.8
+          ],
+          [
+            92.97783,
+            24.79768
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0030",
+        "highway_code": "NH-37",
+        "corridor_name": "Imphal - Tamenglong - Silchar (alternate to Manipur)",
+        "from_name": "Jiribam",
+        "to_name": "Silchar",
+        "from_district_id": "D-MN-04",
+        "to_district_id": "D-AS-06",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 34.62,
+        "terrain": "mountain",
+        "avg_slope_deg": 33.9,
+        "elevation_m": 642,
+        "soil_type": "weathered_rock",
+        "bridge_count": 5,
+        "surface_quality": "good",
+        "dist_to_river_km": 9.5,
+        "risk_level": "medium",
+        "risk_score": 9.666,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6833,
+            24.3333
+          ],
+          [
+            93.8128,
+            24.57413
+          ],
+          [
+            93.9368,
+            24.817
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0031",
+        "highway_code": "NH-2-S",
+        "corridor_name": "Imphal - Churachandpur - Ukhrul",
+        "from_name": "Churachandpur",
+        "to_name": "Imphal",
+        "from_district_id": "D-MN-02",
+        "to_district_id": "D-MN-01",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 59.58,
+        "terrain": "mountain",
+        "avg_slope_deg": 26.1,
+        "elevation_m": 850,
+        "soil_type": "weathered_rock",
+        "bridge_count": 7,
+        "surface_quality": "fair",
+        "dist_to_river_km": 14.23,
+        "risk_level": "medium",
+        "risk_score": 6.613,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.9368,
+            24.817
+          ],
+          [
+            94.12354,
+            24.91183
+          ],
+          [
+            94.3667,
+            25.05
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0032",
+        "highway_code": "NH-2-S",
+        "corridor_name": "Imphal - Churachandpur - Ukhrul",
+        "from_name": "Imphal",
+        "to_name": "Ukhrul",
+        "from_district_id": "D-MN-01",
+        "to_district_id": "D-MN-03",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 50.5,
+        "terrain": "mountain",
+        "avg_slope_deg": 37.8,
+        "elevation_m": 1224,
+        "soil_type": "weathered_rock",
+        "bridge_count": 6,
+        "surface_quality": "fair",
+        "dist_to_river_km": 7.91,
+        "risk_level": "high",
+        "risk_score": 11.873,
+        "status": "restricted",
+        "estimated_delay_min": 100,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7789,
+            24.8333
+          ],
+          [
+            92.74159,
+            24.54269
+          ],
+          [
+            92.68,
+            24.22
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0033",
+        "highway_code": "NH-306",
+        "corridor_name": "Silchar - Aizawl - Lunglei (Mizoram lifeline)",
+        "from_name": "Silchar",
+        "to_name": "Kolasib",
+        "from_district_id": "D-AS-06",
+        "to_district_id": "D-MZ-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 68.93,
+        "terrain": "hilly",
+        "avg_slope_deg": 14.5,
+        "elevation_m": 337,
+        "soil_type": "lateritic",
+        "bridge_count": 1,
+        "surface_quality": "good",
+        "dist_to_river_km": 7.55,
+        "risk_level": "medium",
+        "risk_score": 6.604,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.68,
+            24.22
+          ],
+          [
+            92.68121,
+            23.99887
+          ],
+          [
+            92.7176,
+            23.7271
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0034",
+        "highway_code": "NH-306",
+        "corridor_name": "Silchar - Aizawl - Lunglei (Mizoram lifeline)",
+        "from_name": "Kolasib",
+        "to_name": "Aizawl",
+        "from_district_id": "D-MZ-04",
+        "to_district_id": "D-MZ-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 54.94,
+        "terrain": "mountain",
+        "avg_slope_deg": 27.5,
+        "elevation_m": 891,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "poor",
+        "dist_to_river_km": 2.95,
+        "risk_level": "medium",
+        "risk_score": 6.904,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7176,
+            23.7271
+          ],
+          [
+            92.81001,
+            23.51093
+          ],
+          [
+            92.85,
+            23.3
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0035",
+        "highway_code": "NH-306",
+        "corridor_name": "Silchar - Aizawl - Lunglei (Mizoram lifeline)",
+        "from_name": "Aizawl",
+        "to_name": "Serchhip",
+        "from_district_id": "D-MZ-01",
+        "to_district_id": "D-MZ-05",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 49.37,
+        "terrain": "mountain",
+        "avg_slope_deg": 24.0,
+        "elevation_m": 1216,
+        "soil_type": "weathered_rock",
+        "bridge_count": 1,
+        "surface_quality": "poor",
+        "dist_to_river_km": 14.64,
+        "risk_level": "medium",
+        "risk_score": 7.393,
+        "status": "restricted",
+        "estimated_delay_min": 34,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.85,
+            23.3
+          ],
+          [
+            92.80065,
+            23.06185
+          ],
+          [
+            92.73,
+            22.88
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0036",
+        "highway_code": "NH-306",
+        "corridor_name": "Silchar - Aizawl - Lunglei (Mizoram lifeline)",
+        "from_name": "Serchhip",
+        "to_name": "Lunglei",
+        "from_district_id": "D-MZ-05",
+        "to_district_id": "D-MZ-02",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 48.29,
+        "terrain": "mountain",
+        "avg_slope_deg": 38.8,
+        "elevation_m": 1084,
+        "soil_type": "weathered_rock",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 16.71,
+        "risk_level": "medium",
+        "risk_score": 9.702,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.7176,
+            23.7271
+          ],
+          [
+            93.02229,
+            23.57699
+          ],
+          [
+            93.329,
+            23.4736
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0037",
+        "highway_code": "NH-302",
+        "corridor_name": "Aizawl - Champhai (Myanmar border road)",
+        "from_name": "Aizawl",
+        "to_name": "Champhai",
+        "from_district_id": "D-MZ-01",
+        "to_district_id": "D-MZ-03",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 68.38,
+        "terrain": "mountain",
+        "avg_slope_deg": 38.7,
+        "elevation_m": 1405,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "poor",
+        "dist_to_river_km": 16.29,
+        "risk_level": "high",
+        "risk_score": 10.983,
+        "status": "restricted",
+        "estimated_delay_min": 63,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.45,
+            23.25
+          ],
+          [
+            91.36073,
+            23.5059
+          ],
+          [
+            91.2868,
+            23.8315
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0038",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Belonia",
+        "to_name": "Agartala",
+        "from_district_id": "D-TR-04",
+        "to_district_id": "D-TR-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 66.77,
+        "terrain": "plain",
+        "avg_slope_deg": 1.8,
+        "elevation_m": 16,
+        "soil_type": "alluvial",
+        "bridge_count": 3,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.81,
+        "risk_level": "low",
+        "risk_score": 0.815,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.2868,
+            23.8315
+          ],
+          [
+            91.4473,
+            23.98378
+          ],
+          [
+            91.6,
+            24.0667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0039",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Agartala",
+        "to_name": "Khowai",
+        "from_district_id": "D-TR-01",
+        "to_district_id": "D-TR-03",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 41.19,
+        "terrain": "hilly",
+        "avg_slope_deg": 21.4,
+        "elevation_m": 36,
+        "soil_type": "lateritic",
+        "bridge_count": 7,
+        "surface_quality": "fair",
+        "dist_to_river_km": 3.82,
+        "risk_level": "low",
+        "risk_score": 5.482,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.6,
+            24.0667
+          ],
+          [
+            91.7415,
+            23.96909
+          ],
+          [
+            91.85,
+            23.9333
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0040",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Khowai",
+        "to_name": "Ambassa",
+        "from_district_id": "D-TR-03",
+        "to_district_id": "D-TR-03",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 29.41,
+        "terrain": "hilly",
+        "avg_slope_deg": 11.0,
+        "elevation_m": 60,
+        "soil_type": "lateritic",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 1.5,
+        "risk_level": "low",
+        "risk_score": 5.416,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            91.85,
+            23.9333
+          ],
+          [
+            91.95804,
+            24.1252
+          ],
+          [
+            92.0167,
+            24.3167
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0041",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Ambassa",
+        "to_name": "Kailashahar",
+        "from_district_id": "D-TR-03",
+        "to_district_id": "D-TR-02",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 45.87,
+        "terrain": "hilly",
+        "avg_slope_deg": 16.2,
+        "elevation_m": 52,
+        "soil_type": "lateritic",
+        "bridge_count": 2,
+        "surface_quality": "good",
+        "dist_to_river_km": 17.31,
+        "risk_level": "low",
+        "risk_score": 4.792,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.0167,
+            24.3167
+          ],
+          [
+            92.09835,
+            24.31971
+          ],
+          [
+            92.1667,
+            24.3667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0042",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Kailashahar",
+        "to_name": "Dharmanagar",
+        "from_district_id": "D-TR-02",
+        "to_district_id": "D-TR-02",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 16.18,
+        "terrain": "hilly",
+        "avg_slope_deg": 9.1,
+        "elevation_m": 45,
+        "soil_type": "lateritic",
+        "bridge_count": 3,
+        "surface_quality": "poor",
+        "dist_to_river_km": 2.6,
+        "risk_level": "low",
+        "risk_score": 5.486,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.1667,
+            24.3667
+          ],
+          [
+            92.25497,
+            24.37559
+          ],
+          [
+            92.33,
+            24.42
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0043",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Dharmanagar",
+        "to_name": "Churaibari",
+        "from_district_id": "D-TR-02",
+        "to_district_id": "D-AS-12",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 17.57,
+        "terrain": "hilly",
+        "avg_slope_deg": 20.5,
+        "elevation_m": 34,
+        "soil_type": "lateritic",
+        "bridge_count": 1,
+        "surface_quality": "poor",
+        "dist_to_river_km": 12.0,
+        "risk_level": "medium",
+        "risk_score": 6.991,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.33,
+            24.42
+          ],
+          [
+            92.32785,
+            24.632
+          ],
+          [
+            92.3592,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0044",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Churaibari",
+        "to_name": "Karimganj",
+        "from_district_id": "D-AS-12",
+        "to_district_id": "D-AS-12",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 50.09,
+        "terrain": "plain",
+        "avg_slope_deg": 3.8,
+        "elevation_m": 23,
+        "soil_type": "alluvial",
+        "bridge_count": 2,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.21,
+        "risk_level": "low",
+        "risk_score": 1.997,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.3592,
+            24.8697
+          ],
+          [
+            92.47161,
+            24.87989
+          ],
+          [
+            92.59,
+            24.8697
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0045",
+        "highway_code": "NH-8",
+        "corridor_name": "Agartala - Dharmanagar (Tripura spine)",
+        "from_name": "Karimganj",
+        "to_name": "Badarpur",
+        "from_district_id": "D-AS-12",
+        "to_district_id": "D-AS-12",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 23.28,
+        "terrain": "plain",
+        "avg_slope_deg": 1.7,
+        "elevation_m": 23,
+        "soil_type": "alluvial",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 1.94,
+        "risk_level": "low",
+        "risk_score": 0.232,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.3953,
+            26.7271
+          ],
+          [
+            88.43278,
+            26.98828
+          ],
+          [
+            88.53,
+            27.18
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0046",
+        "highway_code": "NH-10",
+        "corridor_name": "Siliguri - Gangtok (Sikkim's only lifeline)",
+        "from_name": "Siliguri",
+        "to_name": "Rangpo",
+        "from_district_id": "D-WB-01",
+        "to_district_id": "D-SK-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 52.1,
+        "terrain": "mountain",
+        "avg_slope_deg": 42.0,
+        "elevation_m": 886,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 2.82,
+        "risk_level": "high",
+        "risk_score": 12.998,
+        "status": "blocked",
+        "estimated_delay_min": 888,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.53,
+            27.18
+          ],
+          [
+            88.4971,
+            27.17732
+          ],
+          [
+            88.5,
+            27.235
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0047",
+        "highway_code": "NH-10",
+        "corridor_name": "Siliguri - Gangtok (Sikkim's only lifeline)",
+        "from_name": "Rangpo",
+        "to_name": "Singtam",
+        "from_district_id": "D-SK-01",
+        "to_district_id": "D-SK-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 6.8,
+        "terrain": "mountain",
+        "avg_slope_deg": 27.7,
+        "elevation_m": 1650,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 8.17,
+        "risk_level": "medium",
+        "risk_score": 8.298,
+        "status": "restricted",
+        "estimated_delay_min": 32,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.5,
+            27.235
+          ],
+          [
+            88.58712,
+            27.27313
+          ],
+          [
+            88.6065,
+            27.3389
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0048",
+        "highway_code": "NH-10",
+        "corridor_name": "Siliguri - Gangtok (Sikkim's only lifeline)",
+        "from_name": "Singtam",
+        "to_name": "Gangtok",
+        "from_district_id": "D-SK-01",
+        "to_district_id": "D-SK-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 15.63,
+        "terrain": "mountain",
+        "avg_slope_deg": 32.0,
+        "elevation_m": 1650,
+        "soil_type": "weathered_rock",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 16.81,
+        "risk_level": "medium",
+        "risk_score": 7.993,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.6065,
+            27.3389
+          ],
+          [
+            88.55176,
+            27.45092
+          ],
+          [
+            88.53,
+            27.51
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0049",
+        "highway_code": "NH-310",
+        "corridor_name": "Gangtok - Chungthang - Lachung (North Sikkim)",
+        "from_name": "Gangtok",
+        "to_name": "Mangan",
+        "from_district_id": "D-SK-01",
+        "to_district_id": "D-SK-02",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 20.47,
+        "terrain": "mountain",
+        "avg_slope_deg": 22.3,
+        "elevation_m": 1450,
+        "soil_type": "weathered_rock",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 5.27,
+        "risk_level": "medium",
+        "risk_score": 8.748,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.53,
+            27.51
+          ],
+          [
+            88.56425,
+            27.57023
+          ],
+          [
+            88.64,
+            27.6
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0050",
+        "highway_code": "NH-310",
+        "corridor_name": "Gangtok - Chungthang - Lachung (North Sikkim)",
+        "from_name": "Mangan",
+        "to_name": "Chungthang",
+        "from_district_id": "D-SK-02",
+        "to_district_id": "D-SK-02",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 14.76,
+        "terrain": "mountain",
+        "avg_slope_deg": 33.3,
+        "elevation_m": 1250,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "poor",
+        "dist_to_river_km": 4.89,
+        "risk_level": "medium",
+        "risk_score": 9.358,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.64,
+            27.6
+          ],
+          [
+            88.7019,
+            27.61356
+          ],
+          [
+            88.745,
+            27.69
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0051",
+        "highway_code": "NH-310",
+        "corridor_name": "Gangtok - Chungthang - Lachung (North Sikkim)",
+        "from_name": "Chungthang",
+        "to_name": "Lachung",
+        "from_district_id": "D-SK-02",
+        "to_district_id": "D-SK-02",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 14.39,
+        "terrain": "mountain",
+        "avg_slope_deg": 40.0,
+        "elevation_m": 1250,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "good",
+        "dist_to_river_km": 0.56,
+        "risk_level": "medium",
+        "risk_score": 8.213,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.6065,
+            27.3389
+          ],
+          [
+            88.44659,
+            27.23405
+          ],
+          [
+            88.32,
+            27.11
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0052",
+        "highway_code": "NH-510",
+        "corridor_name": "Gangtok - Namchi - Gyalshing (South & West Sikkim)",
+        "from_name": "Gangtok",
+        "to_name": "Jorethang",
+        "from_district_id": "D-SK-01",
+        "to_district_id": "D-SK-03",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 38.08,
+        "terrain": "mountain",
+        "avg_slope_deg": 37.0,
+        "elevation_m": 1662,
+        "soil_type": "weathered_rock",
+        "bridge_count": 7,
+        "surface_quality": "poor",
+        "dist_to_river_km": 10.32,
+        "risk_level": "high",
+        "risk_score": 12.349,
+        "status": "blocked",
+        "estimated_delay_min": 900,
+        "color": "#C0392B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.32,
+            27.11
+          ],
+          [
+            88.34837,
+            27.1695
+          ],
+          [
+            88.35,
+            27.1667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0053",
+        "highway_code": "NH-510",
+        "corridor_name": "Gangtok - Namchi - Gyalshing (South & West Sikkim)",
+        "from_name": "Jorethang",
+        "to_name": "Namchi",
+        "from_district_id": "D-SK-03",
+        "to_district_id": "D-SK-03",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 6.97,
+        "terrain": "mountain",
+        "avg_slope_deg": 22.5,
+        "elevation_m": 1675,
+        "soil_type": "weathered_rock",
+        "bridge_count": 2,
+        "surface_quality": "good",
+        "dist_to_river_km": 15.11,
+        "risk_level": "low",
+        "risk_score": 4.972,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.35,
+            27.1667
+          ],
+          [
+            88.27892,
+            27.20372
+          ],
+          [
+            88.26,
+            27.29
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0054",
+        "highway_code": "NH-510",
+        "corridor_name": "Gangtok - Namchi - Gyalshing (South & West Sikkim)",
+        "from_name": "Namchi",
+        "to_name": "Gyalshing",
+        "from_district_id": "D-SK-03",
+        "to_district_id": "D-SK-04",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 16.34,
+        "terrain": "mountain",
+        "avg_slope_deg": 32.8,
+        "elevation_m": 1727,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 16.23,
+        "risk_level": "medium",
+        "risk_score": 8.89,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88.26,
+            27.29
+          ],
+          [
+            88.26792,
+            27.35525
+          ],
+          [
+            88.22,
+            27.37
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0055",
+        "highway_code": "NH-510",
+        "corridor_name": "Gangtok - Namchi - Gyalshing (South & West Sikkim)",
+        "from_name": "Gyalshing",
+        "to_name": "Yuksom",
+        "from_district_id": "D-SK-04",
+        "to_district_id": "D-SK-04",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 9.73,
+        "terrain": "mountain",
+        "avg_slope_deg": 37.5,
+        "elevation_m": 1780,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 12.17,
+        "risk_level": "medium",
+        "risk_score": 9.022,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            93.22888,
+            26.86329
+          ],
+          [
+            93.6053,
+            27.0844
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0056",
+        "highway_code": "NH-15",
+        "corridor_name": "Tezpur - Itanagar - North Lakhimpur",
+        "from_name": "Tezpur",
+        "to_name": "Itanagar",
+        "from_district_id": "D-AS-09",
+        "to_district_id": "D-AR-01",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 94.3,
+        "terrain": "hilly",
+        "avg_slope_deg": 13.0,
+        "elevation_m": 259,
+        "soil_type": "lateritic",
+        "bridge_count": 2,
+        "surface_quality": "fair",
+        "dist_to_river_km": 15.63,
+        "risk_level": "low",
+        "risk_score": 4.453,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6053,
+            27.0844
+          ],
+          [
+            93.88185,
+            27.18145
+          ],
+          [
+            94.105,
+            27.235
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0057",
+        "highway_code": "NH-15",
+        "corridor_name": "Tezpur - Itanagar - North Lakhimpur",
+        "from_name": "Itanagar",
+        "to_name": "North Lakhimpur",
+        "from_district_id": "D-AR-01",
+        "to_district_id": "D-AS-09",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 52.2,
+        "terrain": "hilly",
+        "avg_slope_deg": 21.7,
+        "elevation_m": 259,
+        "soil_type": "lateritic",
+        "bridge_count": 0,
+        "surface_quality": "fair",
+        "dist_to_river_km": 13.39,
+        "risk_level": "low",
+        "risk_score": 5.902,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.6053,
+            27.0844
+          ],
+          [
+            93.73881,
+            27.34486
+          ],
+          [
+            93.83,
+            27.545
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0058",
+        "highway_code": "NH-13",
+        "corridor_name": "Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat",
+        "from_name": "Itanagar",
+        "to_name": "Ziro",
+        "from_district_id": "D-AR-01",
+        "to_district_id": "D-AR-04",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 55.82,
+        "terrain": "mountain",
+        "avg_slope_deg": 27.3,
+        "elevation_m": 1002,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 3.29,
+        "risk_level": "medium",
+        "risk_score": 8.476,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.83,
+            27.545
+          ],
+          [
+            93.99106,
+            27.75593
+          ],
+          [
+            94.2167,
+            27.9833
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0059",
+        "highway_code": "NH-13",
+        "corridor_name": "Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat",
+        "from_name": "Ziro",
+        "to_name": "Daporijo",
+        "from_district_id": "D-AR-04",
+        "to_district_id": "D-AR-06",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 61.83,
+        "terrain": "mountain",
+        "avg_slope_deg": 35.4,
+        "elevation_m": 1092,
+        "soil_type": "weathered_rock",
+        "bridge_count": 7,
+        "surface_quality": "fair",
+        "dist_to_river_km": 3.99,
+        "risk_level": "medium",
+        "risk_score": 7.84,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.2167,
+            27.9833
+          ],
+          [
+            94.53079,
+            28.06448
+          ],
+          [
+            94.8,
+            28.1667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0060",
+        "highway_code": "NH-13",
+        "corridor_name": "Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat",
+        "from_name": "Daporijo",
+        "to_name": "Aalo",
+        "from_district_id": "D-AR-06",
+        "to_district_id": "D-AR-06",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 60.75,
+        "terrain": "mountain",
+        "avg_slope_deg": 40.2,
+        "elevation_m": 620,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 0.91,
+        "risk_level": "medium",
+        "risk_score": 9.031,
+        "status": "restricted",
+        "estimated_delay_min": 83,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.8,
+            28.1667
+          ],
+          [
+            95.09215,
+            28.10468
+          ],
+          [
+            95.3333,
+            28.0667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0061",
+        "highway_code": "NH-13",
+        "corridor_name": "Trans-Arunachal: Itanagar - Ziro - Aalo - Pasighat",
+        "from_name": "Aalo",
+        "to_name": "Pasighat",
+        "from_district_id": "D-AR-06",
+        "to_district_id": "D-AR-05",
+        "importance": "national",
+        "lanes": 2,
+        "length_km": 53.47,
+        "terrain": "mountain",
+        "avg_slope_deg": 24.2,
+        "elevation_m": 386,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "fair",
+        "dist_to_river_km": 11.73,
+        "risk_level": "low",
+        "risk_score": 6.475,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.8,
+            26.6338
+          ],
+          [
+            92.72254,
+            26.85558
+          ],
+          [
+            92.64,
+            27.01
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0062",
+        "highway_code": "NH-13-W",
+        "corridor_name": "Bhalukpong - Bomdila - Tawang (border road)",
+        "from_name": "Tezpur",
+        "to_name": "Bhalukpong",
+        "from_district_id": "D-AS-09",
+        "to_district_id": "D-AR-03",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 44.74,
+        "terrain": "mountain",
+        "avg_slope_deg": 28.8,
+        "elevation_m": 1247,
+        "soil_type": "weathered_rock",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 15.85,
+        "risk_level": "medium",
+        "risk_score": 7.668,
+        "status": "restricted",
+        "estimated_delay_min": 108,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.64,
+            27.01
+          ],
+          [
+            92.56635,
+            27.14314
+          ],
+          [
+            92.425,
+            27.265
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0063",
+        "highway_code": "NH-13-W",
+        "corridor_name": "Bhalukpong - Bomdila - Tawang (border road)",
+        "from_name": "Bhalukpong",
+        "to_name": "Bomdila",
+        "from_district_id": "D-AR-03",
+        "to_district_id": "D-AR-03",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 35.45,
+        "terrain": "mountain",
+        "avg_slope_deg": 25.7,
+        "elevation_m": 2415,
+        "soil_type": "weathered_rock",
+        "bridge_count": 0,
+        "surface_quality": "good",
+        "dist_to_river_km": 10.94,
+        "risk_level": "low",
+        "risk_score": 5.9,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.425,
+            27.265
+          ],
+          [
+            92.13755,
+            27.44555
+          ],
+          [
+            91.859,
+            27.586
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0064",
+        "highway_code": "NH-13-W",
+        "corridor_name": "Bhalukpong - Bomdila - Tawang (border road)",
+        "from_name": "Bomdila",
+        "to_name": "Tawang",
+        "from_district_id": "D-AR-03",
+        "to_district_id": "D-AR-02",
+        "importance": "national",
+        "lanes": 1,
+        "length_km": 66.29,
+        "terrain": "mountain",
+        "avg_slope_deg": 27.6,
+        "elevation_m": 2731,
+        "soil_type": "weathered_rock",
+        "bridge_count": 1,
+        "surface_quality": "poor",
+        "dist_to_river_km": 16.24,
+        "risk_level": "medium",
+        "risk_score": 7.627,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.3333,
+            28.0667
+          ],
+          [
+            95.57717,
+            28.06646
+          ],
+          [
+            95.83,
+            28.13
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0065",
+        "highway_code": "NH-315",
+        "corridor_name": "Pasighat - Roing - Tezu (East Arunachal)",
+        "from_name": "Pasighat",
+        "to_name": "Roing",
+        "from_district_id": "D-AR-05",
+        "to_district_id": "D-AR-09",
+        "importance": "state",
+        "lanes": 1,
+        "length_km": 49.23,
+        "terrain": "mountain",
+        "avg_slope_deg": 24.2,
+        "elevation_m": 1060,
+        "soil_type": "weathered_rock",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 8.05,
+        "risk_level": "medium",
+        "risk_score": 7.14,
+        "status": "restricted",
+        "estimated_delay_min": 55,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95.83,
+            28.13
+          ],
+          [
+            96.00697,
+            28.0528
+          ],
+          [
+            96.1667,
+            27.9167
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0066",
+        "highway_code": "NH-315",
+        "corridor_name": "Pasighat - Roing - Tezu (East Arunachal)",
+        "from_name": "Roing",
+        "to_name": "Tezu",
+        "from_district_id": "D-AR-09",
+        "to_district_id": "D-AR-07",
+        "importance": "state",
+        "lanes": 1,
+        "length_km": 40.68,
+        "terrain": "mountain",
+        "avg_slope_deg": 40.9,
+        "elevation_m": 1099,
+        "soil_type": "weathered_rock",
+        "bridge_count": 1,
+        "surface_quality": "fair",
+        "dist_to_river_km": 9.37,
+        "risk_level": "medium",
+        "risk_score": 8.377,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            96.1667,
+            27.9167
+          ],
+          [
+            96.04715,
+            27.77953
+          ],
+          [
+            95.9,
+            27.6667
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0067",
+        "highway_code": "NH-315",
+        "corridor_name": "Pasighat - Roing - Tezu (East Arunachal)",
+        "from_name": "Tezu",
+        "to_name": "Namsai",
+        "from_district_id": "D-AR-07",
+        "to_district_id": "D-AR-07",
+        "importance": "state",
+        "lanes": 1,
+        "length_km": 38.22,
+        "terrain": "hilly",
+        "avg_slope_deg": 17.3,
+        "elevation_m": 231,
+        "soil_type": "lateritic",
+        "bridge_count": 2,
+        "surface_quality": "fair",
+        "dist_to_river_km": 7.86,
+        "risk_level": "low",
+        "risk_score": 6.482,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.17,
+            25.75
+          ],
+          [
+            93.12105,
+            25.46951
+          ],
+          [
+            93.0157,
+            25.1642
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0068",
+        "highway_code": "NH-27-DH",
+        "corridor_name": "Lumding - Haflong - Silchar (Dima Hasao hill route)",
+        "from_name": "Lumding",
+        "to_name": "Haflong",
+        "from_district_id": "D-AS-08",
+        "to_district_id": "D-AS-07",
+        "importance": "state",
+        "lanes": 1,
+        "length_km": 66.95,
+        "terrain": "mountain",
+        "avg_slope_deg": 40.7,
+        "elevation_m": 433,
+        "soil_type": "weathered_rock",
+        "bridge_count": 4,
+        "surface_quality": "poor",
+        "dist_to_river_km": 10.09,
+        "risk_level": "medium",
+        "risk_score": 8.403,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.0157,
+            25.1642
+          ],
+          [
+            92.89239,
+            24.98383
+          ],
+          [
+            92.7789,
+            24.8333
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0069",
+        "highway_code": "NH-27-DH",
+        "corridor_name": "Lumding - Haflong - Silchar (Dima Hasao hill route)",
+        "from_name": "Haflong",
+        "to_name": "Silchar",
+        "from_district_id": "D-AS-07",
+        "to_district_id": "D-AS-06",
+        "importance": "state",
+        "lanes": 1,
+        "length_km": 43.86,
+        "terrain": "mountain",
+        "avg_slope_deg": 20.0,
+        "elevation_m": 352,
+        "soil_type": "weathered_rock",
+        "bridge_count": 5,
+        "surface_quality": "poor",
+        "dist_to_river_km": 8.23,
+        "risk_level": "medium",
+        "risk_score": 7.683,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#E8A22A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92.684,
+            26.3464
+          ],
+          [
+            93.07756,
+            26.09398
+          ],
+          [
+            93.43,
+            25.84
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0070",
+        "highway_code": "NH-36",
+        "corridor_name": "Nagaon - Diphu - Dimapur (Karbi Anglong)",
+        "from_name": "Nagaon",
+        "to_name": "Diphu",
+        "from_district_id": "D-AS-02",
+        "to_district_id": "D-AS-08",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 93.38,
+        "terrain": "hilly",
+        "avg_slope_deg": 17.5,
+        "elevation_m": 123,
+        "soil_type": "lateritic",
+        "bridge_count": 2,
+        "surface_quality": "good",
+        "dist_to_river_km": 5.47,
+        "risk_level": "low",
+        "risk_score": 6.061,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            93.43,
+            25.84
+          ],
+          [
+            93.55034,
+            25.8815
+          ],
+          [
+            93.7276,
+            25.9063
+          ]
+        ]
+      },
+      "properties": {
+        "segment_id": "SEG-0071",
+        "highway_code": "NH-36",
+        "corridor_name": "Nagaon - Diphu - Dimapur (Karbi Anglong)",
+        "from_name": "Diphu",
+        "to_name": "Dimapur",
+        "from_district_id": "D-AS-08",
+        "to_district_id": "D-NL-02",
+        "importance": "state",
+        "lanes": 2,
+        "length_km": 30.67,
+        "terrain": "hilly",
+        "avg_slope_deg": 17.3,
+        "elevation_m": 165,
+        "soil_type": "lateritic",
+        "bridge_count": 3,
+        "surface_quality": "fair",
+        "dist_to_river_km": 4.43,
+        "risk_level": "low",
+        "risk_score": 5.622,
+        "status": "open",
+        "estimated_delay_min": 0,
+        "color": "#2C8C5E"
+      }
+    }
+  ]
+}
